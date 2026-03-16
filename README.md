@@ -15,17 +15,17 @@ Fetch any dataset directly via `raw.githubusercontent.com`:
 ```js
 // Mosque directory
 const mosques = await fetch(
-  'https://raw.githubusercontent.com/YOUR_USERNAME/muis-data-unofficial/main/mosque-directory/data.json'
+  'https://raw.githubusercontent.com/msocietyhq/muis-data-unofficial/main/mosque-directory/data.json'
 ).then(r => r.json());
 
 // ARS directory
 const ars = await fetch(
-  'https://raw.githubusercontent.com/YOUR_USERNAME/muis-data-unofficial/main/ars-directory/data.json'
+  'https://raw.githubusercontent.com/msocietyhq/muis-data-unofficial/main/ars-directory/data.json'
 ).then(r => r.json());
 
 // IECP directory
 const iecp = await fetch(
-  'https://raw.githubusercontent.com/YOUR_USERNAME/muis-data-unofficial/main/iecp-directory/data.json'
+  'https://raw.githubusercontent.com/msocietyhq/muis-data-unofficial/main/iecp-directory/data.json'
 ).then(r => r.json());
 ```
 
