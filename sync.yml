@@ -1,0 +1,78 @@
+name: Sync MUIS Directories
+
+on:
+  schedule:
+    # Run daily at 6am SGT (10pm UTC previous day)
+    - cron: '0 22 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      # ── Mosque Directory ──────────────────────────────────────────────
+      - name: Update mosque directory
+        id: mosques
+        run: node mosque-directory/scraper.mjs --update
+        continue-on-error: true
+
+      - name: Enrich mosque coordinates (if updated)
+        if: steps.mosques.outcome == 'success'
+        run: node mosque-directory/enrich-coordinates.mjs
+        continue-on-error: true
+
+      # ── ARS Directory ─────────────────────────────────────────────────
+      - name: Update ARS directory
+        id: ars
+        run: node ars-directory/scraper.mjs --update
+        continue-on-error: true
+
+      # ── IECP Directory ────────────────────────────────────────────────
+      - name: Update IECP directory
+        id: iecp
+        run: node iecp-directory/scraper.mjs --update
+        continue-on-error: true
+
+      # ── Commit ────────────────────────────────────────────────────────
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add mosque-directory/data.json ars-directory/data.json iecp-directory/data.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          # Build commit message from what changed
+          MSG="sync:"
+          if ! git diff --cached --quiet -- mosque-directory/data.json; then
+            MSG="$MSG mosques"
+          fi
+          if ! git diff --cached --quiet -- ars-directory/data.json; then
+            MSG="$MSG ars"
+          fi
+          if ! git diff --cached --quiet -- iecp-directory/data.json; then
+            MSG="$MSG iecp"
+          fi
+
+          DATE=$(date -u +"%Y-%m-%d")
+          git commit -m "${MSG} (${DATE})" \
+                      -m "Automated sync from MUIS directories."
+          git push

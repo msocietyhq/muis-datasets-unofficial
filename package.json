@@ -1,0 +1,23 @@
+{
+  "name": "muis-api-unofficial",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Unofficial structured JSON datasets from MUIS — mosques, ARS-certified asatizah, and IECPs",
+  "scripts": {
+    "scrape:mosques": "node mosque-directory/scraper.mjs",
+    "scrape:ars": "node ars-directory/scraper.mjs",
+    "scrape:iecp": "node iecp-directory/scraper.mjs",
+    "scrape:all": "npm run scrape:mosques && npm run scrape:ars && npm run scrape:iecp",
+    "update:mosques": "node mosque-directory/scraper.mjs --update",
+    "update:ars": "node ars-directory/scraper.mjs --update",
+    "update:iecp": "node iecp-directory/scraper.mjs --update",
+    "update:all": "npm run update:mosques && npm run update:ars && npm run update:iecp",
+    "enrich:mosques": "node mosque-directory/enrich-coordinates.mjs",
+    "scrape:logos": "node mosque-directory/scrape-logos.mjs"
+  },
+  "keywords": ["singapore", "muis", "mosques", "masjid", "asatizah", "ars", "iecp", "open-data", "islamic-education"],
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}

@@ -1,0 +1,1411 @@
+{
+  "meta": {
+    "source": "MUIS Mosque Directory",
+    "source_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/",
+    "last_scraped": "2026-03-16",
+    "total_count": 70,
+    "last_enriched_coordinates": "2026-03-16"
+  },
+  "mosques": [
+    {
+      "slug": "abdul-aleem-siddique",
+      "name": "Abdul Aleem Siddique",
+      "address": "90 Lorong K Telok Kurau Singapore 425723",
+      "postal_code": "425723",
+      "phone": "63460153",
+      "email": "mosque@aleemsiddique.org.sg",
+      "website": "http://www.aleemsiddique.org.sg/",
+      "description": "This one-storey generation masjid was built in 1957. Located in the East along a stretch of landed properties and low-rise private apartments, it has gone through several upgrading programmes.",
+      "features": [
+        "Barrier-free features"
+      ],
+      "coordinates": {
+        "lat": 1.31296978420023,
+        "lng": 103.912737844439
+      },
+      "logo_url": "mosque-directory/logos/abdul-aleem-siddique.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-aleem-siddique/"
+    },
+    {
+      "slug": "abdul-gafoor",
+      "name": "Abdul Gafoor",
+      "address": "41 Dunlop Street Singapore 209369",
+      "postal_code": "209369",
+      "phone": "62954209",
+      "email": "info@abdgafoor.mosque.org.sg",
+      "website": null,
+      "description": "Originally built in 1859, this masjid with its unique architecture has earned the distinction as one of Singapore's national monuments. It has an unabashed mélange of styles – a mix of Southern Indian, Moghul and Europeans influences. Located in the Central part of Singapore, it has since been redeveloped (re-opened in 1998) with a capacity of 3000 and offers madrasah classes in Tamil besides its usual religious classes.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.30448398785878,
+        "lng": 103.85368950305
+      },
+      "logo_url": "mosque-directory/logos/abdul-gafoor.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-gafoor/"
+    },
+    {
+      "slug": "abdul-hamid-kampung-pasiran",
+      "name": "Abdul Hamid Kampung Pasiran",
+      "address": "10 Gentle Road Singapore 309194",
+      "postal_code": "309194",
+      "phone": "62512729",
+      "email": null,
+      "website": null,
+      "description": "This old generation masjid built in 1932 in the Central part of the island serves the needs of office workers around Newton and Novena. With a capacity of 300, the masjid, which has retained much of its original structure, offers religious studies twice a week. Recently, a full-time imam (religious teacher) was employed to lead the five prayers in the masjid. It underwent major repair works in 1995.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.3200022820931,
+        "lng": 103.841044275779
+      },
+      "logo_url": "mosque-directory/logos/abdul-hamid-kampung-pasiran.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-hamid-kampung-pasiran/"
+    },
+    {
+      "slug": "ahmad",
+      "name": "Ahmad",
+      "address": "2 Lorong Sarhad Singapore 119173",
+      "postal_code": "119173",
+      "phone": "64796442",
+      "email": "info@ahmad.mosque.org.sg",
+      "website": null,
+      "description": "Originally a typical kampung mosque built in 1934 on a piece of land given by a Mr Ahmat Yahya, the mosque has been redeveloped with better facilities. Located in the Central part of the island, the masjid serves the residents and workers around the area.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.28087205102099,
+        "lng": 103.787212133994
+      },
+      "logo_url": "mosque-directory/logos/ahmad.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/ahmad/"
+    },
+    {
+      "slug": "ahmad-ibrahim",
+      "name": "Ahmad Ibrahim",
+      "address": "15 Jalan Ulu Seletar Singapore 769227",
+      "postal_code": "769227",
+      "phone": "64540848",
+      "email": "info@ahmadibrahim.mosque.org.sg",
+      "website": null,
+      "description": "Built in 1958, this old generation zinc-roofed mosque located in the North part of the island serves the religious needs of Muslim living and working in the vicinity. It can accommodate 200 Muslims at any one time. It offers nursery, kindergarten and weekend madrasah classes for children of nearby residents. Altogether, a total of 480 children attend classes at various times, at the masjid. Since the ‘70s, there have been several renovation and repair works carried out.",
+      "features": [
+        "Zakat Collection Centre"
+      ],
+      "coordinates": {
+        "lat": 1.40666760695317,
+        "lng": 103.820437015547
+      },
+      "logo_url": "mosque-directory/logos/ahmad-ibrahim.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/ahmad-ibrahim/"
+    },
+    {
+      "slug": "al-abdul-razak",
+      "name": "Al-Abdul Razak",
+      "address": "30 Jalan Ismail Singapore 419285",
+      "postal_code": "419285",
+      "phone": "68468404",
+      "email": "admin@abdrazak.mosque.org.sg",
+      "website": "http://www.alabdulrazak.com/",
+      "description": "Nested amidst the private house of the well-to-do Malays in the East, this old generation masjid was built in 1965. The masjid with a capacity of 300, underwent minor renovations in 1997 to include additional facilities. It has a full-time imam (religious teacher) and noja (masjid helper). Religious classes are held on an ad-hoc basis. There are religious classes for the ladies every Thursday evening. Classes for the men are held every Friday evening.",
+      "features": [
+        "Zakat Collection Centre"
+      ],
+      "coordinates": {
+        "lat": 1.32339895187489,
+        "lng": 103.907302807628
+      },
+      "logo_url": "mosque-directory/logos/al-abdul-razak.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-abdul-razak/"
+    },
+    {
+      "slug": "al-abrar",
+      "name": "Al-Abrar",
+      "address": "192 Telok Ayer Street Singapore 068635",
+      "postal_code": "068635",
+      "phone": "62206306",
+      "email": null,
+      "website": null,
+      "description": "The masjid, which bears the imprint of South Indian architecture in its narrow frontages, which are defined by two minaret-style towers, was founded in 1827. But it was only in 1855, that a formal building was set up. In 1974, the old generation masjid located in Central Singapore was gazetted as one of the national monuments. With a capacity of 500, it serves the needs of office workers in the Shenton Road area. Unlike neighbourhood masjids, which spring to life in the evening, this masjid is relatively quiet except for its occasional Tafsir Al-Quran (Al-Quran interpretation) courses.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.28032210562498,
+        "lng": 103.847216983935
+      },
+      "logo_url": null,
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-abrar/"
+    },
+    {
+      "slug": "al-amin",
+      "name": "Al-Amin",
+      "address": "50 Telok Blangah Way Singapore 098801",
+      "postal_code": "098801",
+      "phone": "62725309",
+      "email": "alamin@alamin.mosque.org.sg",
+      "website": "https://alaminmosque.mimbar.sg/organization/168?p=events",
+      "description": "Inspired by Sumatran Minang architecture, this masjid with its brown structure stands out from the high-rise housing estate in Telok Blangah. Located at the Central District, it was built in 1991 with resources from the Mosque Building Fund. With a capacity of 3000, the masjid offers weekend madrasah and weekday classes to a total of 600 children. Islamic knowledge classes are also held during the evening.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.27520461393923,
+        "lng": 103.81927883949
+      },
+      "logo_url": "mosque-directory/logos/al-amin.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-amin/"
+    },
+    {
+      "slug": "al-ansar",
+      "name": "Al-Ansar",
+      "address": "155 Bedok North Avenue 1 Singapore 469751",
+      "postal_code": "469751",
+      "phone": "64492420",
+      "email": "mail@alansar.mosque.sg",
+      "website": "http://alansarmosque.sg",
+      "description": "Al-Ansar with its prominent tower minaret is among the first few masjids built under the Phase One of the Mosque Building Fund. Completed in 1981, the masjid located in the East can fill up to 3000 people at any one time. Located in the heart of the densely populated Bedok housing estate, the masjid offers madrasah classes. It is also one of the few masjids, which organizes religious classes in Tamil and one of the only two masjids with a full-time welfare officer.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.32698962835046,
+        "lng": 103.926353894001
+      },
+      "logo_url": "mosque-directory/logos/al-ansar.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-ansar/"
+    },
+    {
+      "slug": "al-falah",
+      "name": "Al-Falah",
+      "address": "22 Bideford Road #01-01 Singapore 229923",
+      "postal_code": "229923",
+      "phone": "62353172",
+      "email": "alfalah@alfalah.mosque.org.sg",
+      "website": "http://www.alfalah.org.sg",
+      "description": "Located a mere two-minute walk from busy Orchard Road, the masjid is unique for it is housed in the basement of a commercial building. While it has little architecture to speak of, it is an important religious icon in the bustling town area and serves the needs of workers in the nearby offices and departmental stores. Built in 1987, it can accommodate up to 1500 people. Its forte is in its strong youth movement and family development unit. The masjid organizes youth camps and expeditions to nearby countries.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "Adult Islamic Learning"
+      ],
+      "coordinates": {
+        "lat": 1.3037754296615,
+        "lng": 103.836653682351
+      },
+      "logo_url": "mosque-directory/logos/al-falah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-falah/"
+    },
+    {
+      "slug": "al-firdaus",
+      "name": "Al-Firdaus",
+      "address": "11 Jalan Ibadat Singapore 698955",
+      "postal_code": "698955",
+      "phone": "67646334",
+      "email": "alfirdaus@alfirdaus.mosque.org.sg",
+      "website": "https://www.masjidalfirdaus.sg/",
+      "description": "This old generation masjid was built in 1962, off Choa Chu Kang road.  In 1999, it was rebuilt. Today, it can accommodate up to 200 people, providing religious classes for adults and serving the needs of the nearby residents.",
+      "features": [
+        "aLIVE Islamic Learning"
+      ],
+      "coordinates": {
+        "lat": 1.37496290426076,
+        "lng": 103.71645968696
+      },
+      "logo_url": "mosque-directory/logos/al-firdaus.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-firdaus/"
+    },
+    {
+      "slug": "al-huda",
+      "name": "Al-Huda",
+      "address": "34 Jalan Haji Alias Singapore 268534",
+      "postal_code": "268534",
+      "phone": "64684844",
+      "email": null,
+      "website": "http://www.alhuda.sg/",
+      "description": "In the past, this old generation masjid served the needs of residents living in the Malay kampung near Sixth Avenue, Bukit Timah. With resettlement, the masjid located in the Central area now serves the workers in Bukit Timah area and some residents nearby. Built in 1966, the masjid, which can accommodate up to 400 people, has undergone several renovations. Its activities are confined to daily and Friday prayers as well as celebrations of Islamic festivities.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.32318810145539,
+        "lng": 103.794916529327
+      },
+      "logo_url": "mosque-directory/logos/al-huda.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-huda/"
+    },
+    {
+      "slug": "al-iman",
+      "name": "Al-Iman",
+      "address": "10 Bukit Panjang Ring Road Singapore 679943",
+      "postal_code": "679943",
+      "phone": "67690770",
+      "email": "aliman@aliman.mosque.org.sg",
+      "website": "http://www.alimanmosque.org.sg",
+      "description": "The four-storey Mosque was opened for prayers on 2 May 2003. It could accommodate about 5,000 jemaah in one congregation. The building comprises a basement car park, 18 classrooms, auditorium for 130 people, a computer room and a lift serving all floors.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.37814088359883,
+        "lng": 103.772732863586
+      },
+      "logo_url": "mosque-directory/logos/al-iman.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-iman/"
+    },
+    {
+      "slug": "al-islah",
+      "name": "Al-Islah",
+      "address": "30, Punggol Field Singapore 828812",
+      "postal_code": "828812",
+      "phone": "63125194",
+      "email": "info@islah.mosque.org.sg",
+      "website": "https://alislah.sg",
+      "description": "Al-Islah Mosque is the second mosque built under Phase 4 of the Mosque Building Programme. With its capacity for 4,000 congregants, Al-Islah Mosque will be able to serve the growing Muslim community in Punggol and the surrounding neighbourhoods, as well as ease the prayer space crunch on Fridays and Eid for Muslims in the eastern part of Singapore.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning"
+      ],
+      "coordinates": {
+        "lat": 1.40124380624977,
+        "lng": 103.901498997391
+      },
+      "logo_url": "mosque-directory/logos/al-islah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-islah/"
+    },
+    {
+      "slug": "al-istighfar",
+      "name": "Al-Istighfar",
+      "address": "2 Pasir Ris Walk Singapore 518239",
+      "postal_code": "518239",
+      "phone": "64267130",
+      "email": "alistighfar@alistighfar.mosque.org.sg",
+      "website": null,
+      "description": "This three-storey masjid is one of the most recent mosques built under Phase Three of the Mosque Building Fund. Completed in June 1999, it is located in the East, along Pasir Ris Drive 3. it can be recognized by its outstanding blue dome and modern yet Islamic architecture. The masjid, which can accommodate a congregation of 3300 people offers madrasah and kindergarten classes. It is a hive of activities during the evening when religious classes opened its doors to Muslims in the vicinity and also those living nearby.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.37099780377049,
+        "lng": 103.964110392533
+      },
+      "logo_url": "mosque-directory/logos/al-istighfar.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-istighfar/"
+    },
+    {
+      "slug": "al-istiqamah",
+      "name": "Al-Istiqamah",
+      "address": "2 Serangoon North Avenue 2 Singapore 555876",
+      "postal_code": "555876",
+      "phone": "62814287",
+      "email": "feedback@alistiqamah.mosque.org.sg",
+      "website": null,
+      "description": "At one glance, the masjid blends the architectural flavours of buildings in the Middle East, Nusantra and Mauritius. Its structure stands proudly amidst the housing estate in Serangoon. One of the newest masjids under the Mosque Building Fund, it was completed in May 1999 and can accommodate up to 3300 people at any given time.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.36920169650272,
+        "lng": 103.875626645957
+      },
+      "logo_url": "mosque-directory/logos/al-istiqamah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-istiqamah/"
+    },
+    {
+      "slug": "alkaff-kampung-melayu",
+      "name": "Alkaff Kampung Melayu",
+      "address": "200 Bedok Reservoir Road Singapore 479221",
+      "postal_code": "479221",
+      "phone": "62427244",
+      "email": "inbox@alkaffkm.mosque.org.sg",
+      "website": null,
+      "description": "It is one of the few masjids, which offer religious classes for the hearing-impaired and disabled. On Sunday mornings, hundreds of children dressed in their Muslim attire complete with headgear stroll into the mosque compounds to be part of the various religious classes. The masjid, which is located in the East, can fill up to 3,000 worshippers.  Built under the Mosque Building Fund in November 1994, it replaced the older generation mosque of the same name.",
+      "features": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.33668967461862,
+        "lng": 103.913994187667
+      },
+      "logo_url": "mosque-directory/logos/alkaff-kampung-melayu.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/alkaff-kampung-melayu/"
+    },
+    {
+      "slug": "alkaff-upper-serangoon",
+      "name": "Alkaff Upper Serangoon",
+      "address": "66 Pheng Geck Avenue Singapore 348261",
+      "postal_code": "348261",
+      "phone": "62800300",
+      "email": "info@alkaffus.sg",
+      "website": null,
+      "description": "This old generation masjid sited next to Darul Lilbanat, a girls’ orphanage, was built in 1920. The masjid located in the Central part of the island has undergone several renovation, its most recent one in 1998, in which the prayer hall was extended to accommodate a larger congregation of 2,500 people. It serves the religious needs of the small Muslim residents in the area as well as office workers. Besides daily and Friday prayer, there are religious classes held at the masjid.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning"
+      ],
+      "coordinates": {
+        "lat": 1.33294523860997,
+        "lng": 103.870618440725
+      },
+      "logo_url": "mosque-directory/logos/alkaff-upper-serangoon.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/alkaff-upper-serangoon/"
+    },
+    {
+      "slug": "al-khair",
+      "name": "Al-Khair",
+      "address": "1 Teck Whye Crescent Singapore 688847",
+      "postal_code": "688847",
+      "phone": "67601139",
+      "email": "info@alkaffus.sg",
+      "website": "http://alkhair-mosque.org.sg",
+      "description": "Al-Khair Mosque was founded in the early 1960s. The mosque was built on a hilltop, surrounded by vegetable farms, along Choa Chu Kang Road. Originally named Jamek Mosque, it was later officially renamed as Al-Khair Mosque in 1963. Al-Khair Mosque was then rebuilt under the third phase of the Mosque Building Fund managed by the Islamic Religious Council of Singapore (MUIS). It was operationally ready in 1997, however its official opening was on 31 May 1998. About 15 years later, Al-Khair Mosque went through an 18-month Mosque Upgrading Programme (MUP), this exercise was completed in 2015.",
+      "features": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.38261285339265,
+        "lng": 103.749937134969
+      },
+      "logo_url": "mosque-directory/logos/al-khair.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-khair/"
+    },
+    {
+      "slug": "al-mawaddah",
+      "name": "Al-Mawaddah",
+      "address": "151 Compassvale Bow Singapore 544997",
+      "postal_code": "544997",
+      "phone": "64890224",
+      "email": "info@almawaddah.mosque.org.sg",
+      "website": "https://almawaddah.sg",
+      "description": "This Phase 4 mosque was built to cater to the large demographic of young families in the Buangkok and Sengkang area. Aside from it's numerous family friendly features for the young and the old, it also boasts a number of environmentally-friendly features that are energy-conserving. Due to this mosque has attained the Greenmark Certification from the Building and Construction Authority.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.38344130978082,
+        "lng": 103.890251310012
+      },
+      "logo_url": "mosque-directory/logos/al-mawaddah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-mawaddah/"
+    },
+    {
+      "slug": "al-mukminin",
+      "name": "Al-Mukminin",
+      "address": "271 Jurong East Street 21 Singapore 609603",
+      "postal_code": "609603",
+      "phone": "65677777",
+      "email": "mosque@almukminin.mosque.sg",
+      "website": "http://almukminin.sg",
+      "description": "The masjid, financed by the Mosque Building Fund, was originally completed in 1987.  Located in the West, it has since undergone a major upgrading from a 2-storey to a 4-storey with basement building, which was completed in June 2006 and can now accommodate a congregation of about 4,500.  It offers a range of Islamic Learning programmes serving the needs of the residents in the nearby HDB estates.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.33921643707099,
+        "lng": 103.741421891919
+      },
+      "logo_url": "mosque-directory/logos/al-mukminin.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-mukminin/"
+    },
+    {
+      "slug": "al-muttaqin",
+      "name": "Al-Muttaqin",
+      "address": "5140 Ang Mo Kio Avenue 6 Singapore 569844",
+      "postal_code": "569844",
+      "phone": "64547472",
+      "email": "info@almuttaqin.mosque.org.sg",
+      "website": "http://www.almuttaqinmosque.sg",
+      "description": "Masjid Al-Muttaqin is the fifth mosque completed under the Mosque Building Fund Scheme Phase I. The mosque's official ground-breaking ceremony was officiated by Mr Syed Ali Redha Alsagoff, Chairman of Lembaga Biasiswa Kenangan Maulud, on 29th April 1979. It was officially opened on 21st September 1980 by the late Mr Rahmat Kenap (MP for Geylang Serai). The chosen name Al-Muttaqin refers to the pious people who are ever aware of God the Almighty. Located in central Singapore, the mosque serves residents of Ang Mo Kio housing estates and accommodates up to 3,500 worshippers. It also offers part-time religious classes (aLIVE Madrasah), Kindergarten and structured Al-Quran learning programmes.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.37052179748946,
+        "lng": 103.845904790885
+      },
+      "logo_url": "mosque-directory/logos/al-muttaqin.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-muttaqin/"
+    },
+    {
+      "slug": "al-taqua",
+      "name": "Al-Taqua",
+      "address": "11A Jalan Bilal Singapore 468862",
+      "postal_code": "468862",
+      "phone": "64427704",
+      "email": "info@altaqua.mosque.org.sg",
+      "website": null,
+      "description": "In the ‘60s, this masjid was one of the important symbols for the villagers living in kampung around Bedok. Built in 1883, this single-storey masjid has gone several renovations. It now serves the handful residents living nearby as well as in the East. With a capacity of 400 worshippers, the masjid holds regular religious classes.",
+      "features": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning"
+      ],
+      "coordinates": {
+        "lat": 1.32179653416997,
+        "lng": 103.953501109845
+      },
+      "logo_url": "mosque-directory/logos/al-taqua.jpg",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-taqua/"
+    },
+    {
+      "slug": "angullia",
+      "name": "Angullia",
+      "address": "265 Serangoon Road Singapore 218099",
+      "postal_code": "218099",
+      "phone": "62951478",
+      "email": "info@angulliamosque.com.sg",
+      "website": "http://www.angulliamosque.com.sg/",
+      "description": "Masjid Angullia has its niche in attracting a wide range of nationalities. First built on Wakaf land, bequeathed by MSE Angullia in 1890, the mosque was then rebuilt in 1970 with funds from public and the MSE Angullia Wakaf. Located along one of Singapore’s busiest roads in the Central district, the mosque now serves the workers and shoppers in the Little India area. After its $6.3 million revamp in early 2020, the new look of the mosque maintains its North Indian architecture. Its iconic Gatehouse is the only original structure standing from 1890, now gazetted as Conserved Structure.",
+      "features": [
+        "Barrier-free features"
+      ],
+      "coordinates": {
+        "lat": 1.31062088761784,
+        "lng": 103.854074058344
+      },
+      "logo_url": "mosque-directory/logos/angullia.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/angullia/"
+    },
+    {
+      "slug": "an-nahdhah",
+      "name": "An-Nahdhah",
+      "address": "9A Bishan Street 14 Singapore 579786",
+      "postal_code": "579786",
+      "phone": "63543138",
+      "email": "info@annahdhah.mosque.org.sg",
+      "website": "https://www.annahdhah.org/",
+      "description": "This mosque is the sixth one to be built under Phase III of the Mosque Building Fund programme to serve the needs of the Muslim community around the Bishan area. The mosque can accommodate about 4,000 people and was opened to the public on 6th January 2006. The mosque complex also houses MUIS's Harmony Centre where visitors could learn of the Muslim Community and Islam as practiced in multi-cultural Singapore. Being the first of its kind in a Singapore mosque, the 2-storey Harmony Centre showcases exhibits, artifacts and information on Islamic civilisation and lifestyle. Contemporary issues in Islam and Inter-faith understanding will also be a feature at the Centre through talks and activities. The Centre is scheduled to be opened to all in October 2006.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning"
+      ],
+      "coordinates": {
+        "lat": 1.3535555514554,
+        "lng": 103.851131068482
+      },
+      "logo_url": "mosque-directory/logos/an-nahdhah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/an-nahdhah/"
+    },
+    {
+      "slug": "an-nur",
+      "name": "An-Nur",
+      "address": "6 Admiralty Road Singapore 739983",
+      "postal_code": "739983",
+      "phone": "63631383",
+      "email": "annur@annur.mosque.org.sg",
+      "website": "http://www.annurmosque.sg/",
+      "description": "Located in the North part of the island, An-Nur is more than just a landmark in Woodlands. The masjid has created a name for its outreach programme and grassroots activities through its Qaryah (outreach) initiatives. It is also one of the masjids, which provide strong support for the kidney donation campaign. Built in 1980 under the Mosque Building fund, An-Nur can accommodate up to 2800 worshippers. There are madrasah and kindergarten classes offered at the masjid to children of the neighbouring estate",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.44072763040994,
+        "lng": 103.771877540825
+      },
+      "logo_url": "mosque-directory/logos/an-nur.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/an-nur/"
+    },
+    {
+      "slug": "ar-raudhah",
+      "name": "Ar-Raudhah",
+      "address": "30 Bukit Batok East Avenue 2 Singapore 659919",
+      "postal_code": "659919",
+      "phone": "68995840",
+      "email": "arraudhah@arraudhah.mosque.org.sg",
+      "website": "http://www.arraudhahmosque.com/",
+      "description": "The masjid prides itself for having an extensive library of Islamic literatures. Built in 1993, it is located in the West and is one of the pioneer masjids offering computer facilities to Muslims. It can accommodate up to 3,000 worshippers. The masjid built under the Mosque Building Fund also has complete jenazah (death ritual) services, which is rare among the other mosques. One of its strength is its family development unit, which offers assistance in cash and kind to needy families, single parents as well as kidney patients.",
+      "features": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.35166029562859,
+        "lng": 103.756001926056
+      },
+      "logo_url": "mosque-directory/logos/ar-raudhah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/ar-raudhah/"
+    },
+    {
+      "slug": "assyafaah",
+      "name": "Assyafaah",
+      "address": "1 Admiralty Lane Singapore 757620",
+      "postal_code": "757620",
+      "phone": "67563008",
+      "email": "assyafaah@assyafaah.mosque.org.sg",
+      "website": null,
+      "description": "This mosque is the fifth one to be built under Phase III of the Mosque Building Fund programme to serve the needs of the Muslim community in the Northern part of Singapore. It also acts as a replacement due to the closure of two old mosques in the Sembawang area - Jumah Sembawang Mosque and Naval Base Mosque. The mosque which can accommodate about 4,000 people at one time was opened to the public on 9th April 2004.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.45577050995774,
+        "lng": 103.819381371528
+      },
+      "logo_url": "mosque-directory/logos/assyafaah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/assyafaah/"
+    },
+    {
+      "slug": "assyakirin",
+      "name": "Assyakirin",
+      "address": "550 Yung An Road Singapore 618617",
+      "postal_code": "618617",
+      "phone": "62681846",
+      "email": "assyakirin@assyakirin.mosque.org.sg",
+      "website": null,
+      "description": "One of the oldest masjids under the Mosque Building Fund, the original masjid building was opened to the public in 1978. It served the religious needs of Muslims living in the West, specifically in the Jurong area. The masjid was rebuilt to maximize land usage in order to cater to the growing needs of the residents at the neighbourhood. It was reopened on 27 Dec 2002 and can accomodate 5000 worshippers, double the capacity of the older building.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.33544840128089,
+        "lng": 103.719566221744
+      },
+      "logo_url": "mosque-directory/logos/assyakirin.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/assyakirin/"
+    },
+    {
+      "slug": "ba-alwie",
+      "name": "Ba'alwie",
+      "address": "2 Lewis Road Singapore 258590",
+      "postal_code": "258590",
+      "phone": "67326795",
+      "email": "baalwiemosque@gmail.com",
+      "website": null,
+      "description": "Built in 1952 by a prominent and well-respected imam from the Alatas family, this old generation masjid has served the needs of university undergraduates in Bukit Timah before the campus was relocated to Kent Ridge. Today, the one-storey masjid, which is located in the Central, can accommodate up to 400 worshippers for daily and Friday prayers. It is also crowded during Hari Raya prayers. On Thursday evenings, many Muslims gather for recitation of praises to Allah.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.32073352232102,
+        "lng": 103.822590280918
+      },
+      "logo_url": null,
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/ba-alwie/"
+    },
+    {
+      "slug": "bencoolen",
+      "name": "Bencoolen",
+      "address": "59 Bencoolen Street, #01-01 Singapore 189630",
+      "postal_code": "189630",
+      "phone": "63333016",
+      "email": "masjid@bencoolen.mosque.org.sg",
+      "website": null,
+      "description": "This masjid was originally built in 1845. In 2001, the mosque's site was redeveloped as part of a mixed development comprising of a commercial block and a 12-storey residential complex. The redeveloped masjid, which is part of the complex, was opened to the public in May 2004. It can accommodate about 1,100 worshippers.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.2993605331112,
+        "lng": 103.850376020549
+      },
+      "logo_url": "mosque-directory/logos/bencoolen.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/bencoolen/"
+    },
+    {
+      "slug": "burhani",
+      "name": "Burhani",
+      "address": "39 Hill Street Singapore 179364",
+      "postal_code": "179364",
+      "phone": "63343712",
+      "email": null,
+      "website": null,
+      "description": "Note: No congregational prayers will be held at the mosque for the time being.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.29336898472785,
+        "lng": 103.850499073629
+      },
+      "logo_url": null,
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/burhani/"
+    },
+    {
+      "slug": "darul-aman",
+      "name": "Darul Aman",
+      "address": "1 Jalan Eunos Singapore 419493",
+      "postal_code": "419493",
+      "phone": "67445544",
+      "email": "info@darulaman.mosque.org.sg",
+      "website": "https://www.darulaman.sg/",
+      "description": "A squarish minaret in this Mosque Building Fund masjid combines Malay architecture and Islamic art. Nominated for the prestigious Aga Khan Award in 1989 as an excellent example of tropical architecture, the masjid features the early pitched-roof structure commonly found in the Malay archipelago. Built in 1986, the masjid located in the East can accommodate up to 3,500 people. Besides madrasah classes, it is also popular venue for haj courses organized by travel agents. The masjid has since undergone a major addition and alteration project which was completed in 2005.",
+      "features": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.31796445871933,
+        "lng": 103.904561547103
+      },
+      "logo_url": "mosque-directory/logos/darul-aman.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darul-aman/"
+    },
+    {
+      "slug": "darul-ghufran",
+      "name": "Darul Ghufran",
+      "address": "503 Tampines Avenue 5 Singapore 529651",
+      "postal_code": "529651",
+      "phone": "67865545",
+      "email": "helpdesk@ghufran.mosque.org.sg",
+      "website": "http://darulghufran.org",
+      "description": "Masjid Darul Ghufran, which opened in 1990,  underwent reconstruction and major upgrading works which began in 2016. The mosque reopened in 2019 with new features and facilities. Three more floors were added to the existing structure -  a basement carpark, a fourth storey and a roof terrace. The mosque sited next to Our Tampines Hub, can accommodate up to 5,500 worshippers, making the mosque the biggest in Singapore.",
+      "features": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.35528065111508,
+        "lng": 103.93993380532
+      },
+      "logo_url": "mosque-directory/logos/darul-ghufran.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darul-ghufran/"
+    },
+    {
+      "slug": "darul-makmur",
+      "name": "Darul Makmur",
+      "address": "950 Yishun Avenue 2 Singapore 769099",
+      "postal_code": "769099",
+      "phone": "67521402",
+      "email": "korporat@darulmakmur.mosque.org.sg",
+      "website": "http://www.darulmakmur.sg",
+      "description": "Morning is a hectic period at the masjid when doting parents wave their pre-schoolers goodbye. Besides kindergarten classes for these pre-schoolers, the mosque is among the few, which offers a Tahfiz (Al-Quran memorization) course for children. Built in 1989, it serves Muslim families living in Yishun and the North part of the island. The masjid, which falls under Phase Two of the Mosque Building Fund, can accommodate about 3000 people.",
+      "features": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.43686614981845,
+        "lng": 103.83434033765
+      },
+      "logo_url": "mosque-directory/logos/darul-makmur.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darul-makmur/"
+    },
+    {
+      "slug": "darussalam",
+      "name": "Darussalam",
+      "address": "3002 Commonwealth Avenue West Singapore 129579",
+      "postal_code": "129579",
+      "phone": "67770028",
+      "email": "feedback@darussalam.mosque.org.sg",
+      "website": "https://darussalam.mosque.org.sg/",
+      "description": "The masjid with its unique flat cuboid-like structure in cream and brown has a huge collection of Islamic literature. Besides the usual madrasah and kindergarten classes, it also offers computer classes to both children and adults. Built with the Mosque Building Fund and completed in 1989, it can accommodate up to 3000 worshippers. Located in the West, it serves mainly the residents in Clementi and Holland.",
+      "features": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.31248504081994,
+        "lng": 103.771073229152
+      },
+      "logo_url": "mosque-directory/logos/darussalam.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darussalam/"
+    },
+    {
+      "slug": "en-naeem",
+      "name": "En-Naeem",
+      "address": "120 Tampines Road Singapore 535136",
+      "postal_code": "535136",
+      "phone": "69118140",
+      "email": "info@ennaeem.mosque.sg",
+      "website": "https://www.ennaeem.sg/",
+      "description": "Built under Phase Two of the Mosque Building Fund, the masjid located at the junction of Tampines Road and Hougang Ave 3, with its box-like structure and tall minaret stands out prominently, next to high-rise residential flats. Built in 1983, it serves the religious needs of residents in surrounding Hougang areas.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.36092931253044,
+        "lng": 103.892551072557
+      },
+      "logo_url": "mosque-directory/logos/en-naeem.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/en-naeem/"
+    },
+    {
+      "slug": "haji-mohd-salleh--g",
+      "name": "Haji Mohd Salleh (G)",
+      "address": "245 Geylang Road Singapore 389304",
+      "postal_code": "389304",
+      "phone": "68460857",
+      "email": "enquiry@mhms.org.sg",
+      "website": null,
+      "description": "A historic milestone was achieved in November 1999 when its new four-storey building was officially opened after more than a year of extensive rebuilding. The original structure which dated back in 1896 was built on land donated by an individual. The masjid with its simple and modern architecture can accommodate up to 1,500 congregants.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.31240484656975,
+        "lng": 103.876888600758
+      },
+      "logo_url": null,
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/haji-mohd-salleh--g/"
+    },
+    {
+      "slug": "haji-muhammad-salleh--p",
+      "name": "Haji Muhammad Salleh (P)",
+      "address": "37 Palmer Road Singapore 079424",
+      "postal_code": "079424",
+      "phone": "62209257",
+      "email": "admin@hjmuhdsalleh.org.sg",
+      "website": null,
+      "description": "Sited at the far end of Shenton Road, the masjid in its tranquil serenity is a sharp contrast to the hustle and bustle of the busy Central Business District. With a total capacity of 500, this old generation masjid, which was built in 1903, underwent several renovation and repair works. Because it is located away from residential areas, activities are confined during office hours and constitute mainly the obligatory prayers.",
+      "features": [
+        "Zakat Collection Centre"
+      ],
+      "coordinates": {
+        "lat": 1.27276613799328,
+        "lng": 103.847318961538
+      },
+      "logo_url": "mosque-directory/logos/haji-muhammad-salleh--p.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/haji-muhammad-salleh--p/"
+    },
+    {
+      "slug": "haji-yusoff",
+      "name": "Haji Yusoff",
+      "address": "2 Hillside Drive Singapore 548920",
+      "postal_code": "548920",
+      "phone": "62845459",
+      "email": "info@hjyusoff.mosque.org.sg",
+      "website": null,
+      "description": "This redeveloped masjid located in the Northeast part of the island was first built in 1921. It underwent redevelopment in 1995 and can now accommodate up to 400 people. Some of its activities include madrasah classes and religious lectures for adults.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.35580654058068,
+        "lng": 103.879714474791
+      },
+      "logo_url": "mosque-directory/logos/haji-yusoff.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/haji-yusoff/"
+    },
+    {
+      "slug": "hajjah-fatimah",
+      "name": "Hajjah Fatimah",
+      "address": "4001 Beach Road Singapore 199584",
+      "postal_code": "199584",
+      "phone": "62972774",
+      "email": "marhaba@hjhfatimah.mosque.sg",
+      "website": "https://www.masjidhajjahfatimah.sg/",
+      "description": "This is another old generation masjid built from donation from a wealthy lady named Fatimah. Located in the Central district, it was completed in 1846. the masjid bears the imprint of colonial architect J T Thomson, is a charming blend of local and European architecture. It is today one of Singapore’s national monuments. Extensive renovation work was carried out several years ago in which its leaning minaret was righted. The masjid, which can accommodate up to 600 people offers religious lectures on an ad-hoc basis. It is particularly popular among office workers in Jalan Sultan area",
+      "features": [],
+      "coordinates": {
+        "lat": 1.30291798131982,
+        "lng": 103.862907913198
+      },
+      "logo_url": "mosque-directory/logos/hajjah-fatimah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/hajjah-fatimah/"
+    },
+    {
+      "slug": "hajjah-rahimabi-kebun-limau",
+      "name": "Hajjah Rahimabi",
+      "address": "76 Kim Keat Road Singapore 328835",
+      "postal_code": "328835",
+      "phone": "62558262",
+      "email": "hjrahimabi@hjrahimabi.mosque.org.sg",
+      "website": null,
+      "description": "Built from donation by Hajjah Rahima Bee Ahmad Angullia, this masjid was redeveloped from an existing masjid, which had been around since 1960. the redeveloped masjid, which was completed in 1984, was renamed after the donor. Located in the Central part of the island, it is one of the several mosques which have pulpits decorated with woodcarvings. With a capacity of about 500 worshippers, it organizes Iqra’ and Muqaddam (Quran reading) courses.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.32611624278724,
+        "lng": 103.854827462535
+      },
+      "logo_url": "mosque-directory/logos/hajjah-rahimabi-kebun-limau.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/hajjah-rahimabi-kebun-limau/"
+    },
+    {
+      "slug": "hang-jebat",
+      "name": "Hang Jebat",
+      "address": "100 Jalan Hang Jebat Singapore 139533",
+      "postal_code": "139533",
+      "phone": "64710728",
+      "email": "admin@hangjebat.mosque.org.sg",
+      "website": null,
+      "description": "From a small surau, this old generation masjid has grown into what it is today. Built in 1952, this zinc-roofed masjid underwent major renovations in 1996 to expand on its prayer hall. Today it can accommodate 600 worshippers. Located in the Central part of the island, the masjid offers weekend madrasah classes to students living around Queenstown area. It also organizes zikir sessions where praises to Allah are recited.",
+      "features": [
+        "Zakat Collection Centre"
+      ],
+      "coordinates": {
+        "lat": 1.28952595178641,
+        "lng": 103.798637665085
+      },
+      "logo_url": "mosque-directory/logos/hang-jebat.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/hang-jebat/"
+    },
+    {
+      "slug": "hasanah",
+      "name": "Hasanah",
+      "address": "492 Teban Gardens Singapore 608878",
+      "postal_code": "608878",
+      "phone": "65617990",
+      "email": "info@hasanah.mosque.org.sg",
+      "website": "https://www.hasanahmosque.sg",
+      "description": "First built in 1971, this masjid was redeveloped in 1993 into a four-storey building complete with elevator. Its two levels of prayer hall can accommodate up to 2500 worshippers. Located in the West, it has Internet Corner, which for a nominal annual subscription of $5, members can surf the net for $2 an hour. A newly set up Youth Wing organizes recreational activities such as camping and soccer games for the young. Muslims can benefit from its imam and muezzin courses organized on an ad-hoc basis.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning"
+      ],
+      "coordinates": {
+        "lat": 1.32166368636589,
+        "lng": 103.738170825514
+      },
+      "logo_url": "mosque-directory/logos/hasanah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/hasanah/"
+    },
+    {
+      "slug": "hussain-sulaiman",
+      "name": "Hussain Sulaiman",
+      "address": "394 Pasir Panjang Road Singapore 118730",
+      "postal_code": "118730",
+      "phone": "97597487",
+      "email": "info@hussainsulaiman.mosque.sg",
+      "website": null,
+      "description": "This old generation masjid which started as a village surau was built way back in 1902. Today, it retains much of its original architecture. Located in the Central part of the island, it occupies an area of 422 sq metre and has a capacity of 300 people. Activities are confined to daily and Friday prayers with occasional religious lectures.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.29137428067036,
+        "lng": 103.771711771028
+      },
+      "logo_url": "mosque-directory/logos/hussain-sulaiman.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/hussain-sulaiman/"
+    },
+    {
+      "slug": "jamae-chulia",
+      "name": "Jamae Chulia",
+      "address": "218 South Bridge Road S’pore 058767",
+      "postal_code": "058767",
+      "phone": "62214165",
+      "email": "masjidjamae@singnet.com.sg",
+      "website": "http://www.masjidjamaechulia.sg/",
+      "description": "The masjid was a contribution by the Chulian community. Built in 1826, it has gone through several places of renovation and expansion. The building bears the imprint of South Indian architecture in its narrow frontages, which are defined by minaret-style towers. Located in the Central part of the island, it serves office workers and has a capacity of 1500 people. It is one of the few masjids in Singapore, which organizes religious classes in Tamil.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.28315450666817,
+        "lng": 103.845439436764
+      },
+      "logo_url": "mosque-directory/logos/jamae-chulia.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamae-chulia/"
+    },
+    {
+      "slug": "jamek-queenstown",
+      "name": "Jamek Queenstown",
+      "address": "946 Margaret Drive Singapore 149309",
+      "postal_code": "149309",
+      "phone": "69280442",
+      "email": "queenstownmasjidjamek@gmail.com",
+      "website": "https://masjidjamekqueenstown.mimbar.sg/",
+      "description": "Much of what was built in 1965 is retained today in this 35-year-old masjid. Located in the Central part of the island, this old generation masjid built in 1965 serves office workers around the area and has a capacity of 400 worshippers. Activities are confined to weekend madrasah classes as well as religious lectures on Thursday, Friday and Saturday.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.29301137234296,
+        "lng": 103.815428353466
+      },
+      "logo_url": "mosque-directory/logos/jamek-queenstown.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamek-queenstown/"
+    },
+    {
+      "slug": "jamiyah-ar-rabitah",
+      "name": "Jamiyah Ar-Rabitah",
+      "address": "601 Tiong Bahru Road Singapore 158787",
+      "postal_code": "158787",
+      "phone": "62733848",
+      "email": "aliman@aliman.mosque.org.sg",
+      "website": "https://jamiyaharrabitah.sg/",
+      "description": "Redeveloped in 1985 on the same site as the old masjid, this three-storey cream structure can accommodate up to 2000 people. The first masjid was built in 1960. Today, the masjid in Central part of the island serves the needs of residents in Redhill, Tiong Bahru and Alexandra areas, besides the office workers at the nearby industrial estates. Besides madrasah and kindergarten classes, it organizes regular religious classes for the adults.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.28832868873592,
+        "lng": 103.820155323568
+      },
+      "logo_url": "mosque-directory/logos/jamiyah-ar-rabitah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamiyah-ar-rabitah/"
+    },
+    {
+      "slug": "kampong-delta",
+      "name": "Kampong Delta",
+      "address": "10 Delta Avenue Singapore 169831",
+      "postal_code": "169831",
+      "phone": "62721750",
+      "email": null,
+      "website": null,
+      "description": "Tucked away among Housing Board skyscraper flats, this redeveloped masjid was built on the old site of surau Delta which was first built in 1960. The new two-storey building was completed in 1995 increasing its capacity to 500 people. Its main activities are confined to daily and Friday prayers as well as celebrations of Maulid and other religious occasions.",
+      "features": [
+        "Zakat Collection Centre"
+      ],
+      "coordinates": {
+        "lat": 1.29164028211495,
+        "lng": 103.828371406698
+      },
+      "logo_url": "mosque-directory/logos/kampong-delta.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/kampong-delta/"
+    },
+    {
+      "slug": "kampung-siglap",
+      "name": "Kampung Siglap",
+      "address": "451 Marine Parade Road Singapore 449283",
+      "postal_code": "449283",
+      "phone": "62437060",
+      "email": "info@mks.org.sg",
+      "website": "http://www.mks.org.sg/",
+      "description": "Architects responsible for the design of this masjid built under Phase Two of the Mosque Building Fund have succeeded in preserving the architecture and ambience of a kampung. Originally, a small 80-year-old masjid, the new masjid in the same site was completed in 1992. Located in the East, it has a capacity of 3000 people. Besides madrasah classes, there is a Tahfiz Al-Quran center. A Centre of Family Development provides guidance and courses to enhance family life.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.30985532852467,
+        "lng": 103.927555067646
+      },
+      "logo_url": "mosque-directory/logos/kampung-siglap.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/kampung-siglap/"
+    },
+    {
+      "slug": "kassim",
+      "name": "Kassim",
+      "address": "450 Changi Road Singapore 419877",
+      "postal_code": "419877",
+      "phone": "64409434",
+      "email": "kassim@kassim.mosque.org.sg",
+      "website": null,
+      "description": "Combining both modern and Islamic architecture, this spanking new masjid was rebuilt to replace an old one built way back in 1924. Completed in 1999, the four-storey masjid located in the East can accommodate up to 2000 people. It is linked to Wisma Indah, a Wakaf complex which houses the masjid’s office, commercial offices. Besides organizing regular religious courses for adults, the masjid also provides Internet facilities for visitors.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.31871782868661,
+        "lng": 103.91224664974
+      },
+      "logo_url": "mosque-directory/logos/kassim.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/kassim/"
+    },
+    {
+      "slug": "khadijah",
+      "name": "Khadijah",
+      "address": "583 Geylang Road Singapore 389522",
+      "postal_code": "389522",
+      "phone": "67475607",
+      "email": "admin@khadijahmosque.org",
+      "website": "http://www.khadijahmosque.org/",
+      "description": "Built in 1920, the masjid is currently being restored to its original splendour. Named after the wealthy lady who donated $50000 in 1916 to build this masjid, restoration works was completed in 2001. The masjid located in the Central part of Singapore has a current capacity of 500 people. Its activities include computer classes, training and youth programmes as well as tuition.",
+      "features": [
+        "Barrier-free features"
+      ],
+      "coordinates": {
+        "lat": 1.31418450398371,
+        "lng": 103.886098564499
+      },
+      "logo_url": null,
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/khadijah/"
+    },
+    {
+      "slug": "khalid",
+      "name": "Khalid",
+      "address": "130 Joo Chiat Road Singapore 427727",
+      "postal_code": "427727",
+      "phone": "63452884",
+      "email": "admin@masjidkhalid.sg",
+      "website": "https://masjidkhalid.org/",
+      "description": "First built in 1917, this old generation masjid underwent several restorations, the most recent one in 1998. Located in the Central part of the island, its newly-restored building which comes complete with a minaret at the front porch can fill up to 2500 people. Ramadan is a busy month for the mosque as an average of 800 Muslims break their fast at the mosque daily. There are regular religious classes for children and adults.",
+      "features": [
+        "Zakat Collection Centre"
+      ],
+      "coordinates": {
+        "lat": 1.31341618432483,
+        "lng": 103.898941011024
+      },
+      "logo_url": "mosque-directory/logos/khalid.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/khalid/"
+    },
+    {
+      "slug": "maarof",
+      "name": "Maarof",
+      "address": "20 Jurong West Street 26 Singapore 648125",
+      "postal_code": "648125",
+      "phone": "65155033",
+      "email": "info1@maarof.mosque.sg",
+      "website": "https://masjidmaarof.sg/",
+      "description": "Maarof Mosque is Singapore’s 25th satellite mosque to be funded by the Mosque Building and Mendaki Fund (MBMF). At full capacity, Masjid Maarof can accommodate approximately 4,500 worshippers.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.34851765818894,
+        "lng": 103.704984361237
+      },
+      "logo_url": "mosque-directory/logos/maarof.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/maarof/"
+    },
+    {
+      "slug": "malabar",
+      "name": "Malabar",
+      "address": "471 Victoria Street Singapore 198370",
+      "postal_code": "198370",
+      "phone": "62943862",
+      "email": "admin@malabar.org.sg",
+      "website": null,
+      "description": "One can hardly miss this blue-tiled building adorned with gold-coloured domes located at the junction of Victoria Street and Jalan Sultan. This redeveloped masjid was first built in 1918. in 1962, it underwent major rebuilding into what it is today. Located in the Central part of the island, it serves the needs of office workers around the area and has a capacity of 1000 people. Besides religious classes, it organizes zikir sessions.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.30503916442958,
+        "lng": 103.859733415078
+      },
+      "logo_url": null,
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/malabar/"
+    },
+    {
+      "slug": "moulana-mohd-ali",
+      "name": "Moulana Mohd Ali",
+      "address": "80 Raffles Place #B1-01, UOB Plaza Singapore 048624",
+      "postal_code": "048624",
+      "phone": "65365238",
+      "email": "masjidmoulana@singnet.com.sg",
+      "website": null,
+      "description": "Sited at the basement of an office building right smack in the Central Business District, this mosque is a picture of contrast to the hustle and bustle above. Completed in 1994, it serves the needs of office workers along Shenton Road area. With a capacity of 800 people, the usually peaceful abode of tranquility is transformed into a sea of worshippers clad in long-sleeved shirts and business ties during Friday prayers. Activities are confined to daily and Friday prayers and religious lectures on an ad-hoc basis.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.28547360879559,
+        "lng": 103.850332786212
+      },
+      "logo_url": "mosque-directory/logos/moulana-mohd-ali.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/moulana-mohd-ali/"
+    },
+    {
+      "slug": "muhajirin",
+      "name": "Muhajirin",
+      "address": "275 Braddell Road Singapore 579704",
+      "postal_code": "579704",
+      "phone": "62561166",
+      "email": "info@muhajirin.mosque.sg",
+      "website": null,
+      "description": "The masjid has been re-built as part of the Singapore Islamic Hub development and was opened to public in January 2009.  Masjid Muhajirin is the first masjid to be built under the Mosque Building Fund. Back then it was easily recognizable by its prominent dome and minaret at the entrance of the building.  Sited next to the Islamic Centre of the Islamic Religious Council of Singapore, it was completed in April 1977 with a capacity of 1400 people and serves Muslims of all ages living in Toa Payoh and Bishan.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.34298997216698,
+        "lng": 103.852062475426
+      },
+      "logo_url": "mosque-directory/logos/muhajirin.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/muhajirin/"
+    },
+    {
+      "slug": "mujahidin",
+      "name": "Mujahidin",
+      "address": "590 Stirling Road Singapore 148952",
+      "postal_code": "148952",
+      "phone": "64737400",
+      "email": "info@mujahidin.mosque.org.sg",
+      "website": "https://mujahidinmosque.sg/",
+      "description": "This is the second satellite masjid built under the Mosque Building Fund. Completed in October 1977, it is conspicuous by its cream-coloured walls and circular glass panelled prayer hall. Instead of a dome, it has a cuboid-shaped top with semi-oval openings on all four sides. The masjid in the Central part of the island which can fill up to 3,500 people offers madrasah and kindergarten classes as well as other religious classes on a regular basis.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.29813253959349,
+        "lng": 103.800954468468
+      },
+      "logo_url": "mosque-directory/logos/mujahidin.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/mujahidin/"
+    },
+    {
+      "slug": "mydin",
+      "name": "Mydin",
+      "address": "67 Jalan Lapang Singapore 419007",
+      "postal_code": "419007",
+      "phone": "62432129",
+      "email": "masjidmydin@mydin.mosque.org.sg",
+      "website": null,
+      "description": "This masjid was originally completed in 1935.  Located in the Eastern part of the island, it has been rebuilt in 2001 which increased its capacity to 1,000 people.  Built to serve the needs of the neighbourhood along Changi Road, its activities are mainly religious lectures.",
+      "features": [
+        "Zakat Collection Centre"
+      ],
+      "coordinates": {
+        "lat": 1.32251846733239,
+        "lng": 103.915271278077
+      },
+      "logo_url": "mosque-directory/logos/mydin.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/mydin/"
+    },
+    {
+      "slug": "omar-kampong-melaka",
+      "name": "Omar Kg Melaka",
+      "address": "10 Keng Cheow Street Singapore 059607",
+      "postal_code": "059607",
+      "phone": "65326764",
+      "email": "masjidomar@kgmelaka.mosque.org.sg",
+      "website": null,
+      "description": "The oldest masjid in Singapore, it has humble beginnings as a wooden surau way back in 1820. Monetary contributions from wealthy merchant Syed Abdullah bin Omar Aljunied made possible its rebuilding in 1855. The old generation masjid located in the Central, underwent yet another major rebuilding project several years ago in which a tall minaret with a small roof dome is added at the entrance of the mosque. With a capacity of 500 people, it is the focal point for office workers during daily and Friday prayers",
+      "features": [
+        "Zakat Collection Centre",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.28781684606584,
+        "lng": 103.844266388888
+      },
+      "logo_url": "mosque-directory/logos/omar-kampong-melaka.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/omar-kampong-melaka/"
+    },
+    {
+      "slug": "omar-salmah",
+      "name": "Omar Salmah",
+      "address": "441-B Jalan Mashor Singapore 299173",
+      "postal_code": "299173",
+      "phone": "62500120",
+      "email": "info@omarsalmahmosque.com",
+      "website": null,
+      "description": "At one glance, it looked like any other kampung house which is slowly becoming a rare sight in a city of concrete jungle. This old generation masjid built in 1973 can accommodate up to 300 worshippers. The rather isolated masjid in the Central zone and presently caters to Mediacorp staff nearby. Its activities include korban, Eid and Friday prayers.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.33468787442313,
+        "lng": 103.831955902164
+      },
+      "logo_url": "mosque-directory/logos/omar-salmah.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/omar-salmah/"
+    },
+    {
+      "slug": "petempatan-melayu-sembawang",
+      "name": "Petempatan Melayu Sembawang",
+      "address": "27-B Jalan Mempurong Singapore 759055",
+      "postal_code": "759055",
+      "phone": "62577614",
+      "email": "petempatan@gmail.com",
+      "website": null,
+      "description": "Surrounded by lush greeneries and a reasonably huge compound, there is an air of serenity at this old generation masjid built in 1970. Located in the North and away from busy streets, it offers weekend madrasah classes as well as religious classes on a weekly basis. It has a capacity of 300 people.",
+      "features": [
+        "Zakat Collection Centre"
+      ],
+      "coordinates": {
+        "lat": 1.45909512625858,
+        "lng": 103.841747361438
+      },
+      "logo_url": "mosque-directory/logos/petempatan-melayu-sembawang.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/petempatan-melayu-sembawang/"
+    },
+    {
+      "slug": "pulau-bukom",
+      "name": "Pulau Bukom",
+      "address": "Pulau Bukom Privy Box 921095 Singapore 929292",
+      "postal_code": "929292",
+      "phone": "62634088",
+      "email": null,
+      "website": null,
+      "description": "Thanks to the effort of Shell Corporation, Muslims working at this small island located south of Singapore has a place to head to, to perform their daily and Friday prayers. This old-generation masjid in bricks has been around since 1960s.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.225817922302,
+        "lng": 103.768421302029
+      },
+      "logo_url": null,
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/pulau-bukom/"
+    },
+    {
+      "slug": "pusara-aman",
+      "name": "Pusara Aman",
+      "address": "11 Lim Chu Kang Road Singapore 719452",
+      "postal_code": "719452",
+      "phone": "67929378",
+      "email": "info@pusaraman.mosque.org.sg",
+      "website": null,
+      "description": "Palm trees sway gently against the gentle breeze at the compound of this old generation masjid, tucked far away for residential neighbourhoods and busy streets. Built in 1972, this single storey masjid in the West part of the island serves worshippers who accompany burial procession. Its activities are confined to daily and Friday prayers and its hall accommodate up to 200 people.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.3727932945804,
+        "lng": 103.694316302339
+      },
+      "logo_url": "mosque-directory/logos/pusara-aman.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/pusara-aman/"
+    },
+    {
+      "slug": "sallim-mattar",
+      "name": "Sallim Mattar",
+      "address": "1 Mattar Road Singapore 387725",
+      "postal_code": "387725",
+      "phone": "67492382",
+      "email": "info@sallimmattar.mosque.org.sg",
+      "website": null,
+      "description": null,
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.32574679283198,
+        "lng": 103.881230367298
+      },
+      "logo_url": "mosque-directory/logos/sallim-mattar.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sallim-mattar/"
+    },
+    {
+      "slug": "sultan",
+      "name": "Sultan",
+      "address": "3 Muscat Street Singapore 198833",
+      "postal_code": "198833",
+      "phone": "62934405",
+      "email": "info@tentera.mosque.org.sg",
+      "website": "http://sultanmosque.sg/",
+      "description": "Built during colonial times, this old generation masjid has been gazetted as a national monument. Built in 1824, it was one of the first few masjids to be built on the island. It was later rebuilt in 1920 by Swan and Maclaren who were responsible for Singapore’s other important landmarks. The masjid is a mix of Classical, Persian, Moorish and Turkish themes that form what is known as the Islamic Saracenic style. Located in the Central, it has a capacity of 2000 people and is one of the most frequented prayer venue.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "coordinates": {
+        "lat": 1.30223751221197,
+        "lng": 103.859004270375
+      },
+      "logo_url": "mosque-directory/logos/sultan.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sultan/"
+    },
+    {
+      "slug": "tasek-utara",
+      "name": "Tasek Utara",
+      "address": "46 Bristol Road Singapore 219852",
+      "postal_code": "219852",
+      "phone": "62938351",
+      "email": null,
+      "website": null,
+      "description": "In sharp contrast to a Saracenic style masjid or avant-garde looking religious structures, this old generation masjid is simple yet functional. Located at the junction of Bristol Road and Carlisle Road, this one-storey masjid can accommodate up to 120 people. Built in 1907 its main activities include daily and Friday prayers as well as occasional religious lectures.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.31300789080779,
+        "lng": 103.849141018794
+      },
+      "logo_url": null,
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/tasek-utara/"
+    },
+    {
+      "slug": "tentera-di-raja",
+      "name": "Tentera Di Raja",
+      "address": "81 Clementi Road Singapore 129797",
+      "postal_code": "129797",
+      "phone": "67765612",
+      "email": "info@tentera.mosque.org.sg",
+      "website": "http://tenteradiraja.sg/",
+      "description": "Built in 1961 by Muslim members of the British army, this old generation masjid was renamed Tentera Di Raja in recognition of their contributions. Located in the West and close to the National University of Singapore, it is distinguished by its minaret topped by a gold-painted dome. With a capacity of 1000 people, its newly-set up Youth Wing whose members are mostly undergraduates has recently embarked on a tuition scheme called EMAS (English, Maths and Science) for primary six children.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.29878403196681,
+        "lng": 103.769167164764
+      },
+      "logo_url": "mosque-directory/logos/tentera-di-raja.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/tentera-di-raja/"
+    },
+    {
+      "slug": "wak-tanjong",
+      "name": "Wak Tanjong",
+      "address": "25 Paya Lebar Road Singapore 409004",
+      "postal_code": "409004",
+      "phone": "67472743",
+      "email": "info@waktanjong.mosque.org.sg",
+      "website": null,
+      "description": "A whitewashed structure has replaced the semi-wooden prayer hall in this redeveloped masjid located in the Central part of the island. The original masjid dated back to the year 1935. In 1998, the masjid was reopened after undergoing a major restructuring. It has a capacity of 500 people.",
+      "features": [],
+      "coordinates": {
+        "lat": 1.31758169463895,
+        "lng": 103.891814532847
+      },
+      "logo_url": "mosque-directory/logos/wak-tanjong.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/wak-tanjong/"
+    },
+    {
+      "slug": "yusof-ishak",
+      "name": "Yusof Ishak",
+      "address": "10 Woodlands Drive 17 Singapore 737740",
+      "postal_code": "737740",
+      "phone": "68930093",
+      "email": "contact@yusofishak.mosque.sg",
+      "website": "http://masjidyusofishak.sg/",
+      "description": "Masjid Yusof Ishak is the 71st mosque in Singapore today, and the fourth mosque built under Phase 4 of the Mosque Building Programme. It is Singapore’s 26th mosque to be funded by the Mosque Building and Mendaki Fund (MBMF). Masjid Yusof Ishak is designed with a unique architecture blending traditional mosque characteristics with Nusantara heritage and elements, while also addressing functional requirements. Distinctive features of a tropical Nusantara house, such as eaves/overhangs, verandah, decorative fixed ventilation panels and beautifully crafted balustrades, are reinterpreted and expressed in a modern way befitting this new generation mosque.",
+      "features": [
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning"
+      ],
+      "coordinates": {
+        "lat": 1.42650825575037,
+        "lng": 103.796181949046
+      },
+      "logo_url": "mosque-directory/logos/yusof-ishak.png",
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/yusof-ishak/"
+    }
+  ]
+}
