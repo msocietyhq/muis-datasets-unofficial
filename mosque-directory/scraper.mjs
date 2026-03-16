@@ -28,7 +28,7 @@ import * as cheerio from 'cheerio';
 const BASE_URL = 'https://www.muis.gov.sg';
 const DIRECTORY_URL = `${BASE_URL}/community/mosque/mosque-directory/`;
 const DELAY_MS = 500;
-const USER_AGENT = 'sg-mosque-directory-scraper/1.0 (community project)';
+const USER_AGENT = 'muis-data-unofficial/1.0 (community project)';
 const JSON_PATH = 'mosque-directory/data.json';
 
 const isUpdateMode = process.argv.includes('--update');
