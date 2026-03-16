@@ -304,8 +304,10 @@ async function updateScrape() {
         description: detail.description,
         features: detail.features,
   
-        // Preserve community-enriched fields
-        coordinates: existingMosque?.coordinates ?? null,
+        // Preserve coordinates unless address changed (re-geocode needed)
+        coordinates: (existingMosque && existingMosque.address === m.address)
+          ? existingMosque.coordinates
+          : null,
         logo_url: existingMosque?.logo_url ?? null,
         muis_url: `${DIRECTORY_URL}${m.slug}/`,
       });
