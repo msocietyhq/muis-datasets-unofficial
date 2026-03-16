@@ -2,7 +2,7 @@
  * Shared utilities for MUIS scrapers
  */
 
-export const USER_AGENT = 'muis-data-unofficial/1.0 (community project)';
+export const USER_AGENT = 'muis-datasets-unofficial/1.0 (community project)';
 
 export async function fetchPage(url) {
   const res = await fetch(url, {

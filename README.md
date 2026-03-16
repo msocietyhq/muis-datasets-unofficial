@@ -1,4 +1,4 @@
-# 🕌 MUIS Data (Unofficial)
+# 🕌 MUIS Datasets (Unofficial)
 
 Structured, machine-readable JSON datasets from [MUIS](https://www.muis.gov.sg/) (Majlis Ugama Islam Singapura), auto-synced daily via GitHub Actions.
 
@@ -15,17 +15,17 @@ Fetch any dataset directly via `raw.githubusercontent.com`:
 ```js
 // Mosque directory
 const mosques = await fetch(
-  'https://raw.githubusercontent.com/msocietyhq/muis-data-unofficial/main/mosque-directory/data.json'
+  'https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/mosque-directory/data.json'
 ).then(r => r.json());
 
 // ARS directory
 const ars = await fetch(
-  'https://raw.githubusercontent.com/msocietyhq/muis-data-unofficial/main/ars-directory/data.json'
+  'https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/ars-directory/data.json'
 ).then(r => r.json());
 
 // IECP directory
 const iecp = await fetch(
-  'https://raw.githubusercontent.com/msocietyhq/muis-data-unofficial/main/iecp-directory/data.json'
+  'https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/iecp-directory/data.json'
 ).then(r => r.json());
 ```
 
@@ -148,7 +148,7 @@ Entirely free:
 ## Repo structure
 
 ```
-muis-data-unofficial/
+muis-datasets-unofficial/
 ├── mosque-directory/
 │   ├── data.json              # Mosque dataset
 │   ├── logos/                 # Mosque logo images

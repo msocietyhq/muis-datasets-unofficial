@@ -25,7 +25,7 @@ const JSON_PATH = 'mosque-directory/data.json';
 const LOGOS_DIR = 'mosque-directory/logos';
 const DELAY_MS = 500;
 const TIMEOUT_MS = 10000;
-const USER_AGENT = 'muis-data-unofficial/1.0 (community project)';
+const USER_AGENT = 'muis-datasets-unofficial/1.0 (community project)';
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));

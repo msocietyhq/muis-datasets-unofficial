@@ -1,8 +1,8 @@
 {
-  "name": "muis-data-unofficial",
+  "name": "muis-datasets-unofficial",
   "version": "1.0.0",
   "type": "module",
-  "description": "MUIS Data (Unofficial) — structured JSON datasets of mosques, ARS-certified asatizah, and IECPs",
+  "description": "MUIS Datasets (Unofficial) — structured JSON datasets of mosques, ARS-certified asatizah, and IECPs",
   "scripts": {
     "scrape:mosques": "node mosque-directory/scraper.mjs",
     "scrape:ars": "node ars-directory/scraper.mjs",
