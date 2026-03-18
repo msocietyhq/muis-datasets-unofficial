@@ -2,13 +2,14 @@
   "meta": {
     "source": "MUIS ARS Directory",
     "source_url": "https://www.muis.gov.sg/education/asatizah-development/asatizah-recognition-scheme/ars-directory/",
-    "last_scraped": "2026-03-16",
-    "muis_last_updated": "2026-02-25",
+    "last_scraped": "2026-03-18",
+    "muis_last_updated": "2026-02-26",
     "total_count": 5215,
     "tier_counts": {
       "Tier 1 (Asatizah)": 2783,
       "Tier 2 (Quranic Teacher)": 2432
-    }
+    },
+    "last_checked": "2026-03-18T06:19:19.647Z"
   },
   "asatizah": [
     {
