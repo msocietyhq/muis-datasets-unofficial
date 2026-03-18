@@ -1,12 +1,13 @@
 # 🕌 MUIS Datasets (Unofficial)
 
-Structured, machine-readable JSON datasets from [MUIS](https://www.muis.gov.sg/) (Majlis Ugama Islam Singapura), auto-synced daily via GitHub Actions.
+Structured, machine-readable JSON datasets from [MUIS](https://www.muis.gov.sg/) (Majlis Ugama Islam Singapura), auto-synced via GitHub Actions.
 
 | Dataset | Records | Source |
 |---------|---------|--------|
 | [Mosque Directory](#mosque-directory) | ~70 mosques | [MUIS](https://www.muis.gov.sg/community/mosque/mosque-directory/) |
 | [ARS Directory](#ars-directory) | ~5,200 asatizah | [MUIS](https://www.muis.gov.sg/education/asatizah-development/asatizah-recognition-scheme/ars-directory/) |
 | [IECP Directory](#iecp-directory) | ~480 centres | [MUIS](https://www.muis.gov.sg/education/asatizah-development/asatizah-recognition-scheme/iecp-directory/) |
+| [Halal Directory](#halal-directory) | ~4,600 establishments | [MUIS Halal SG](https://halal.muis.gov.sg/halal/establishments) |
 
 ## Usage
 
@@ -26,6 +27,11 @@ const ars = await fetch(
 // IECP directory
 const iecp = await fetch(
   'https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/iecp-directory/data.json'
+).then(r => r.json());
+
+// Halal directory
+const halal = await fetch(
+  'https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/halal-directory/data.json'
 ).then(r => r.json());
 ```
 
@@ -112,6 +118,34 @@ All registered Islamic Education Centres and Providers.
 }
 ```
 
+## Halal Directory
+
+MUIS halal-certified establishments, normalized from the public halal search API and rebuilt weekly.
+
+```jsonc
+{
+  "meta": {
+    "source": "MUIS Halal Certified Establishments",
+    "last_scraped": "2026-03-18",
+    "total_count": 4628
+  },
+  "establishments": [
+    {
+      "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+      "certificate_number": "EEBN19110010548",
+      "name": "DOUGH CULTURE PTE LTD",
+      "address": "930 YISHUN AVENUE 2 #B1-10 NORTHPOINT 769098",
+      "postal_code": "769098",
+      "coordinates": { "lat": 1.4296, "lng": 103.836 },
+      "scheme": { "id": 100, "name": "Eating Establishment" },
+      "sub_scheme": { "id": 108, "name": "Snack Bar / Bakery" },
+      "type": { "id": 0, "name": "Default" },
+      "logo_url": null
+    }
+  ]
+}
+```
+
 ---
 
 ## Setup
@@ -122,13 +156,21 @@ npm install
 # Full scrape (first time)
 npm run scrape:all
 
+# Just the halal directory
+npm run scrape:halal
+
 # Enrich mosque coordinates via OneMap
 npm run enrich:mosques
 ```
 
-## How the daily sync works
+## How the sync works
 
-The `.github/workflows/sync.yml` action runs daily at 6am SGT:
+The repo uses two GitHub Actions:
+
+- `.github/workflows/sync.yml` runs daily at 6am SGT for mosques, ARS, and IECP
+- `.github/workflows/halal-sync.yml` runs weekly at 6am SGT on Monday for halal establishments
+
+The daily workflow:
 
 1. For each directory, fetches the MUIS page and compares the "Last updated" timestamp
 2. Only re-extracts data if the page is newer than what's stored
@@ -138,10 +180,18 @@ The `.github/workflows/sync.yml` action runs daily at 6am SGT:
 
 Each scraper exits with code `2` if nothing changed — the Action skips the commit.
 
+The weekly halal workflow:
+
+1. Fetches a CSRF token and session cookie from the public halal directory page
+2. Queries the halal establishments API by postal-code prefixes
+3. Expands only prefixes that hit the API result cap
+4. Deduplicates by certificate number and rewrites `halal-directory/data.json`
+5. Auto-commits only when the JSON output actually changed
+
 ### Cost
 
 Entirely free:
-- **GitHub Actions**: ~1 min/day (free tier: 2,000 min/month)
+- **GitHub Actions**: ~1 min/day + one weekly halal sync (free tier: 2,000 min/month)
 - **OneMap API**: Free, no key required
 - **MUIS**: ~73 polite requests/day max (70 mosque detail pages + 1 directory + 1 ARS + 1 IECP)
 
@@ -161,9 +211,16 @@ muis-datasets-unofficial/
 ├── iecp-directory/
 │   ├── data.json              # IECP dataset
 │   └── scraper.mjs            # IECP scraper
+├── halal-directory/
+│   ├── data.json              # Halal establishments dataset
+│   ├── helpers.mjs            # Shared halal normalization/query helpers
+│   ├── helpers.test.mjs       # Helper tests
+│   ├── scraper.mjs            # Halal API scraper
+│   └── scraper.test.mjs       # Scraper tests
 ├── utils.mjs                  # Shared utilities
 ├── .github/workflows/
-│   └── sync.yml               # Daily sync action
+│   ├── sync.yml               # Daily sync action
+│   └── halal-sync.yml         # Weekly halal sync action
 ├── package.json
 └── README.md
 ```
@@ -190,4 +247,4 @@ We're still missing logos for these mosques. If you have or can find an official
 
 ## License
 
-Mosque, ARS, and IECP data sourced from MUIS (Singapore Government). This dataset is provided for community use. Please attribute MUIS as the original data source.
+Mosque, ARS, IECP, and halal establishment data sourced from MUIS (Singapore Government). This dataset is provided for community use. Please attribute MUIS as the original data source.

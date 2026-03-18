@@ -1,0 +1,50 @@
+name: Sync MUIS Halal Directory
+
+on:
+  schedule:
+    # Run weekly on Monday at 6am SGT (Sunday 10pm UTC)
+    - cron: '0 22 * * 0'
+  workflow_dispatch:
+
+jobs:
+  sync-halal:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Update halal directory
+        id: halal
+        run: node halal-directory/scraper.mjs --update
+        continue-on-error: true
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add halal-directory/data.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          DATE=$(date -u +"%Y-%m-%d")
+          git commit -m "sync: halal (${DATE})" \
+                      -m "Automated weekly sync from MUIS halal establishments directory."
+          git push
