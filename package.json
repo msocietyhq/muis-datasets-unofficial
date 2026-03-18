@@ -16,6 +16,7 @@
     "scrape:logos": "node mosque-directory/scrape-logos.mjs"
   },
   "keywords": ["singapore", "muis", "mosques", "masjid", "asatizah", "ars", "iecp", "open-data", "islamic-education"],
+  "packageManager": "pnpm@10.12.1",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.2.0"
