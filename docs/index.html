@@ -50,6 +50,7 @@
   .card-value.mosques { color: var(--accent); }
   .card-value.ars { color: var(--green); }
   .card-value.iecp { color: var(--amber); }
+  .card-value.halal { color: var(--red); }
 
   /* Tabs */
   .tabs { display: flex; gap: 0.25rem; margin-bottom: 0; border-bottom: 1px solid var(--border); }
@@ -230,18 +231,37 @@
   .contrib-item h4 { font-size: 0.82rem; font-weight: 600; margin-bottom: 0.25rem; }
   .contrib-item p { font-size: 0.78rem; color: var(--text2); line-height: 1.55; }
 
-  /* Hero / explainer */
+  /* Hero / explainer (collapsible) */
   .hero {
     background: var(--surface);
     border: 1px solid var(--border);
     border-radius: 12px;
-    padding: 2rem 2rem 1.75rem;
     margin-bottom: 2rem;
   }
-  .hero h2 { font-size: 1.15rem; font-weight: 700; margin-bottom: 0.6rem; letter-spacing: -0.01em; }
-  .hero > p { font-size: 0.88rem; color: var(--text2); line-height: 1.65; margin-bottom: 1rem; }
-  .hero > p a { color: var(--accent); text-decoration: none; }
-  .hero > p a:hover { text-decoration: underline; }
+  .hero summary {
+    padding: 1.5rem 2rem;
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+  .hero summary::-webkit-details-marker { display: none; }
+  .hero summary::after {
+    content: '▸';
+    font-size: 1rem;
+    color: var(--text2);
+    transition: transform 0.2s;
+    flex-shrink: 0;
+  }
+  .hero[open] summary::after { transform: rotate(90deg); }
+  .hero summary h2 { font-size: 1.15rem; font-weight: 700; letter-spacing: -0.01em; margin: 0; }
+  .hero summary .summary-hint { font-size: 0.8rem; color: var(--text2); }
+  .hero .hero-body { padding: 0 2rem 1.75rem; }
+  .hero .hero-body > p { font-size: 0.88rem; color: var(--text2); line-height: 1.65; margin-bottom: 1rem; }
+  .hero .hero-body > p a { color: var(--accent); text-decoration: none; }
+  .hero .hero-body > p a:hover { text-decoration: underline; }
   .hero-features {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -270,6 +290,7 @@
   .hero-feat .icon.blue { background: rgba(108,140,255,0.15); color: var(--accent); }
   .hero-feat .icon.green { background: rgba(78,205,196,0.15); color: var(--green); }
   .hero-feat .icon.amber { background: rgba(245,166,35,0.15); color: var(--amber); }
+  .hero-feat .icon.red { background: rgba(255,107,107,0.15); color: var(--red); }
   .hero-feat strong { font-weight: 600; }
   .hero-api {
     background: var(--surface2);
@@ -335,12 +356,17 @@
     <p>A community project by <a href="https://github.com/msocietyhq" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:600;">msociety</a> — free, open-source JSON datasets for Singapore's Islamic institutions</p>
   </header>
 
-  <section class="hero">
-    <h2>Open data you can use in your projects</h2>
+  <details class="hero" open>
+    <summary>
+      <h2>Open data you can use in your projects</h2>
+      <span class="summary-hint">click to collapse</span>
+    </summary>
+    <div class="hero-body">
     <p>
       Maintained by the <a href="https://github.com/msocietyhq" target="_blank"><strong>msociety</strong></a> community,
       this project provides <strong>free, structured JSON datasets</strong> scraped from
-      <a href="https://www.muis.gov.sg" target="_blank">MUIS (Majlis Ugama Islam Singapura)</a> —
+      <a href="https://www.muis.gov.sg" target="_blank">MUIS (Majlis Ugama Islam Singapura)</a> and
+      <a href="https://halal.muis.gov.sg" target="_blank">MUIS Halal</a> —
       Singapore's Islamic Religious Council. The data is auto-updated daily and served as static JSON files
       you can fetch directly from GitHub — <strong>no API key required, no rate limits, no sign-up</strong>.
     </p>
@@ -369,9 +395,13 @@ https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/mosqu
 https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/ars-directory/data.json
 
 <span class="comment"># 468 Islamic education centres</span>
-https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/iecp-directory/data.json</code>
+https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/iecp-directory/data.json
+
+<span class="comment"># 4,600+ halal-certified eating establishments</span>
+https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/halal-directory/data.json</code>
     </div>
-  </section>
+    </div>
+  </details>
 
   <div class="cards" id="cards">
     <div class="card">
@@ -389,12 +419,18 @@ https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/iecp-
       <div class="card-value iecp" id="stat-iecp">--</div>
       <div class="card-sub" id="stat-iecp-date">Loading…</div>
     </div>
+    <div class="card">
+      <div class="card-label">Halal Establishments</div>
+      <div class="card-value halal" id="stat-halal">--</div>
+      <div class="card-sub" id="stat-halal-date">Loading…</div>
+    </div>
   </div>
 
   <div class="tabs" id="tabs">
     <button class="tab active" data-tab="mosques">Mosques <span class="badge" id="badge-mosques"></span></button>
     <button class="tab" data-tab="ars">Asatizah <span class="badge" id="badge-ars"></span></button>
     <button class="tab" data-tab="iecp">Education Centres <span class="badge" id="badge-iecp"></span></button>
+    <button class="tab" data-tab="halal">Halal <span class="badge" id="badge-halal"></span></button>
   </div>
 
   <div class="toolbar">
@@ -474,6 +510,30 @@ main/iecp-directory/data.json \
           <li><strong>name</strong> &mdash; centre name</li>
         </ul>
         <p>The <code style="display:inline;padding:0.1rem 0.3rem;margin:0">meta.breakdown</code> object gives counts by type: mosques, madrasahs, and other centres.</p>
+      </div>
+
+      <div class="guide-card">
+        <h3><span class="dot" style="background:var(--red)"></span>Halal Directory</h3>
+        <p><strong>Build with it:</strong> halal restaurant finders, food delivery integrations, neighbourhood dining guides, travel apps for Muslim visitors.</p>
+        <code>// JavaScript — find halal bakeries
+const res = await fetch(
+  'https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/halal-directory/data.json'
+);
+const { establishments } = await res.json();
+const bakeries = establishments.filter(
+  e => e.sub_scheme?.name === 'Snack Bar / Bakery'
+);</code>
+        <p>Each establishment includes:</p>
+        <ul class="field-list">
+          <li><strong>name</strong> &mdash; business name</li>
+          <li><strong>address</strong> &mdash; full address</li>
+          <li><strong>postal_code</strong></li>
+          <li><strong>certificate_number</strong></li>
+          <li><strong>coordinates</strong> &mdash; lat/lng</li>
+          <li><strong>scheme</strong> &mdash; e.g. Eating Establishment</li>
+          <li><strong>sub_scheme</strong> &mdash; e.g. Restaurant, Bakery</li>
+          <li><strong>logo_url</strong></li>
+        </ul>
       </div>
 
     </div>
@@ -599,6 +659,28 @@ const schemas = {
       return rows.sort((a, b) => ((a[col] || '').localeCompare(b[col] || '')) * dir);
     },
   },
+  halal: {
+    key: 'establishments',
+    cols: [
+      { id: 'name', label: 'Name', render: (r) => esc(r.name) },
+      { id: 'address', label: 'Address', render: (r) => esc(r.address || '—') },
+      { id: 'scheme', label: 'Scheme', render: (r) => esc(r.scheme?.name || '—') },
+      { id: 'sub_scheme', label: 'Sub-scheme', render: (r) => esc(r.sub_scheme?.name || '—') },
+    ],
+    search: (r, q) => [r.name, r.address, r.scheme?.name, r.sub_scheme?.name, r.certificate_number].filter(Boolean).join(' ').toLowerCase().includes(q),
+    filters: (data) => {
+      const schemes = [...new Set(data.map(r => r.scheme?.name).filter(Boolean))].sort();
+      return schemes.map(s => ({ label: s, match: r => r.scheme?.name === s }));
+    },
+    sort: (rows, col, asc) => {
+      const dir = asc ? 1 : -1;
+      return rows.sort((a, b) => {
+        const va = col === 'scheme' ? (a.scheme?.name || '') : col === 'sub_scheme' ? (a.sub_scheme?.name || '') : (a[col] || '');
+        const vb = col === 'scheme' ? (b.scheme?.name || '') : col === 'sub_scheme' ? (b.sub_scheme?.name || '') : (b[col] || '');
+        return va.localeCompare(vb) * dir;
+      });
+    },
+  },
 };
 
 function esc(s) {
@@ -619,27 +701,32 @@ function relTime(dateStr) {
 }
 
 async function loadData() {
-  const [mosques, ars, iecp] = await Promise.all([
+  const [mosques, ars, iecp, halal] = await Promise.all([
     fetch(`${BASE}mosque-directory/data.json`).then(r => r.json()),
     fetch(`${BASE}ars-directory/data.json`).then(r => r.json()),
     fetch(`${BASE}iecp-directory/data.json`).then(r => r.json()),
+    fetch(`${BASE}halal-directory/data.json`).then(r => r.json()),
   ]);
-  datasets = { mosques, ars, iecp };
+  datasets = { mosques, ars, iecp, halal };
 
   document.getElementById('stat-mosques').textContent = mosques.meta.total_count.toLocaleString();
   document.getElementById('stat-ars').textContent = ars.meta.total_count.toLocaleString();
   document.getElementById('stat-iecp').textContent = iecp.meta.total_count.toLocaleString();
+  document.getElementById('stat-halal').textContent = halal.meta.total_count.toLocaleString();
 
   const mDate = mosques.meta.last_checked || mosques.meta.last_scraped;
   const aDate = ars.meta.last_checked || ars.meta.last_scraped;
   const iDate = iecp.meta.last_checked || iecp.meta.last_scraped;
+  const hDate = halal.meta.last_scraped;
   document.getElementById('stat-mosques-date').textContent = `Updated ${relTime(mDate)}`;
   document.getElementById('stat-ars-date').textContent = `Updated ${relTime(aDate)}`;
   document.getElementById('stat-iecp-date').textContent = `Updated ${relTime(iDate)}`;
+  document.getElementById('stat-halal-date').textContent = `Updated ${relTime(hDate)}`;
 
   document.getElementById('badge-mosques').textContent = mosques.meta.total_count;
   document.getElementById('badge-ars').textContent = ars.meta.total_count.toLocaleString();
   document.getElementById('badge-iecp').textContent = iecp.meta.total_count;
+  document.getElementById('badge-halal').textContent = halal.meta.total_count.toLocaleString();
 
   render();
 }
@@ -773,6 +860,12 @@ document.getElementById('pagination').addEventListener('click', (e) => {
   else currentPage = parseInt(p);
   render();
   document.querySelector('.panel').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+});
+
+// Toggle hint text on collapsible hero
+document.querySelector('.hero').addEventListener('toggle', (e) => {
+  const hint = e.target.querySelector('.summary-hint');
+  if (hint) hint.textContent = e.target.open ? 'click to collapse' : 'click to expand';
 });
 
 loadData();
