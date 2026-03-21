@@ -186,6 +186,50 @@
   .page-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
   .page-btn:disabled { opacity: 0.3; cursor: default; }
 
+  /* Guide section */
+  .guide { margin-top: 2.5rem; }
+  .guide h2 { font-size: 1.2rem; font-weight: 700; margin-bottom: 1.25rem; letter-spacing: -0.01em; }
+  .guide-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+  .guide-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+  }
+  .guide-card h3 { font-size: 0.9rem; font-weight: 700; margin-bottom: 0.5rem; }
+  .guide-card h3 .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 0.5rem; vertical-align: middle; }
+  .guide-card p { font-size: 0.82rem; color: var(--text2); margin-bottom: 0.6rem; line-height: 1.6; }
+  .guide-card code {
+    display: block;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.6rem 0.8rem;
+    font-size: 0.78rem;
+    font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', monospace;
+    color: var(--text);
+    overflow-x: auto;
+    white-space: pre;
+    margin-bottom: 0.5rem;
+    line-height: 1.55;
+  }
+  .guide-card ul { margin: 0.4rem 0 0.6rem 1.2rem; font-size: 0.82rem; color: var(--text2); }
+  .guide-card ul li { margin-bottom: 0.25rem; }
+  .guide-card .field-list { columns: 2; column-gap: 1rem; }
+  .guide-card a { color: var(--accent); text-decoration: none; }
+  .guide-card a:hover { text-decoration: underline; }
+  .contribute {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .contribute h3 { font-size: 0.95rem; font-weight: 700; margin-bottom: 0.75rem; }
+  .contribute-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; }
+  .contrib-item h4 { font-size: 0.82rem; font-weight: 600; margin-bottom: 0.25rem; }
+  .contrib-item p { font-size: 0.78rem; color: var(--text2); line-height: 1.55; }
+
   /* Footer */
   footer { text-align: center; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
   footer p { font-size: 0.78rem; color: var(--text2); }
@@ -252,6 +296,97 @@
     </div>
     <div class="pagination" id="pagination"></div>
   </div>
+
+  <!-- Guide Section -->
+  <section class="guide">
+    <h2>Using the Datasets</h2>
+    <div class="guide-grid">
+
+      <div class="guide-card">
+        <h3><span class="dot" style="background:var(--accent)"></span>Mosque Directory</h3>
+        <p>70 mosques with addresses, coordinates, contact info, and features. Ideal for maps, directories, and community apps.</p>
+        <code>curl -s https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/mosque-directory/data.json | jq '.mosques[0]'</code>
+        <p>Fields per mosque:</p>
+        <ul class="field-list">
+          <li><strong>name</strong> &mdash; mosque name</li>
+          <li><strong>address</strong> &mdash; full address</li>
+          <li><strong>postal_code</strong></li>
+          <li><strong>district</strong> &mdash; N / S / E / W</li>
+          <li><strong>phone</strong> &amp; <strong>email</strong></li>
+          <li><strong>website</strong></li>
+          <li><strong>coordinates</strong> &mdash; lat/lng</li>
+          <li><strong>features</strong> &mdash; e.g. barrier-free</li>
+          <li><strong>description</strong></li>
+          <li><strong>logo_url</strong></li>
+        </ul>
+      </div>
+
+      <div class="guide-card">
+        <h3><span class="dot" style="background:var(--green)"></span>ARS Directory (Asatizah)</h3>
+        <p>5,200+ certified asatizah (religious teachers) with tier classification. Useful for verification and analytics.</p>
+        <code>curl -s https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/ars-directory/data.json | jq '.asatizah[:3]'</code>
+        <p>Fields per entry:</p>
+        <ul>
+          <li><strong>title</strong> &mdash; Ustaz / Ustazah</li>
+          <li><strong>name</strong> &mdash; full name</li>
+          <li><strong>category</strong> &mdash; Tier 1 (Asatizah) or Tier 2 (Quranic Teacher)</li>
+        </ul>
+      </div>
+
+      <div class="guide-card">
+        <h3><span class="dot" style="background:var(--amber)"></span>IECP Directory</h3>
+        <p>468 Islamic Education Centres &amp; Providers &mdash; mosques, madrasahs, and other certified centres.</p>
+        <code>curl -s https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/iecp-directory/data.json | jq '.iecps[:3]'</code>
+        <p>Fields per entry:</p>
+        <ul>
+          <li><strong>number</strong> &mdash; index</li>
+          <li><strong>name</strong> &mdash; centre name</li>
+        </ul>
+        <p>The <code style="display:inline;padding:0.1rem 0.3rem;margin:0">meta.breakdown</code> object gives counts by type: mosques, madrasahs, and other centres.</p>
+      </div>
+
+    </div>
+
+    <h2>Contributing</h2>
+    <div class="contribute">
+      <h3>Ways to Help</h3>
+      <div class="contribute-grid">
+        <div class="contrib-item">
+          <h4>Report Data Issues</h4>
+          <p>Spotted incorrect or outdated info? <a href="https://github.com/msocietyhq/muis-datasets-unofficial/issues/new" target="_blank">Open an issue</a> with details and we'll investigate.</p>
+        </div>
+        <div class="contrib-item">
+          <h4>Add Mosque Logos</h4>
+          <p>Community-contributed logos live in <code style="display:inline;padding:0.1rem 0.3rem;margin:0">mosque-directory/logos/</code>. Submit a PR with a PNG named after the mosque slug.</p>
+        </div>
+        <div class="contrib-item">
+          <h4>Improve Scrapers</h4>
+          <p>Scrapers are in plain Node.js with Cheerio. Fork the repo, make changes, and open a PR. See <a href="https://github.com/msocietyhq/muis-datasets-unofficial" target="_blank">the README</a> for setup.</p>
+        </div>
+        <div class="contrib-item">
+          <h4>Build Something</h4>
+          <p>Use the JSON data to build apps, maps, bots, or analysis. Let us know what you've made!</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="contribute">
+      <h3>Quick Start for Developers</h3>
+      <code>git clone https://github.com/msocietyhq/muis-datasets-unofficial.git
+cd muis-datasets-unofficial
+pnpm install
+
+# Run a full scrape
+npm run scrape:mosques
+
+# Or run diff-aware updates (what CI uses)
+npm run update:all</code>
+      <p style="font-size:0.82rem;color:var(--text2);margin-top:0.75rem;">
+        Data auto-syncs daily at 6 AM SGT via GitHub Actions. Only changed records are committed.
+        Scrapers use polite delays (300-500ms) and identify via User-Agent.
+      </p>
+    </div>
+  </section>
 
   <footer>
     <p>
