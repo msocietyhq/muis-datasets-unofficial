@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MUIS Datasets — Live Status</title>
+<title>MUIS Datasets — Open Data for Singapore's Islamic Institutions</title>
 <style>
   :root {
     --bg: #0f1117;
@@ -230,6 +230,65 @@
   .contrib-item h4 { font-size: 0.82rem; font-weight: 600; margin-bottom: 0.25rem; }
   .contrib-item p { font-size: 0.78rem; color: var(--text2); line-height: 1.55; }
 
+  /* Hero / explainer */
+  .hero {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 2rem 2rem 1.75rem;
+    margin-bottom: 2rem;
+  }
+  .hero h2 { font-size: 1.15rem; font-weight: 700; margin-bottom: 0.6rem; letter-spacing: -0.01em; }
+  .hero > p { font-size: 0.88rem; color: var(--text2); line-height: 1.65; margin-bottom: 1rem; }
+  .hero > p a { color: var(--accent); text-decoration: none; }
+  .hero > p a:hover { text-decoration: underline; }
+  .hero-features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 1.25rem;
+  }
+  .hero-feat {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.6rem;
+    font-size: 0.82rem;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .hero-feat .icon {
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    margin-top: 0.1rem;
+  }
+  .hero-feat .icon.blue { background: rgba(108,140,255,0.15); color: var(--accent); }
+  .hero-feat .icon.green { background: rgba(78,205,196,0.15); color: var(--green); }
+  .hero-feat .icon.amber { background: rgba(245,166,35,0.15); color: var(--amber); }
+  .hero-feat strong { font-weight: 600; }
+  .hero-api {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.85rem 1rem;
+  }
+  .hero-api p { font-size: 0.8rem; color: var(--text2); margin-bottom: 0.5rem; font-weight: 600; }
+  .hero-api code {
+    display: block;
+    font-size: 0.78rem;
+    font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', monospace;
+    color: var(--text);
+    line-height: 1.55;
+    overflow-x: auto;
+    white-space: pre;
+  }
+  .hero-api code .comment { color: var(--text2); }
+
   /* Footer */
   footer { text-align: center; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
   footer p { font-size: 0.78rem; color: var(--text2); }
@@ -254,8 +313,45 @@
 <div class="container">
   <header>
     <h1>MUIS <span>Datasets</span></h1>
-    <p>Unofficial open datasets from Singapore's Majlis Ugama Islam Singapura</p>
+    <p>Free, open-source JSON datasets for Singapore's Islamic institutions</p>
   </header>
+
+  <section class="hero">
+    <h2>Open data you can use in your projects</h2>
+    <p>
+      This project maintains <strong>free, structured JSON datasets</strong> scraped from
+      <a href="https://www.muis.gov.sg" target="_blank">MUIS (Majlis Ugama Islam Singapura)</a> —
+      Singapore's Islamic Religious Council. The data is auto-updated daily and served as static JSON files
+      you can fetch directly from GitHub — <strong>no API key required, no rate limits, no sign-up</strong>.
+    </p>
+
+    <div class="hero-features">
+      <div class="hero-feat">
+        <div class="icon blue">&#123;&#125;</div>
+        <div><strong>Static JSON</strong><br>Fetch directly via URL. Works with any language — JavaScript, Python, curl, mobile apps.</div>
+      </div>
+      <div class="hero-feat">
+        <div class="icon green">&#8635;</div>
+        <div><strong>Always current</strong><br>Auto-synced daily at 6 AM SGT via GitHub Actions. Only changed records are committed.</div>
+      </div>
+      <div class="hero-feat">
+        <div class="icon amber">&#9878;</div>
+        <div><strong>No restrictions</strong><br>No API key, no rate limits, no CORS issues. Use it in client-side apps, servers, or scripts.</div>
+      </div>
+    </div>
+
+    <div class="hero-api">
+      <p>Fetch any dataset with a single URL:</p>
+      <code><span class="comment"># Mosque directory (with coordinates, contacts, features)</span>
+https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/mosque-directory/data.json
+
+<span class="comment"># 5,200+ certified asatizah (religious teachers)</span>
+https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/ars-directory/data.json
+
+<span class="comment"># 468 Islamic education centres</span>
+https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/iecp-directory/data.json</code>
+    </div>
+  </section>
 
   <div class="cards" id="cards">
     <div class="card">
@@ -299,14 +395,19 @@
 
   <!-- Guide Section -->
   <section class="guide">
-    <h2>Using the Datasets</h2>
+    <h2>Integration Guide</h2>
     <div class="guide-grid">
 
       <div class="guide-card">
         <h3><span class="dot" style="background:var(--accent)"></span>Mosque Directory</h3>
-        <p>70 mosques with addresses, coordinates, contact info, and features. Ideal for maps, directories, and community apps.</p>
-        <code>curl -s https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/mosque-directory/data.json | jq '.mosques[0]'</code>
-        <p>Fields per mosque:</p>
+        <p><strong>Build with it:</strong> mosque finder apps, prayer time widgets, community maps, accessibility directories, navigation tools.</p>
+        <code>// JavaScript — fetch all mosques
+const res = await fetch(
+  'https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/mosque-directory/data.json'
+);
+const { mosques } = await res.json();
+console.log(mosques[0].name, mosques[0].coordinates);</code>
+        <p>Each mosque includes:</p>
         <ul class="field-list">
           <li><strong>name</strong> &mdash; mosque name</li>
           <li><strong>address</strong> &mdash; full address</li>
@@ -323,9 +424,15 @@
 
       <div class="guide-card">
         <h3><span class="dot" style="background:var(--green)"></span>ARS Directory (Asatizah)</h3>
-        <p>5,200+ certified asatizah (religious teachers) with tier classification. Useful for verification and analytics.</p>
-        <code>curl -s https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/ars-directory/data.json | jq '.asatizah[:3]'</code>
-        <p>Fields per entry:</p>
+        <p><strong>Build with it:</strong> teacher verification tools, search portals, community directories, analytics dashboards.</p>
+        <code># Python — search for a teacher
+import requests
+data = requests.get(
+  'https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/ars-directory/data.json'
+).json()
+matches = [a for a in data['asatizah']
+           if 'Ahmad' in a['name']]</code>
+        <p>Each entry includes:</p>
         <ul>
           <li><strong>title</strong> &mdash; Ustaz / Ustazah</li>
           <li><strong>name</strong> &mdash; full name</li>
@@ -335,9 +442,13 @@
 
       <div class="guide-card">
         <h3><span class="dot" style="background:var(--amber)"></span>IECP Directory</h3>
-        <p>468 Islamic Education Centres &amp; Providers &mdash; mosques, madrasahs, and other certified centres.</p>
-        <code>curl -s https://raw.githubusercontent.com/msocietyhq/muis-datasets-unofficial/main/iecp-directory/data.json | jq '.iecps[:3]'</code>
-        <p>Fields per entry:</p>
+        <p><strong>Build with it:</strong> education centre finders, enrolment portals, community resource listings.</p>
+        <code># curl + jq — list first 5 centres
+curl -s https://raw.githubusercontent.com/\
+msocietyhq/muis-datasets-unofficial/\
+main/iecp-directory/data.json \
+| jq '.iecps[:5][] | .name'</code>
+        <p>Each entry includes:</p>
         <ul>
           <li><strong>number</strong> &mdash; index</li>
           <li><strong>name</strong> &mdash; centre name</li>
