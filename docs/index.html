@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MUIS Datasets — Live Status</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --surface: #1a1d27;
+    --surface2: #242835;
+    --border: #2e3345;
+    --text: #e4e6ef;
+    --text2: #8b8fa7;
+    --accent: #6c8cff;
+    --accent2: #4ecdc4;
+    --green: #4ecdc4;
+    --amber: #f5a623;
+    --red: #ff6b6b;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+  .container { max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+  /* Header */
+  header { text-align: center; margin-bottom: 2.5rem; }
+  header h1 { font-size: 1.6rem; font-weight: 700; letter-spacing: -0.02em; }
+  header h1 span { color: var(--accent); }
+  header p { color: var(--text2); font-size: 0.9rem; margin-top: 0.4rem; }
+
+  /* Summary cards */
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    transition: border-color 0.2s;
+  }
+  .card:hover { border-color: var(--accent); }
+  .card-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text2); margin-bottom: 0.3rem; }
+  .card-value { font-size: 2rem; font-weight: 700; }
+  .card-sub { font-size: 0.8rem; color: var(--text2); margin-top: 0.25rem; }
+  .card-value.mosques { color: var(--accent); }
+  .card-value.ars { color: var(--green); }
+  .card-value.iecp { color: var(--amber); }
+
+  /* Tabs */
+  .tabs { display: flex; gap: 0.25rem; margin-bottom: 0; border-bottom: 1px solid var(--border); }
+  .tab {
+    padding: 0.65rem 1.25rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    background: none;
+    color: var(--text2);
+    border: none;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .tab:hover { color: var(--text); }
+  .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+  .tab .badge {
+    display: inline-block;
+    background: var(--surface2);
+    color: var(--text2);
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 0.1rem 0.45rem;
+    border-radius: 8px;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+
+  /* Search */
+  .toolbar { display: flex; gap: 0.75rem; align-items: center; padding: 1rem 0; flex-wrap: wrap; }
+  .search-box {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.55rem 1rem 0.55rem 2.25rem;
+    font-size: 0.85rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    outline: none;
+    transition: border-color 0.15s;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%238b8fa7' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85zm-5.242.156a5 5 0 1 1 0-10 5 5 0 0 1 0 10z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: 0.7rem center;
+  }
+  .search-box:focus { border-color: var(--accent); }
+  .search-box::placeholder { color: var(--text2); }
+  .result-count { font-size: 0.8rem; color: var(--text2); white-space: nowrap; }
+
+  /* Filter pills */
+  .filters { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+  .pill {
+    padding: 0.3rem 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    color: var(--text2);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .pill:hover { border-color: var(--accent); color: var(--text); }
+  .pill.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  /* Table */
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+  thead th {
+    text-align: left;
+    padding: 0.7rem 1rem;
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text2);
+    background: var(--surface2);
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  thead th:hover { color: var(--text); }
+  thead th .sort-arrow { margin-left: 0.3rem; opacity: 0.4; }
+  thead th.sorted .sort-arrow { opacity: 1; color: var(--accent); }
+  tbody td {
+    padding: 0.6rem 1rem;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody tr:hover { background: var(--surface2); }
+  .district-tag {
+    display: inline-block;
+    padding: 0.1rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+  }
+  .link { color: var(--accent); text-decoration: none; }
+  .link:hover { text-decoration: underline; }
+  .tier-tag { font-size: 0.72rem; padding: 0.1rem 0.5rem; border-radius: 4px; font-weight: 600; }
+  .tier-tag.t1 { background: rgba(78,205,196,0.15); color: var(--green); }
+  .tier-tag.t2 { background: rgba(245,166,35,0.15); color: var(--amber); }
+
+  /* Pagination */
+  .pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    padding: 0.75rem 1rem;
+    border-top: 1px solid var(--border);
+  }
+  .page-btn {
+    padding: 0.3rem 0.65rem;
+    font-size: 0.8rem;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text2);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .page-btn:hover { border-color: var(--accent); color: var(--text); }
+  .page-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .page-btn:disabled { opacity: 0.3; cursor: default; }
+
+  /* Footer */
+  footer { text-align: center; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+  footer p { font-size: 0.78rem; color: var(--text2); }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  /* Loading */
+  .loading { text-align: center; padding: 3rem; color: var(--text2); }
+  .spinner { display: inline-block; width: 20px; height: 20px; border: 2px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.6s linear infinite; margin-right: 0.5rem; vertical-align: middle; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Responsive */
+  @media (max-width: 640px) {
+    .container { padding: 1rem; }
+    header h1 { font-size: 1.3rem; }
+    .cards { grid-template-columns: 1fr; }
+    .tab { padding: 0.5rem 0.75rem; font-size: 0.8rem; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>MUIS <span>Datasets</span></h1>
+    <p>Unofficial open datasets from Singapore's Majlis Ugama Islam Singapura</p>
+  </header>
+
+  <div class="cards" id="cards">
+    <div class="card">
+      <div class="card-label">Mosques</div>
+      <div class="card-value mosques" id="stat-mosques">--</div>
+      <div class="card-sub" id="stat-mosques-date">Loading…</div>
+    </div>
+    <div class="card">
+      <div class="card-label">Certified Asatizah (ARS)</div>
+      <div class="card-value ars" id="stat-ars">--</div>
+      <div class="card-sub" id="stat-ars-date">Loading…</div>
+    </div>
+    <div class="card">
+      <div class="card-label">Education Centres (IECP)</div>
+      <div class="card-value iecp" id="stat-iecp">--</div>
+      <div class="card-sub" id="stat-iecp-date">Loading…</div>
+    </div>
+  </div>
+
+  <div class="tabs" id="tabs">
+    <button class="tab active" data-tab="mosques">Mosques <span class="badge" id="badge-mosques"></span></button>
+    <button class="tab" data-tab="ars">Asatizah <span class="badge" id="badge-ars"></span></button>
+    <button class="tab" data-tab="iecp">Education Centres <span class="badge" id="badge-iecp"></span></button>
+  </div>
+
+  <div class="toolbar">
+    <input type="text" class="search-box" id="search" placeholder="Search…" autocomplete="off">
+    <div class="filters" id="filters"></div>
+    <div class="result-count" id="result-count"></div>
+  </div>
+
+  <div class="panel">
+    <div class="table-wrap">
+      <table id="data-table">
+        <thead id="thead"></thead>
+        <tbody id="tbody"><tr><td class="loading" colspan="6"><span class="spinner"></span> Loading data…</td></tr></tbody>
+      </table>
+    </div>
+    <div class="pagination" id="pagination"></div>
+  </div>
+
+  <footer>
+    <p>
+      Data sourced from <a href="https://www.muis.gov.sg" target="_blank">muis.gov.sg</a> &middot;
+      <a href="https://github.com/msocietyhq/muis-datasets-unofficial" target="_blank">GitHub Repo</a> &middot;
+      Auto-synced daily at 6 AM SGT
+    </p>
+  </footer>
+</div>
+
+<script>
+const PER_PAGE = 50;
+let datasets = {};
+let activeTab = 'mosques';
+let searchQuery = '';
+let activeFilter = null;
+let currentPage = 1;
+let sortCol = null;
+let sortAsc = true;
+
+const BASE = '';
+
+const schemas = {
+  mosques: {
+    key: 'mosques',
+    cols: [
+      { id: 'name', label: 'Name', render: (r) => `<a class="link" href="${r.muis_url}" target="_blank">${esc(r.name)}</a>` },
+      { id: 'district', label: 'District', render: (r) => r.district ? `<span class="district-tag">${esc(r.district)}</span>` : '—' },
+      { id: 'address', label: 'Address', render: (r) => esc(r.address || '—') },
+      { id: 'phone', label: 'Phone', render: (r) => r.phone ? esc(r.phone) : '—' },
+      { id: 'features', label: 'Features', render: (r) => r.features?.length ? r.features.map(f => esc(f)).join(', ') : '—' },
+    ],
+    search: (r, q) => [r.name, r.address, r.district, r.phone, r.features?.join(' ')].filter(Boolean).join(' ').toLowerCase().includes(q),
+    filters: (data) => {
+      const districts = [...new Set(data.map(r => r.district).filter(Boolean))].sort();
+      return districts.map(d => ({ label: d, match: r => r.district === d }));
+    },
+    sort: (rows, col, asc) => {
+      const dir = asc ? 1 : -1;
+      return rows.sort((a, b) => {
+        const va = (col === 'features' ? a.features?.join(',') : a[col]) || '';
+        const vb = (col === 'features' ? b.features?.join(',') : b[col]) || '';
+        return va.localeCompare(vb) * dir;
+      });
+    },
+  },
+  ars: {
+    key: 'asatizah',
+    cols: [
+      { id: 'title', label: 'Title', render: (r) => esc(r.title || '—') },
+      { id: 'name', label: 'Name', render: (r) => esc(r.name) },
+      { id: 'category', label: 'Tier', render: (r) => {
+        const t = r.category?.includes('Tier 1') ? 't1' : 't2';
+        return `<span class="tier-tag ${t}">${esc(r.category)}</span>`;
+      }},
+    ],
+    search: (r, q) => [r.title, r.name, r.category].filter(Boolean).join(' ').toLowerCase().includes(q),
+    filters: (data) => {
+      const cats = [...new Set(data.map(r => r.category).filter(Boolean))].sort();
+      return cats.map(c => ({ label: c.replace(/\(|\)/g, '').replace('Tier ', 'T'), match: r => r.category === c }));
+    },
+    sort: (rows, col, asc) => {
+      const dir = asc ? 1 : -1;
+      return rows.sort((a, b) => ((a[col] || '').localeCompare(b[col] || '')) * dir);
+    },
+  },
+  iecp: {
+    key: 'iecps',
+    cols: [
+      { id: 'number', label: '#', render: (r) => r.number },
+      { id: 'name', label: 'Name', render: (r) => esc(r.name) },
+    ],
+    search: (r, q) => (r.name || '').toLowerCase().includes(q),
+    filters: () => [],
+    sort: (rows, col, asc) => {
+      const dir = asc ? 1 : -1;
+      if (col === 'number') return rows.sort((a, b) => (a.number - b.number) * dir);
+      return rows.sort((a, b) => ((a[col] || '').localeCompare(b[col] || '')) * dir);
+    },
+  },
+};
+
+function esc(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+function relTime(dateStr) {
+  if (!dateStr) return '';
+  const d = new Date(dateStr);
+  const now = new Date();
+  const diff = Math.floor((now - d) / 86400000);
+  if (diff === 0) return 'today';
+  if (diff === 1) return 'yesterday';
+  if (diff < 30) return `${diff} days ago`;
+  return d.toLocaleDateString('en-SG', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
+async function loadData() {
+  const [mosques, ars, iecp] = await Promise.all([
+    fetch(`${BASE}mosque-directory/data.json`).then(r => r.json()),
+    fetch(`${BASE}ars-directory/data.json`).then(r => r.json()),
+    fetch(`${BASE}iecp-directory/data.json`).then(r => r.json()),
+  ]);
+  datasets = { mosques, ars, iecp };
+
+  document.getElementById('stat-mosques').textContent = mosques.meta.total_count.toLocaleString();
+  document.getElementById('stat-ars').textContent = ars.meta.total_count.toLocaleString();
+  document.getElementById('stat-iecp').textContent = iecp.meta.total_count.toLocaleString();
+
+  const mDate = mosques.meta.last_checked || mosques.meta.last_scraped;
+  const aDate = ars.meta.last_checked || ars.meta.last_scraped;
+  const iDate = iecp.meta.last_checked || iecp.meta.last_scraped;
+  document.getElementById('stat-mosques-date').textContent = `Updated ${relTime(mDate)}`;
+  document.getElementById('stat-ars-date').textContent = `Updated ${relTime(aDate)}`;
+  document.getElementById('stat-iecp-date').textContent = `Updated ${relTime(iDate)}`;
+
+  document.getElementById('badge-mosques').textContent = mosques.meta.total_count;
+  document.getElementById('badge-ars').textContent = ars.meta.total_count.toLocaleString();
+  document.getElementById('badge-iecp').textContent = iecp.meta.total_count;
+
+  render();
+}
+
+function getRows() {
+  const schema = schemas[activeTab];
+  const raw = datasets[activeTab];
+  if (!raw) return [];
+  let rows = [...raw[schema.key]];
+
+  if (searchQuery) rows = rows.filter(r => schema.search(r, searchQuery));
+  if (activeFilter) rows = rows.filter(activeFilter.match);
+  if (sortCol) rows = schema.sort(rows, sortCol, sortAsc);
+
+  return rows;
+}
+
+function render() {
+  const schema = schemas[activeTab];
+  const rows = getRows();
+  const totalPages = Math.max(1, Math.ceil(rows.length / PER_PAGE));
+  if (currentPage > totalPages) currentPage = totalPages;
+  const start = (currentPage - 1) * PER_PAGE;
+  const page = rows.slice(start, start + PER_PAGE);
+
+  // Filters
+  const filtersEl = document.getElementById('filters');
+  const filterDefs = schema.filters(datasets[activeTab]?.[schema.key] || []);
+  if (filterDefs.length) {
+    filtersEl.innerHTML = filterDefs.map((f, i) =>
+      `<button class="pill${activeFilter?.label === f.label ? ' active' : ''}" data-fi="${i}">${esc(f.label)}</button>`
+    ).join('');
+    filtersEl.onclick = (e) => {
+      const btn = e.target.closest('.pill');
+      if (!btn) return;
+      const fi = parseInt(btn.dataset.fi);
+      const f = filterDefs[fi];
+      activeFilter = activeFilter?.label === f.label ? null : f;
+      currentPage = 1;
+      render();
+    };
+  } else {
+    filtersEl.innerHTML = '';
+  }
+
+  // Thead
+  const thead = document.getElementById('thead');
+  thead.innerHTML = '<tr>' + schema.cols.map(c => {
+    const sorted = sortCol === c.id;
+    const arrow = sorted ? (sortAsc ? '▲' : '▼') : '▲';
+    return `<th class="${sorted ? 'sorted' : ''}" data-col="${c.id}">${c.label}<span class="sort-arrow">${arrow}</span></th>`;
+  }).join('') + '</tr>';
+
+  // Tbody
+  const tbody = document.getElementById('tbody');
+  if (page.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="${schema.cols.length}" style="text-align:center;padding:2rem;color:var(--text2)">No results found</td></tr>`;
+  } else {
+    tbody.innerHTML = page.map(r =>
+      '<tr>' + schema.cols.map(c => `<td>${c.render(r)}</td>`).join('') + '</tr>'
+    ).join('');
+  }
+
+  // Result count
+  document.getElementById('result-count').textContent = `${rows.length.toLocaleString()} results`;
+
+  // Pagination
+  renderPagination(totalPages);
+}
+
+function renderPagination(totalPages) {
+  const el = document.getElementById('pagination');
+  if (totalPages <= 1) { el.innerHTML = ''; return; }
+
+  let btns = [];
+  btns.push(`<button class="page-btn" data-p="prev" ${currentPage === 1 ? 'disabled' : ''}>&lsaquo;</button>`);
+
+  const range = [];
+  range.push(1);
+  for (let p = Math.max(2, currentPage - 2); p <= Math.min(totalPages - 1, currentPage + 2); p++) range.push(p);
+  if (totalPages > 1) range.push(totalPages);
+  const unique = [...new Set(range)].sort((a, b) => a - b);
+
+  let last = 0;
+  for (const p of unique) {
+    if (p - last > 1) btns.push('<span style="color:var(--text2)">…</span>');
+    btns.push(`<button class="page-btn${p === currentPage ? ' active' : ''}" data-p="${p}">${p}</button>`);
+    last = p;
+  }
+
+  btns.push(`<button class="page-btn" data-p="next" ${currentPage === totalPages ? 'disabled' : ''}>&rsaquo;</button>`);
+  el.innerHTML = btns.join('');
+}
+
+// Events
+document.getElementById('tabs').addEventListener('click', (e) => {
+  const tab = e.target.closest('.tab');
+  if (!tab) return;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  tab.classList.add('active');
+  activeTab = tab.dataset.tab;
+  searchQuery = '';
+  activeFilter = null;
+  sortCol = null;
+  currentPage = 1;
+  document.getElementById('search').value = '';
+  render();
+});
+
+document.getElementById('search').addEventListener('input', (e) => {
+  searchQuery = e.target.value.toLowerCase().trim();
+  currentPage = 1;
+  render();
+});
+
+document.getElementById('thead').addEventListener('click', (e) => {
+  const th = e.target.closest('th');
+  if (!th) return;
+  const col = th.dataset.col;
+  if (sortCol === col) { sortAsc = !sortAsc; }
+  else { sortCol = col; sortAsc = true; }
+  render();
+});
+
+document.getElementById('pagination').addEventListener('click', (e) => {
+  const btn = e.target.closest('.page-btn');
+  if (!btn || btn.disabled) return;
+  const p = btn.dataset.p;
+  if (p === 'prev') currentPage--;
+  else if (p === 'next') currentPage++;
+  else currentPage = parseInt(p);
+  render();
+  document.querySelector('.panel').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+});
+
+loadData();
+</script>
+</body>
+</html>
