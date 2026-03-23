@@ -2,9 +2,10 @@
   "meta": {
     "source": "MUIS Mosque Directory",
     "source_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/",
-    "last_scraped": "2026-03-16",
-    "last_checked": "2026-03-22T22:15:41.939Z",
-    "total_count": 70
+    "last_scraped": "2026-03-23",
+    "last_checked": "2026-03-23T22:21:25.210Z",
+    "total_count": 70,
+    "last_enriched_coordinates": "2026-03-23"
   },
   "mosques": [
     {
@@ -86,7 +87,6 @@
       "name": "Ahmad Ibrahim",
       "address": "15 Jalan Ulu Seletar Singapore 769227",
       "postal_code": "769227",
-      "district": "North",
       "phone": "64540848",
       "email": "info@ahmadibrahim.mosque.org.sg",
       "website": null,
