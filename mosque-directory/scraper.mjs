@@ -189,6 +189,13 @@ async function fetchDetail(mosque) {
 async function fullScrape() {
   const directoryMosques = await parseDirectory();
 
+  // Load existing data so we can preserve community-enriched fields
+  const existingBySlug = new Map();
+  if (existsSync(JSON_PATH)) {
+    const existing = JSON.parse(readFileSync(JSON_PATH, 'utf-8'));
+    existing.mosques.forEach((m) => existingBySlug.set(m.slug, m));
+  }
+
   console.log(
     `\n🔍 Fetching ${directoryMosques.length} detail pages (~${Math.ceil(
       (directoryMosques.length * DELAY_MS) / 1000
@@ -203,7 +210,7 @@ async function fullScrape() {
     const detail = await fetchDetail(m);
     if (i < directoryMosques.length - 1) await sleep(DELAY_MS);
 
-    mosques.push({
+    const muisFields = {
       slug: m.slug,
       name: m.name,
       address: m.address,
@@ -213,11 +220,21 @@ async function fullScrape() {
       website: detail.website,
       description: detail.description,
       features: detail.features,
-
-      coordinates: null,
-      logo_url: null,
       muis_url: `${DIRECTORY_URL}${m.slug}/`,
-    });
+    };
+
+    const existingMosque = existingBySlug.get(m.slug);
+    const enrichedFields = existingMosque
+      ? Object.fromEntries(
+          Object.entries(existingMosque).filter(([k]) => !(k in muisFields))
+        )
+      : { coordinates: null, logo_url: null };
+
+    if (existingMosque && existingMosque.address !== m.address) {
+      enrichedFields.coordinates = null;
+    }
+
+    mosques.push({ ...enrichedFields, ...muisFields });
   }
 
   const output = {
@@ -293,7 +310,8 @@ async function updateScrape() {
       console.log(`${progress} ✏️  ${m.name} — updating (${reason})`);
       updatedCount++;
 
-      finalMosques.push({
+      // MUIS-sourced fields (overwritten on update)
+      const muisFields = {
         slug: m.slug,
         name: m.name,
         address: m.address,
@@ -303,14 +321,22 @@ async function updateScrape() {
         website: detail.website,
         description: detail.description,
         features: detail.features,
-  
-        // Preserve coordinates unless address changed (re-geocode needed)
-        coordinates: (existingMosque && existingMosque.address === m.address)
-          ? existingMosque.coordinates
-          : null,
-        logo_url: existingMosque?.logo_url ?? null,
         muis_url: `${DIRECTORY_URL}${m.slug}/`,
-      });
+      };
+
+      // Preserve all community-enriched fields from existing entry,
+      // then overlay with fresh MUIS data. Reset coordinates if address changed.
+      const enrichedFields = existingMosque
+        ? Object.fromEntries(
+            Object.entries(existingMosque).filter(([k]) => !(k in muisFields))
+          )
+        : { coordinates: null, logo_url: null };
+
+      if (existingMosque && existingMosque.address !== m.address) {
+        enrichedFields.coordinates = null;
+      }
+
+      finalMosques.push({ ...enrichedFields, ...muisFields });
     } else {
       console.log(`${progress} ✅ ${m.name} — unchanged`);
       skippedCount++;
