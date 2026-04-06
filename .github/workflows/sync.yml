@@ -87,4 +87,5 @@ jobs:
           DATE=$(date -u +"%Y-%m-%d")
           git commit -m "${MSG} (${DATE})" \
                       -m "Automated sync from MUIS directories."
+          git pull --rebase
           git push
