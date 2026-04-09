@@ -46,22 +46,27 @@ async function geocodePostalCode(postalCode) {
 async function main() {
   const data = JSON.parse(readFileSync('mosque-directory/data.json', 'utf-8'));
 
-  console.log(`🗺️  Enriching ${data.mosques.length} mosques with coordinates via OneMap...\n`);
+  // Only enrich mosques missing coordinates. The mosque scraper resets
+  // coordinates to null when an address changes, so this naturally gates
+  // enrichment to address changes (and first-time runs).
+  const needsEnrichment = data.mosques.filter(
+    (m) => !(m.coordinates?.lat && m.coordinates?.lng)
+  );
+
+  if (needsEnrichment.length === 0) {
+    console.log('💤 All mosques already have coordinates — nothing to enrich.');
+    return;
+  }
+
+  console.log(`🗺️  Enriching ${needsEnrichment.length} mosque(s) missing coordinates via OneMap...\n`);
 
   let enriched = 0;
   let failed = 0;
 
-  for (let i = 0; i < data.mosques.length; i++) {
-    const mosque = data.mosques[i];
+  for (let i = 0; i < needsEnrichment.length; i++) {
+    const mosque = needsEnrichment[i];
 
-    // Skip if already has coordinates
-    if (mosque.coordinates?.lat && mosque.coordinates?.lng) {
-      console.log(`[${i + 1}/${data.mosques.length}] ${mosque.name} — already has coordinates, skipping`);
-      enriched++;
-      continue;
-    }
-
-    console.log(`[${i + 1}/${data.mosques.length}] ${mosque.name} (${mosque.postal_code})...`);
+    console.log(`[${i + 1}/${needsEnrichment.length}] ${mosque.name} (${mosque.postal_code})...`);
     const coords = await geocodePostalCode(mosque.postal_code);
 
     if (coords) {
@@ -73,11 +78,16 @@ async function main() {
       console.log(`   ❌ Could not geocode`);
     }
 
-    if (i < data.mosques.length - 1) await sleep(DELAY_MS);
+    if (i < needsEnrichment.length - 1) await sleep(DELAY_MS);
+  }
+
+  if (enriched === 0) {
+    console.log(`\n💤 No mosques were geocoded (${failed} failed). Leaving data.json untouched.`);
+    return;
   }
 
   data.meta.last_enriched_coordinates = new Date().toISOString().split('T')[0];
-  writeFileSync('mosque-directory/data.json', JSON.stringify(data, null, 2));
+  writeFileSync('mosque-directory/data.json', JSON.stringify(data, null, 2) + '\n');
 
   console.log(`\n✅ Done! ${enriched} geocoded, ${failed} failed.`);
 }
