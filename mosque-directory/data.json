@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Mosque Directory",
     "source_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/",
-    "last_scraped": "2026-03-23",
-    "last_checked": "2026-04-14T22:36:21.220Z",
+    "last_scraped": "2026-04-15",
+    "last_checked": "2026-04-15T22:33:20.578Z",
     "total_count": 70
   },
   "mosques": [
@@ -401,11 +401,17 @@
       "instagram_url": "https://www.instagram.com/alkaffus.sg/"
     },
     {
+      "district": "West",
+      "coordinates": {
+        "lat": 1.38261285339265,
+        "lng": 103.749937134969
+      },
+      "logo_url": "mosque-directory/logos/al-khair.png",
+      "instagram_url": "https://www.instagram.com/alkhair.mosque/",
       "slug": "al-khair",
       "name": "Al-Khair",
       "address": "1 Teck Whye Crescent Singapore 688847",
       "postal_code": "688847",
-      "district": "West",
       "phone": "67601139",
       "email": "info@alkaffus.sg",
       "website": "http://alkhair-mosque.org.sg",
@@ -416,13 +422,7 @@
         "Adult Islamic Learning",
         "Social Development Mosque (for MUIS Social Assistance)"
       ],
-      "coordinates": {
-        "lat": 1.38261285339265,
-        "lng": 103.749937134969
-      },
-      "logo_url": "mosque-directory/logos/al-khair.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-khair/",
-      "instagram_url": "https://www.instagram.com/alkhair.mosque/"
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-khair/"
     },
     {
       "slug": "al-mawaddah",
@@ -616,14 +616,20 @@
       "instagram_url": "https://www.instagram.com/masjidarraudhah/"
     },
     {
+      "district": "North",
+      "coordinates": {
+        "lat": 1.45577050995774,
+        "lng": 103.819381371528
+      },
+      "logo_url": "mosque-directory/logos/assyafaah.png",
+      "instagram_url": "https://www.instagram.com/assyafaahmosque/",
       "slug": "assyafaah",
       "name": "Assyafaah",
       "address": "1 Admiralty Lane Singapore 757620",
       "postal_code": "757620",
-      "district": "North",
       "phone": "67563008",
       "email": "assyafaah@assyafaah.mosque.org.sg",
-      "website": null,
+      "website": "http://assyafaah.sg/",
       "description": "This mosque is the fifth one to be built under Phase III of the Mosque Building Fund programme to serve the needs of the Muslim community in the Northern part of Singapore. It also acts as a replacement due to the closure of two old mosques in the Sembawang area - Jumah Sembawang Mosque and Naval Base Mosque. The mosque which can accommodate about 4,000 people at one time was opened to the public on 9th April 2004.",
       "features": [
         "Zakat Collection Centre",
@@ -631,13 +637,7 @@
         "aLIVE Islamic Learning",
         "Social Development Mosque (for MUIS Social Assistance)"
       ],
-      "coordinates": {
-        "lat": 1.45577050995774,
-        "lng": 103.819381371528
-      },
-      "logo_url": "mosque-directory/logos/assyafaah.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/assyafaah/",
-      "instagram_url": "https://www.instagram.com/assyafaahmosque/"
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/assyafaah/"
     },
     {
       "slug": "assyakirin",
@@ -1499,23 +1499,23 @@
       "instagram_url": "https://www.instagram.com/tenteradirajamosque/"
     },
     {
-      "slug": "wak-tanjong",
-      "name": "Wak Tanjong",
-      "address": "25 Paya Lebar Road Singapore 409004",
-      "postal_code": "409004",
       "district": "East",
-      "phone": "67472743",
-      "email": "info@waktanjong.mosque.org.sg",
-      "website": null,
-      "description": "A whitewashed structure has replaced the semi-wooden prayer hall in this redeveloped masjid located in the Central part of the island. The original masjid dated back to the year 1935. In 1998, the masjid was reopened after undergoing a major restructuring. It has a capacity of 500 people.",
-      "features": [],
       "coordinates": {
         "lat": 1.31758169463895,
         "lng": 103.891814532847
       },
       "logo_url": "mosque-directory/logos/wak-tanjong.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/wak-tanjong/",
-      "instagram_url": "https://www.instagram.com/waktanjong_mosque/"
+      "instagram_url": "https://www.instagram.com/waktanjong_mosque/",
+      "slug": "wak-tanjong",
+      "name": "Wak Tanjong",
+      "address": "25 Paya Lebar Road Singapore 409004",
+      "postal_code": "409004",
+      "phone": "67472743",
+      "email": "info@waktanjong.mosque.org.sg",
+      "website": null,
+      "description": "A whitewashed structure has replaced the semi-wooden prayer hall in this redeveloped masjid located in the Central part of the island. The original masjid dated back to the year 1935. In 1998, the masjid was reopened after undergoing a major restructuring. It has a capacity of 500 people.",
+      "features": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/wak-tanjong/"
     },
     {
       "slug": "yusof-ishak",
