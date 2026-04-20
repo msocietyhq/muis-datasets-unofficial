@@ -47,4 +47,5 @@ jobs:
           DATE=$(date -u +"%Y-%m-%d")
           git commit -m "sync: halal (${DATE})" \
                       -m "Automated weekly sync from MUIS halal establishments directory."
+          git pull --rebase --autostash
           git push
