@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Mosque Directory",
     "source_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/",
-    "last_scraped": "2026-04-15",
-    "last_checked": "2026-04-20T22:34:09.408Z",
+    "last_scraped": "2026-04-21",
+    "last_checked": "2026-04-21T22:31:11.676Z",
     "total_count": 70
   },
   "mosques": [
@@ -414,7 +414,7 @@
       "postal_code": "688847",
       "phone": "67601139",
       "email": "info@alkaffus.sg",
-      "website": "http://alkhair-mosque.org.sg",
+      "website": "http://alkhair-mosque.org.sg/",
       "description": "Al-Khair Mosque was founded in the early 1960s. The mosque was built on a hilltop, surrounded by vegetable farms, along Choa Chu Kang Road. Originally named Jamek Mosque, it was later officially renamed as Al-Khair Mosque in 1963. Al-Khair Mosque was then rebuilt under the third phase of the Mosque Building Fund managed by the Islamic Religious Council of Singapore (MUIS). It was operationally ready in 1997, however its official opening was on 31 May 1998. About 15 years later, Al-Khair Mosque went through an 18-month Mosque Upgrading Programme (MUP), this exercise was completed in 2015.",
       "features": [
         "Zakat Collection Centre",
@@ -629,7 +629,7 @@
       "postal_code": "757620",
       "phone": "67563008",
       "email": "assyafaah@assyafaah.mosque.org.sg",
-      "website": "http://assyafaah.sg/",
+      "website": null,
       "description": "This mosque is the fifth one to be built under Phase III of the Mosque Building Fund programme to serve the needs of the Muslim community in the Northern part of Singapore. It also acts as a replacement due to the closure of two old mosques in the Sembawang area - Jumah Sembawang Mosque and Naval Base Mosque. The mosque which can accommodate about 4,000 people at one time was opened to the public on 9th April 2004.",
       "features": [
         "Zakat Collection Centre",
@@ -1512,7 +1512,7 @@
       "postal_code": "409004",
       "phone": "67472743",
       "email": "info@waktanjong.mosque.org.sg",
-      "website": null,
+      "website": "https://www.waktanjong.org",
       "description": "A whitewashed structure has replaced the semi-wooden prayer hall in this redeveloped masjid located in the Central part of the island. The original masjid dated back to the year 1935. In 1998, the masjid was reopened after undergoing a major restructuring. It has a capacity of 500 people.",
       "features": [],
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/wak-tanjong/"
