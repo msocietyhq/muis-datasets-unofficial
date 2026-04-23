@@ -2,14 +2,14 @@
   "meta": {
     "source": "MUIS ARS Directory",
     "source_url": "https://www.muis.gov.sg/education/asatizah-development/asatizah-recognition-scheme/ars-directory/",
-    "last_scraped": "2026-03-26",
-    "muis_last_updated": "2026-03-26",
-    "total_count": 5214,
+    "last_scraped": "2026-04-23",
+    "muis_last_updated": "2026-04-23",
+    "total_count": 5334,
     "tier_counts": {
-      "Tier 1 (Asatizah)": 2788,
-      "Tier 2 (Quranic Teacher)": 2426
+      "Tier 1 (Asatizah)": 2830,
+      "Tier 2 (Quranic Teacher)": 2504
     },
-    "last_checked": "2026-03-26T22:18:21.851Z"
+    "last_checked": "2026-04-23T22:33:55.971Z"
   },
   "asatizah": [
     {
@@ -13953,6 +13953,216 @@
       "category": "Tier 1 (Asatizah)"
     },
     {
+      "title": "Ustazah",
+      "name": "Syarah Haninah Binti Mohd Azahar",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Haykan Yusuf Bin Kamaruzaman",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nurul Fateha Binte Harman",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Wafa Binte Hassan",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhammad Raihan Bin Nordin",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nun Musyarrafah Binte Mohamad Mamfizam",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Umar Khalid Bin Zaid",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Danniesh Asyraff Bin Mohsain",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhammad Firdaus Haq Bin Mustafa Kamal",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Iman Noor Ain Binte Mohamad Sidek",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Attahirah Binte Sutarsono",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Sakinah Binte Shahruddin",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Mashyar Inshyira Binte Mohd Hiezel",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhammad Ziad Bin Tariq",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Tara Qistina Binte Nasir",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Aisyah Attamimi Gozan",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Isnainy Binte Alias",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhammad Bin Mazalan",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Najiha Binte Tajuddin",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Mardhiyah Binte Faisal Abdat",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Qamarul Ashraff Bin Hassan",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhammad Amirul Bin Osman",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Silmi Ulinnuha",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Aliah Husna Binti Khamsani",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Aufa Nuhla Binte Muhammad Fazalee",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Khairunnisa Binte Muhamad Kamel",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Manal Khansaa Binte Muhammad Fuad",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhammad Azhfar Bin Sulaiman",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Qabilah Binte Ismail",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nurul Khairah Binte Mohamad Kamal",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Siti Arina Nazirah Binte Ariffin",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Siti Qadrah Binte Hussain",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhammad A'tiq Bin Ishak",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Talhatul Khair Muhammad Kahfi",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Saharah Bte Hadi",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhamad Faezin Bin Mohamed Hussein",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Abdul Nasser Bin Abdul Aziz",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Mardiah Binte Ja'Afar",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nurjannah Binte Kamal",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Andi Abdul Kadir Andi Kitta",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Mohamed Abdul Latiff Bin Ali",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Mas'Aini Binte Isnin",
+      "category": "Tier 1 (Asatizah)"
+    },
+    {
       "title": "Ustaz",
       "name": "Achmad Fatha Asghari Bin Kasman",
       "category": "Tier 2 (Quranic Teacher)"
@@ -21598,11 +21808,6 @@
       "category": "Tier 2 (Quranic Teacher)"
     },
     {
-      "title": "Ustaz",
-      "name": "Muhammad Azhfar Bin Sulaiman",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
       "title": "Ustazah",
       "name": "Siti Khadijah Binte Mohamed Idris",
       "category": "Tier 2 (Quranic Teacher)"
@@ -21915,11 +22120,6 @@
     {
       "title": "Ustazah",
       "name": "Sharifah Zaharah Binte Syed Sheikh",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
-      "title": "Ustazah",
-      "name": "Siti Qadrah Binte Hussain",
       "category": "Tier 2 (Quranic Teacher)"
     },
     {
@@ -22674,11 +22874,6 @@
     },
     {
       "title": "Ustazah",
-      "name": "Aufa Nuhla Binte Muhammad Fazalee",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
-      "title": "Ustazah",
       "name": "Qurrathal Ain Bte Sirajuddeen",
       "category": "Tier 2 (Quranic Teacher)"
     },
@@ -22849,11 +23044,6 @@
     },
     {
       "title": "Ustazah",
-      "name": "Nur Qabilah Binte Ismail",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
-      "title": "Ustazah",
       "name": "Rusydatul Minnah Binti Mohamed Tamrin",
       "category": "Tier 2 (Quranic Teacher)"
     },
@@ -22910,16 +23100,6 @@
     {
       "title": "Ustazah",
       "name": "Zarifah Binte Suhaimi",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
-      "title": "Ustazah",
-      "name": "Manal Khansaa Binte Muhammad Fuad",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
-      "title": "Ustazah",
-      "name": "Khairunnisa Binte Muhamad Kamel",
       "category": "Tier 2 (Quranic Teacher)"
     },
     {
@@ -23103,11 +23283,6 @@
       "category": "Tier 2 (Quranic Teacher)"
     },
     {
-      "title": "Ustazah",
-      "name": "Aliah Husna Binti Khamsani",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
       "title": "Ustaz",
       "name": "Muhammad Taufik Bin Abdul Aziz",
       "category": "Tier 2 (Quranic Teacher)"
@@ -23125,11 +23300,6 @@
     {
       "title": "Ustazah",
       "name": "Siti Aishah Swee",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
-      "title": "Ustaz",
-      "name": "Talhatul Khair Muhammad Kahfi",
       "category": "Tier 2 (Quranic Teacher)"
     },
     {
@@ -24124,11 +24294,6 @@
     },
     {
       "title": "Ustazah",
-      "name": "Nurul Khairah Binte Mohamad Kamal",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
-      "title": "Ustazah",
       "name": "Maryam Binte Aziz",
       "category": "Tier 2 (Quranic Teacher)"
     },
@@ -24768,11 +24933,6 @@
       "category": "Tier 2 (Quranic Teacher)"
     },
     {
-      "title": "Ustaz",
-      "name": "Muhammad A'tiq Bin Ishak",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
       "title": "Ustazah",
       "name": "Nur Syarafina Binte Zahid",
       "category": "Tier 2 (Quranic Teacher)"
@@ -25010,11 +25170,6 @@
     {
       "title": "Ustazah",
       "name": "Hanisah 'Aliah Binte Abdul Bahri",
-      "category": "Tier 2 (Quranic Teacher)"
-    },
-    {
-      "title": "Ustazah",
-      "name": "Siti Arina Nazirah Binte Ariffin",
       "category": "Tier 2 (Quranic Teacher)"
     },
     {
@@ -26080,6 +26235,451 @@
     {
       "title": "Ustazah",
       "name": "Arisya Dina Aidil",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Hawaariy Bin Hamzah",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Mohamed Fairoz Bin Mohamed Fakri",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhamad Haziq Zikry Bin Zubaidi",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Hidaya Bte Ramzan Ali",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Sedek Maulana Bin Aboo",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Ainaa Iffah Binte Mohamad Ghazali",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Dalilah Binte Hassan",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Mohamad Tauhid Bin Mohd Bakhit",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nani Jasmin Binte Mustaffa",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Fatin Binte Amir",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Sumaiyah Fathimah Binte Ayub Khan",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Huda Binte Mohamad Kamsani",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Fadhlin Sakina Binte Mohd Fadil",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Umairah 'Izzatii Binte Mohd Kasim",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Faiqul Basyir Bin Mohamad Husni",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Syafiqah Banu Binte Ali Akbar",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Abdul Adzhim Bin Abdul Khalid",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nadiah Fatehah Binte Mohamed Rafi",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nurul Syasya Binti Abd Samad",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Khairunnisa Binti Abdul Razak",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Siti Khairiah Binte Shahrin",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Nurullahi Rahamat Bin Jaburullakhan",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nurul Syifa Bte Nizam",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Aqilah Binte Sahernizam",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Aqifah Binte Sahernizam",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Khairunnisa Binte Abdul Khalid",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Hanis Iman Binte Azlan",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Farah Izzah Binte Mohd Ibrahim",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Fatmawati",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Quraisyah Putri Zulkifli",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Adeena Binte Zaidi",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Unaisah Binte Zaidi",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nadyne E'Shal Binte Noer Hadzly",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nauratul Insyirah Binte Zulkarnain",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Afiqah Ashfaque",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nor Firzanah Binte Mohamad Noor",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Suhartee Binte Kamarudin",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Azzam As Shahid Bin Muhammad Haniff",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Dhiya' Ulfah Binti Mohammad Rizal",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Asiyah Begam Binte Yusuff Mohammed Yunus",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Hijanah Binte Mohamed Hisham",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Maryam Syuhada Binti Zainal Bidin",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Zahratun Binte Mohamadali",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Siti Soleha Binte Syed Feroz",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Yasawafi Ainul Basira Binte Yusry",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Suaidah Binte Ismail",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Hidayah Danishah Putri Zulkifly",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Ummu Umara Mohamed Sarjoon",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Aishah Tul-Firdaus Binte Abdul Khalid",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Salwa Sanaullah Khan",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhamad Aiman Bin Salihin",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Sumayyah Binte Jumadi",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Siti Khairiah Binte Hamdan",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Hazirah Binte Aznim",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Qurratu Aini Binte Mohamadali",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Syed Bad'R Khan S/O Syed Azees Khan",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Sharifah 'Ufairah Binte Syed Muhammad Shafeeq Alsagoff",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Aufaa Puteri Mohamed Zain",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Almaheerah Binte Kamaruzaman",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Muneerah Waseemah",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Umairah Binte Haji Omar",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Rifqatul Amaliyah",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhammad Faheem Bin Jamaluddin",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Dini Binte Muhammad Nur'Hisham",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Ayda Yusayraa Mohamad Yoosuf",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nor'Atifah Qeisya Binte Muhammad Syafie",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Sumayyah Binti Dzulkarnain",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Sofia Jaan Binte Farouk Hussein",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Ameen Aslam Maryam Haaniya",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Siti Rafe'Ah Binte Omer",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Hannah Zee Shan Abdullah",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Zahidah Binte Zakaria",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Darwisyah Binte Mohammad Alnizom",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Hafeezah Mustafa",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Ma Yuqian",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Siti Hawa Bt Abd Fatah",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Kamariah Binte Abu",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nusaybah Binte Muhammad Husayn",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Mumtaz Begum",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Ridzwani Bte Zainal",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Islam Adam Chow E-Kin",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Sadiah Binte Saad",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nur Nabila Binte Zainol",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Rogaiya Binte Adil",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Muhamad Ashiq Bin Abdul Aziz",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "Anwar Bin Hassan",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Nurul Kamaliah Binte Mohamad Kamal",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustazah",
+      "name": "Sumaiyah Begum Binte Abu Bakar Maricar",
+      "category": "Tier 2 (Quranic Teacher)"
+    },
+    {
+      "title": "Ustaz",
+      "name": "At Tarmidzi Bin Khamsani",
       "category": "Tier 2 (Quranic Teacher)"
     }
   ]
