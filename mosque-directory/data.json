@@ -44,7 +44,21 @@
       },
       "logo_url": "mosque-directory/logos/abdul-gafoor.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-gafoor/",
-      "instagram_url": "https://www.instagram.com/masjidabdulgafoorsg/"
+      "instagram_url": "https://www.instagram.com/masjidabdulgafoorsg/",
+      "nearest_mrt": [
+        {
+          "station": "Jalan Besar",
+          "lines": [
+            "DT"
+          ]
+        },
+        {
+          "station": "Rochor",
+          "lines": [
+            "DT"
+          ]
+        }
+      ]
     },
     {
       "slug": "abdul-hamid-kampung-pasiran",
@@ -62,7 +76,15 @@
         "lng": 103.841044275779
       },
       "logo_url": "mosque-directory/logos/abdul-hamid-kampung-pasiran.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-hamid-kampung-pasiran/"
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-hamid-kampung-pasiran/",
+      "nearest_mrt": [
+        {
+          "station": "Novena",
+          "lines": [
+            "NS"
+          ]
+        }
+      ]
     },
     {
       "slug": "ahmad",
@@ -141,7 +163,15 @@
         "lng": 103.847216983935
       },
       "logo_url": null,
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-abrar/"
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-abrar/",
+      "nearest_mrt": [
+        {
+          "station": "Telok Ayer",
+          "lines": [
+            "TE"
+          ]
+        }
+      ]
     },
     {
       "slug": "al-amin",
@@ -190,7 +220,15 @@
       },
       "logo_url": "mosque-directory/logos/al-ansar.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-ansar/",
-      "instagram_url": "https://www.instagram.com/alansarmosquesg/"
+      "instagram_url": "https://www.instagram.com/alansarmosquesg/",
+      "nearest_mrt": [
+        {
+          "station": "Bedok",
+          "lines": [
+            "EW"
+          ]
+        }
+      ]
     },
     {
       "slug": "al-falah",
@@ -213,7 +251,22 @@
       },
       "logo_url": "mosque-directory/logos/al-falah.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-falah/",
-      "instagram_url": "https://www.instagram.com/alfalah.sg/"
+      "instagram_url": "https://www.instagram.com/alfalah.sg/",
+      "nearest_mrt": [
+        {
+          "station": "Orchard",
+          "lines": [
+            "NS",
+            "TE"
+          ]
+        },
+        {
+          "station": "Somerset",
+          "lines": [
+            "NS"
+          ]
+        }
+      ]
     },
     {
       "slug": "al-firdaus",
@@ -302,7 +355,15 @@
       },
       "logo_url": "mosque-directory/logos/al-islah.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-islah/",
-      "instagram_url": "https://www.instagram.com/alislahmosque/"
+      "instagram_url": "https://www.instagram.com/alislahmosque/",
+      "nearest_mrt": [
+        {
+          "station": "Punggol",
+          "lines": [
+            "NE"
+          ]
+        }
+      ]
     },
     {
       "slug": "al-istighfar",
@@ -398,7 +459,15 @@
       },
       "logo_url": "mosque-directory/logos/alkaff-upper-serangoon.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/alkaff-upper-serangoon/",
-      "instagram_url": "https://www.instagram.com/alkaffus.sg/"
+      "instagram_url": "https://www.instagram.com/alkaffus.sg/",
+      "nearest_mrt": [
+        {
+          "station": "Potong Pasir",
+          "lines": [
+            "NE"
+          ]
+        }
+      ]
     },
     {
       "district": "West",
@@ -422,7 +491,16 @@
         "Adult Islamic Learning",
         "Social Development Mosque (for MUIS Social Assistance)"
       ],
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-khair/"
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-khair/",
+      "nearest_mrt": [
+        {
+          "station": "Choa Chu Kang",
+          "lines": [
+            "NS"
+          ],
+          "note": "±2 bus stops"
+        }
+      ]
     },
     {
       "slug": "al-mawaddah",
@@ -447,7 +525,15 @@
       },
       "logo_url": "mosque-directory/logos/al-mawaddah.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-mawaddah/",
-      "instagram_url": "https://www.instagram.com/almawaddah.sg/"
+      "instagram_url": "https://www.instagram.com/almawaddah.sg/",
+      "nearest_mrt": [
+        {
+          "station": "Buangkok",
+          "lines": [
+            "NE"
+          ]
+        }
+      ]
     },
     {
       "slug": "al-mukminin",
@@ -497,7 +583,15 @@
       },
       "logo_url": "mosque-directory/logos/al-muttaqin.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-muttaqin/",
-      "instagram_url": "https://www.instagram.com/almuttaqinsg/"
+      "instagram_url": "https://www.instagram.com/almuttaqinsg/",
+      "nearest_mrt": [
+        {
+          "station": "Ang Mo Kio",
+          "lines": [
+            "NS"
+          ]
+        }
+      ]
     },
     {
       "slug": "al-taqua",
@@ -540,7 +634,15 @@
       },
       "logo_url": "mosque-directory/logos/angullia.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/angullia/",
-      "instagram_url": "https://www.instagram.com/angulliamosque.sg/"
+      "instagram_url": "https://www.instagram.com/angulliamosque.sg/",
+      "nearest_mrt": [
+        {
+          "station": "Farrer Park",
+          "lines": [
+            "NE"
+          ]
+        }
+      ]
     },
     {
       "slug": "an-nahdhah",
@@ -564,7 +666,16 @@
       },
       "logo_url": "mosque-directory/logos/an-nahdhah.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/an-nahdhah/",
-      "instagram_url": "https://www.instagram.com/annahdhah/"
+      "instagram_url": "https://www.instagram.com/annahdhah/",
+      "nearest_mrt": [
+        {
+          "station": "Bishan",
+          "lines": [
+            "NS",
+            "CC"
+          ]
+        }
+      ]
     },
     {
       "slug": "an-nur",
@@ -613,7 +724,15 @@
       },
       "logo_url": "mosque-directory/logos/ar-raudhah.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/ar-raudhah/",
-      "instagram_url": "https://www.instagram.com/masjidarraudhah/"
+      "instagram_url": "https://www.instagram.com/masjidarraudhah/",
+      "nearest_mrt": [
+        {
+          "station": "Bukit Batok",
+          "lines": [
+            "NS"
+          ]
+        }
+      ]
     },
     {
       "district": "North",
@@ -662,7 +781,15 @@
       },
       "logo_url": "mosque-directory/logos/assyakirin.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/assyakirin/",
-      "instagram_url": "https://www.instagram.com/assyakirinsg/"
+      "instagram_url": "https://www.instagram.com/assyakirinsg/",
+      "nearest_mrt": [
+        {
+          "station": "Lakeside",
+          "lines": [
+            "EW"
+          ]
+        }
+      ]
     },
     {
       "slug": "ba-alwie",
@@ -681,7 +808,16 @@
       },
       "logo_url": null,
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/ba-alwie/",
-      "instagram_url": "https://www.instagram.com/baalwiemosquesg/"
+      "instagram_url": "https://www.instagram.com/baalwiemosquesg/",
+      "nearest_mrt": [
+        {
+          "station": "Stevens",
+          "lines": [
+            "TE",
+            "DT"
+          ]
+        }
+      ]
     },
     {
       "slug": "bencoolen",
@@ -700,7 +836,15 @@
       },
       "logo_url": "mosque-directory/logos/bencoolen.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/bencoolen/",
-      "instagram_url": "https://www.instagram.com/masjid.bencoolen/"
+      "instagram_url": "https://www.instagram.com/masjid.bencoolen/",
+      "nearest_mrt": [
+        {
+          "station": "Bencoolen",
+          "lines": [
+            "DT"
+          ]
+        }
+      ]
     },
     {
       "slug": "burhani",
@@ -741,7 +885,15 @@
       },
       "logo_url": "mosque-directory/logos/darul-aman.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darul-aman/",
-      "instagram_url": "https://www.instagram.com/masjiddarulaman.sg/"
+      "instagram_url": "https://www.instagram.com/masjiddarulaman.sg/",
+      "nearest_mrt": [
+        {
+          "station": "Eunos",
+          "lines": [
+            "EW"
+          ]
+        }
+      ]
     },
     {
       "slug": "darul-ghufran",
@@ -765,7 +917,16 @@
       },
       "logo_url": "mosque-directory/logos/darul-ghufran.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darul-ghufran/",
-      "instagram_url": "https://www.instagram.com/darulghufran/"
+      "instagram_url": "https://www.instagram.com/darulghufran/",
+      "nearest_mrt": [
+        {
+          "station": "Tampines",
+          "lines": [
+            "EW",
+            "DT"
+          ]
+        }
+      ]
     },
     {
       "slug": "darul-makmur",
@@ -883,7 +1044,15 @@
       },
       "logo_url": "mosque-directory/logos/haji-muhammad-salleh--p.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/haji-muhammad-salleh--p/",
-      "instagram_url": "https://www.instagram.com/mhms.maqamhabibnoh/"
+      "instagram_url": "https://www.instagram.com/mhms.maqamhabibnoh/",
+      "nearest_mrt": [
+        {
+          "station": "Shenton Way",
+          "lines": [
+            "TE"
+          ]
+        }
+      ]
     },
     {
       "slug": "haji-yusoff",
@@ -1026,7 +1195,15 @@
         "lng": 103.845439436764
       },
       "logo_url": "mosque-directory/logos/jamae-chulia.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamae-chulia/"
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamae-chulia/",
+      "nearest_mrt": [
+        {
+          "station": "Maxwell",
+          "lines": [
+            "TE"
+          ]
+        }
+      ]
     },
     {
       "slug": "jamek-queenstown",
@@ -1070,7 +1247,15 @@
       },
       "logo_url": "mosque-directory/logos/jamiyah-ar-rabitah.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamiyah-ar-rabitah/",
-      "instagram_url": "https://www.instagram.com/jamiyaharrabitahmosque/"
+      "instagram_url": "https://www.instagram.com/jamiyaharrabitahmosque/",
+      "nearest_mrt": [
+        {
+          "station": "Redhill",
+          "lines": [
+            "EW"
+          ]
+        }
+      ]
     },
     {
       "slug": "kampong-delta",
@@ -1115,7 +1300,15 @@
       },
       "logo_url": "mosque-directory/logos/kampung-siglap.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/kampung-siglap/",
-      "instagram_url": "https://www.instagram.com/masjidkampungsiglap/"
+      "instagram_url": "https://www.instagram.com/masjidkampungsiglap/",
+      "nearest_mrt": [
+        {
+          "station": "Siglap",
+          "lines": [
+            "TE"
+          ]
+        }
+      ]
     },
     {
       "slug": "kassim",
@@ -1140,7 +1333,15 @@
       },
       "logo_url": "mosque-directory/logos/kassim.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/kassim/",
-      "instagram_url": "https://www.instagram.com/masjidkassim/"
+      "instagram_url": "https://www.instagram.com/masjidkassim/",
+      "nearest_mrt": [
+        {
+          "station": "Kembangan",
+          "lines": [
+            "EW"
+          ]
+        }
+      ]
     },
     {
       "slug": "khadijah",
@@ -1161,7 +1362,15 @@
       },
       "logo_url": null,
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/khadijah/",
-      "instagram_url": "https://www.instagram.com/khadijahmosquesg/"
+      "instagram_url": "https://www.instagram.com/khadijahmosquesg/",
+      "nearest_mrt": [
+        {
+          "station": "Lavender",
+          "lines": [
+            "EW"
+          ]
+        }
+      ]
     },
     {
       "slug": "khalid",
@@ -1207,7 +1416,15 @@
       },
       "logo_url": "mosque-directory/logos/maarof.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/maarof/",
-      "instagram_url": "https://www.instagram.com/masjidmaarof/"
+      "instagram_url": "https://www.instagram.com/masjidmaarof/",
+      "nearest_mrt": [
+        {
+          "station": "Boon Lay",
+          "lines": [
+            "EW"
+          ]
+        }
+      ]
     },
     {
       "slug": "malabar",
@@ -1226,7 +1443,15 @@
       },
       "logo_url": null,
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/malabar/",
-      "instagram_url": "https://www.instagram.com/masjidmalabar/"
+      "instagram_url": "https://www.instagram.com/masjidmalabar/",
+      "nearest_mrt": [
+        {
+          "station": "Lavender",
+          "lines": [
+            "EW"
+          ]
+        }
+      ]
     },
     {
       "slug": "moulana-mohd-ali",
@@ -1244,7 +1469,16 @@
         "lng": 103.850332786212
       },
       "logo_url": "mosque-directory/logos/moulana-mohd-ali.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/moulana-mohd-ali/"
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/moulana-mohd-ali/",
+      "nearest_mrt": [
+        {
+          "station": "Raffles Place",
+          "lines": [
+            "NS",
+            "EW"
+          ]
+        }
+      ]
     },
     {
       "slug": "muhajirin",
@@ -1291,7 +1525,15 @@
       },
       "logo_url": "mosque-directory/logos/mujahidin.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/mujahidin/",
-      "instagram_url": "https://www.instagram.com/mujahidinmosque/"
+      "instagram_url": "https://www.instagram.com/mujahidinmosque/",
+      "nearest_mrt": [
+        {
+          "station": "Commonwealth",
+          "lines": [
+            "EW"
+          ]
+        }
+      ]
     },
     {
       "slug": "mydin",
@@ -1334,7 +1576,15 @@
       },
       "logo_url": "mosque-directory/logos/omar-kampong-melaka.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/omar-kampong-melaka/",
-      "instagram_url": "https://www.instagram.com/omarkgmelaka/"
+      "instagram_url": "https://www.instagram.com/omarkgmelaka/",
+      "nearest_mrt": [
+        {
+          "station": "Clarke Quay",
+          "lines": [
+            "NE"
+          ]
+        }
+      ]
     },
     {
       "slug": "omar-salmah",
@@ -1436,7 +1686,15 @@
       },
       "logo_url": "mosque-directory/logos/sallim-mattar.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sallim-mattar/",
-      "instagram_url": "https://www.instagram.com/masjidsallimmattar/"
+      "instagram_url": "https://www.instagram.com/masjidsallimmattar/",
+      "nearest_mrt": [
+        {
+          "station": "Mattar",
+          "lines": [
+            "DT"
+          ]
+        }
+      ]
     },
     {
       "slug": "sultan",
@@ -1459,7 +1717,16 @@
       },
       "logo_url": "mosque-directory/logos/sultan.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sultan/",
-      "instagram_url": "https://www.instagram.com/masjidsultan/"
+      "instagram_url": "https://www.instagram.com/masjidsultan/",
+      "nearest_mrt": [
+        {
+          "station": "Bugis",
+          "lines": [
+            "EW",
+            "DT"
+          ]
+        }
+      ]
     },
     {
       "slug": "tasek-utara",
@@ -1515,7 +1782,16 @@
       "website": "https://www.waktanjong.org",
       "description": "A whitewashed structure has replaced the semi-wooden prayer hall in this redeveloped masjid located in the Central part of the island. The original masjid dated back to the year 1935. In 1998, the masjid was reopened after undergoing a major restructuring. It has a capacity of 500 people.",
       "features": [],
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/wak-tanjong/"
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/wak-tanjong/",
+      "nearest_mrt": [
+        {
+          "station": "Paya Lebar",
+          "lines": [
+            "EW",
+            "CC"
+          ]
+        }
+      ]
     },
     {
       "slug": "yusof-ishak",
@@ -1538,7 +1814,15 @@
       },
       "logo_url": "mosque-directory/logos/yusof-ishak.png",
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/yusof-ishak/",
-      "instagram_url": "https://www.instagram.com/masjidyusofishak/"
+      "instagram_url": "https://www.instagram.com/masjidyusofishak/",
+      "nearest_mrt": [
+        {
+          "station": "Woodlands South",
+          "lines": [
+            "TE"
+          ]
+        }
+      ]
     }
   ]
 }

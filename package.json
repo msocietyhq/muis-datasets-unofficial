@@ -15,6 +15,7 @@
     "update:halal": "node halal-directory/scraper.mjs --update",
     "update:all": "npm run update:mosques && npm run update:ars && npm run update:iecp && npm run update:halal",
     "enrich:mosques": "node mosque-directory/enrich-coordinates.mjs",
+    "enrich:mrt": "node mosque-directory/enrich-mrt.mjs",
     "scrape:logos": "node mosque-directory/scrape-logos.mjs"
   },
   "keywords": ["singapore", "muis", "mosques", "masjid", "asatizah", "ars", "iecp", "open-data", "islamic-education"],

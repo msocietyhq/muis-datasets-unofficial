@@ -161,6 +161,9 @@ npm run scrape:halal
 
 # Enrich mosque coordinates via OneMap
 npm run enrich:mosques
+
+# Enrich nearest MRT stations (community-curated mapping)
+npm run enrich:mrt
 ```
 
 ## How the sync works
@@ -204,7 +207,8 @@ muis-datasets-unofficial/
 │   ├── logos/                 # Mosque logo images
 │   ├── scraper.mjs            # Diff-aware mosque scraper
 │   ├── scrape-logos.mjs       # Logo scraper from mosque websites
-│   └── enrich-coordinates.mjs # OneMap geocoding
+│   ├── enrich-coordinates.mjs # OneMap geocoding
+│   └── enrich-mrt.mjs         # Curated nearest-MRT mapping
 ├── ars-directory/
 │   ├── data.json              # ARS asatizah dataset
 │   └── scraper.mjs            # ARS scraper

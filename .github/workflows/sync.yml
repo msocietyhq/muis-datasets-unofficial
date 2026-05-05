@@ -38,6 +38,11 @@ jobs:
         run: node mosque-directory/enrich-coordinates.mjs
         continue-on-error: true
 
+      - name: Enrich nearest MRT stations
+        if: steps.mosques.outcome == 'success'
+        run: node mosque-directory/enrich-mrt.mjs
+        continue-on-error: true
+
       # ── ARS Directory ─────────────────────────────────────────────────
       - name: Update ARS directory
         id: ars
