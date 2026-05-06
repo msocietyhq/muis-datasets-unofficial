@@ -38,7 +38,6 @@ const MRT_BY_SLUG = {
                                  ],
   'kassim':                      [{ station: 'Kembangan', lines: ['EW'], note: '4 min walk (270 m)' }],
   'assyakirin':                  [{ station: 'Lakeside', lines: ['EW'], note: '17 min walk (1.3 km)' }],
-  'khadijah':                    [{ station: 'Lavender', lines: ['EW'], note: '39 min walk (2.8 km)' }],
   'malabar':                     [{ station: 'Lavender', lines: ['EW'], note: '6 min walk (450 m)' }],
   'sallim-mattar':               [{ station: 'Mattar', lines: ['DT'], note: '8 min walk (600 m)' }],
   'jamae-chulia':                [{ station: 'Maxwell', lines: ['TE'], note: '4 min walk (350 m)' }],
@@ -71,10 +70,14 @@ if (orphanSlugs.length) {
 let updated = 0;
 for (const mosque of data.mosques) {
   const mapping = MRT_BY_SLUG[mosque.slug];
-  if (!mapping) continue;
-  if (JSON.stringify(mosque.nearest_mrt) === JSON.stringify(mapping)) continue;
-  mosque.nearest_mrt = mapping;
-  updated++;
+  if (mapping) {
+    if (JSON.stringify(mosque.nearest_mrt) === JSON.stringify(mapping)) continue;
+    mosque.nearest_mrt = mapping;
+    updated++;
+  } else if ('nearest_mrt' in mosque) {
+    delete mosque.nearest_mrt;
+    updated++;
+  }
 }
 
 if (updated === 0) {
