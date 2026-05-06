@@ -25,6 +25,9 @@ npm run update:all            # All three
 
 # Coordinate enrichment (free OneMap geocoding API, no key needed)
 npm run enrich:mosques
+
+# Nearest MRT enrichment (community-curated mapping)
+npm run enrich:mrt
 ```
 
 ## Architecture
@@ -36,6 +39,8 @@ npm run enrich:mosques
 - **Shared utilities** (`utils.mjs`): `fetchPage`, `sleep`, `extractLastUpdated`, `extractRscTableData` — imported by ARS and IECP scrapers.
 
 - **Coordinate enricher** (`mosque-directory/enrich-coordinates.mjs`): Geocodes mosques by postal code via OneMap API. Skips mosques that already have coordinates.
+
+- **MRT enricher** (`mosque-directory/enrich-mrt.mjs`): Curated slug → nearby MRT stations mapping. Adds a `nearest_mrt` array of `{station, lines}` objects to each mosque (line codes: NS, EW, DT, CC, NE, TE).
 
 - **CI workflow** (`sync.yml`): Daily at 6am SGT. Runs all three updaters, enriches coordinates if mosque data changed, then commits only if any `data.json` files changed.
 
