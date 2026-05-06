@@ -50,13 +50,15 @@
           "station": "Jalan Besar",
           "lines": [
             "DT"
-          ]
+          ],
+          "note": "3 min walk"
         },
         {
           "station": "Rochor",
           "lines": [
             "DT"
-          ]
+          ],
+          "note": "5 min walk"
         }
       ]
     },
@@ -82,7 +84,8 @@
           "station": "Novena",
           "lines": [
             "NS"
-          ]
+          ],
+          "note": "7 min walk"
         }
       ]
     },
@@ -169,7 +172,8 @@
           "station": "Telok Ayer",
           "lines": [
             "TE"
-          ]
+          ],
+          "note": "4 min walk"
         }
       ]
     },
@@ -226,7 +230,8 @@
           "station": "Bedok",
           "lines": [
             "EW"
-          ]
+          ],
+          "note": "9 min walk"
         }
       ]
     },
@@ -258,13 +263,15 @@
           "lines": [
             "NS",
             "TE"
-          ]
+          ],
+          "note": "23 min walk"
         },
         {
           "station": "Somerset",
           "lines": [
             "NS"
-          ]
+          ],
+          "note": "8 min walk"
         }
       ]
     },
@@ -361,7 +368,8 @@
           "station": "Punggol",
           "lines": [
             "NE"
-          ]
+          ],
+          "note": "32 min walk"
         }
       ]
     },
@@ -465,7 +473,8 @@
           "station": "Potong Pasir",
           "lines": [
             "NE"
-          ]
+          ],
+          "note": "4 min walk"
         }
       ]
     },
@@ -531,7 +540,8 @@
           "station": "Buangkok",
           "lines": [
             "NE"
-          ]
+          ],
+          "note": "8 min walk"
         }
       ]
     },
@@ -589,7 +599,8 @@
           "station": "Ang Mo Kio",
           "lines": [
             "NS"
-          ]
+          ],
+          "note": "10 min walk"
         }
       ]
     },
@@ -640,7 +651,8 @@
           "station": "Farrer Park",
           "lines": [
             "NE"
-          ]
+          ],
+          "note": "5 min walk"
         }
       ]
     },
@@ -673,7 +685,8 @@
           "lines": [
             "NS",
             "CC"
-          ]
+          ],
+          "note": "7 min walk"
         }
       ]
     },
@@ -730,7 +743,8 @@
           "station": "Bukit Batok",
           "lines": [
             "NS"
-          ]
+          ],
+          "note": "13 min walk"
         }
       ]
     },
@@ -787,7 +801,8 @@
           "station": "Lakeside",
           "lines": [
             "EW"
-          ]
+          ],
+          "note": "22 min walk"
         }
       ]
     },
@@ -815,7 +830,8 @@
           "lines": [
             "TE",
             "DT"
-          ]
+          ],
+          "note": "6 min walk"
         }
       ]
     },
@@ -842,7 +858,8 @@
           "station": "Bencoolen",
           "lines": [
             "DT"
-          ]
+          ],
+          "note": "1 min walk"
         }
       ]
     },
@@ -891,7 +908,8 @@
           "station": "Eunos",
           "lines": [
             "EW"
-          ]
+          ],
+          "note": "5 min walk"
         }
       ]
     },
@@ -924,7 +942,8 @@
           "lines": [
             "EW",
             "DT"
-          ]
+          ],
+          "note": "27 min walk"
         }
       ]
     },
@@ -1050,7 +1069,8 @@
           "station": "Shenton Way",
           "lines": [
             "TE"
-          ]
+          ],
+          "note": "12 min walk"
         }
       ]
     },
@@ -1201,7 +1221,8 @@
           "station": "Maxwell",
           "lines": [
             "TE"
-          ]
+          ],
+          "note": "6 min walk"
         }
       ]
     },
@@ -1253,7 +1274,8 @@
           "station": "Redhill",
           "lines": [
             "EW"
-          ]
+          ],
+          "note": "6 min walk"
         }
       ]
     },
@@ -1306,7 +1328,8 @@
           "station": "Siglap",
           "lines": [
             "TE"
-          ]
+          ],
+          "note": "18 min walk"
         }
       ]
     },
@@ -1339,7 +1362,8 @@
           "station": "Kembangan",
           "lines": [
             "EW"
-          ]
+          ],
+          "note": "4 min walk"
         }
       ]
     },
@@ -1368,7 +1392,8 @@
           "station": "Lavender",
           "lines": [
             "EW"
-          ]
+          ],
+          "note": "38 min walk"
         }
       ]
     },
@@ -1422,7 +1447,8 @@
           "station": "Boon Lay",
           "lines": [
             "EW"
-          ]
+          ],
+          "note": "29 min walk"
         }
       ]
     },
@@ -1449,7 +1475,8 @@
           "station": "Lavender",
           "lines": [
             "EW"
-          ]
+          ],
+          "note": "9 min walk"
         }
       ]
     },
@@ -1476,7 +1503,8 @@
           "lines": [
             "NS",
             "EW"
-          ]
+          ],
+          "note": "10 min walk"
         }
       ]
     },
@@ -1531,7 +1559,8 @@
           "station": "Commonwealth",
           "lines": [
             "EW"
-          ]
+          ],
+          "note": "9 min walk"
         }
       ]
     },
@@ -1582,7 +1611,8 @@
           "station": "Clarke Quay",
           "lines": [
             "NE"
-          ]
+          ],
+          "note": "5 min walk"
         }
       ]
     },
@@ -1692,7 +1722,8 @@
           "station": "Mattar",
           "lines": [
             "DT"
-          ]
+          ],
+          "note": "9 min walk"
         }
       ]
     },
@@ -1724,7 +1755,8 @@
           "lines": [
             "EW",
             "DT"
-          ]
+          ],
+          "note": "7 min walk"
         }
       ]
     },
@@ -1789,7 +1821,8 @@
           "lines": [
             "EW",
             "CC"
-          ]
+          ],
+          "note": "3 min walk"
         }
       ]
     },
@@ -1820,7 +1853,8 @@
           "station": "Woodlands South",
           "lines": [
             "TE"
-          ]
+          ],
+          "note": "6 min walk"
         }
       ]
     }
