@@ -55,7 +55,7 @@ const MRT_BY_SLUG = {
   'kampung-siglap':              [{ station: 'Siglap', lines: ['TE'], note: '3 min walk (240 m)' }],
   'ba-alwie':                    [{ station: 'Stevens', lines: ['TE', 'DT'], note: '6 min walk (350 m)' }],
   'darul-ghufran':               [{ station: 'Tampines', lines: ['EW', 'DT'], note: '6 min walk (450 m)' }],
-  'al-abrar':                    [{ station: 'Telok Ayer', lines: ['TE'], note: '4 min walk (270 m)' }],
+  'al-abrar':                    [{ station: 'Telok Ayer', lines: ['DT'], note: '4 min walk (270 m)' }],
   'yusof-ishak':                 [{ station: 'Woodlands South', lines: ['TE'], note: '6 min walk (450 m)' }],
 };
 
