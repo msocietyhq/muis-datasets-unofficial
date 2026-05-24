@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Halal Certified Establishments",
     "source_url": "https://halal.muis.gov.sg/halal/establishments",
-    "last_scraped": "2026-05-17",
-    "total_count": 4563
+    "last_scraped": "2026-05-24",
+    "total_count": 4612
   },
   "establishments": [
     {
@@ -124,7 +124,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
@@ -2407,6 +2407,30 @@
       "logo_url": null
     },
     {
+      "id": "471a0417-671a-40d6-a037-54c55c933a2f",
+      "certificate_number": "EEBN21040012184",
+      "name": "The JellyHearts",
+      "address": "1 SENGKANG SQUARE #B1-49 COMPASS ONE 545078",
+      "postal_code": "545078",
+      "coordinates": {
+        "lat": 1.392,
+        "lng": 103.8951
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "22800df1-62a2-4887-a9b1-dd43fae4459f",
       "certificate_number": "EEBN21040012186",
       "name": "ASAM TREE SNACK & NASI LEMAK",
@@ -2415,6 +2439,30 @@
       "coordinates": {
         "lat": 1.3717,
         "lng": 103.8942
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "471a0417-671a-40d6-a037-54c55c933a2f",
+      "certificate_number": "EEBN21040012187",
+      "name": "The JellyHearts",
+      "address": "3155 COMMONWEALTH AVENUE WEST #04-K7 THE CLEMENTI MALL 129588",
+      "postal_code": "129588",
+      "coordinates": {
+        "lat": 1.3152,
+        "lng": 103.7645
       },
       "scheme": {
         "id": 100,
@@ -3847,30 +3895,6 @@
       "logo_url": null
     },
     {
-      "id": "236d947a-a4bf-4c16-be6f-41177d3bd33e",
-      "certificate_number": "EEBN21090012681",
-      "name": "Dip 'n' Go",
-      "address": "30 WOODLANDS AVENUE 2 #01-31 WOODLANDS MRT STATION 738343",
-      "postal_code": "738343",
-      "coordinates": {
-        "lat": 1.4369,
-        "lng": 103.7866
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 108,
-        "name": "Snack Bar / Bakery"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
       "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
       "certificate_number": "EEBN21100012880",
       "name": "Krispy Kreme Doughnuts",
@@ -5023,6 +5047,30 @@
       "logo_url": "https://halal.muis.gov.sg/api/halal/icon/66f2cb1e-722d-4f55-96e8-8afe7874907c"
     },
     {
+      "id": "471a0417-671a-40d6-a037-54c55c933a2f",
+      "certificate_number": "EEBN21120013007",
+      "name": "The JellyHearts",
+      "address": "65 AIRPORT BOULEVARD #B2-29 CHANGI AIRPORT TERMINAL 3 819663",
+      "postal_code": "819663",
+      "coordinates": {
+        "lat": 1.3553,
+        "lng": 103.9858
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
       "certificate_number": "EEBN21120013008",
       "name": "DOUGH CULTURE PTE. LTD.",
@@ -5055,6 +5103,30 @@
       "coordinates": {
         "lat": 1.4279,
         "lng": 103.8362
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "471a0417-671a-40d6-a037-54c55c933a2f",
+      "certificate_number": "EEBN21120013011",
+      "name": "The JellyHearts",
+      "address": "68 ORCHARD ROAD #B2-61 PLAZA SINGAPURA 238839",
+      "postal_code": "238839",
+      "coordinates": {
+        "lat": 1.3008,
+        "lng": 103.8451
       },
       "scheme": {
         "id": 100,
@@ -5895,6 +5967,30 @@
       "coordinates": {
         "lat": 1.3471,
         "lng": 103.7574
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "d71c13ba-70b0-4557-b50c-accd66c95466",
+      "certificate_number": "EEBN22020013090",
+      "name": "ECREATIVE",
+      "address": "2 TAMPINES CENTRAL 5 #B1-34 CENTURY SQUARE 529509",
+      "postal_code": "529509",
+      "coordinates": {
+        "lat": 1.3524,
+        "lng": 103.9438
       },
       "scheme": {
         "id": 100,
@@ -8116,6 +8212,30 @@
       "logo_url": null
     },
     {
+      "id": "d71c13ba-70b0-4557-b50c-accd66c95466",
+      "certificate_number": "EEBX22020013089",
+      "name": "ECREATIVE",
+      "address": "18 YISHUN AVENUE 9 #02-39 JUNCTION NINE 768897",
+      "postal_code": "768897",
+      "coordinates": {
+        "lat": 1.4331,
+        "lng": 103.8417
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "2ba76be5-c2e7-447b-9283-8bf51d1a60e0",
       "certificate_number": "EEBX22020013105",
       "name": "1A Heritage",
@@ -9574,7 +9694,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -9598,7 +9718,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
@@ -9766,7 +9886,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
@@ -10062,30 +10182,6 @@
       "coordinates": {
         "lat": 1.3033,
         "lng": 103.7433
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 109,
-        "name": "Staff Canteen"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "324ad1fd-1f1b-4e71-8a42-361f0ca8093f",
-      "certificate_number": "EEFN21040011530",
-      "name": "BAGUS CAFE @ RWS -RWS (Mngd by Compass Group)",
-      "address": "26 SENTOSA GATEWAY RESORTS WORLD SENTOSA 098138",
-      "postal_code": "098138",
-      "coordinates": {
-        "lat": 1.2569,
-        "lng": 103.8206
       },
       "scheme": {
         "id": 100,
@@ -13540,6 +13636,30 @@
       "logo_url": null
     },
     {
+      "id": "4e1f6840-4130-406d-a5a8-7bcc100d5bad",
+      "certificate_number": "EEHK20230000354",
+      "name": "HOTTO NEKO (S17) @ MAKAN PLACE NGEE ANN POLYTECHNIC",
+      "address": "535 CLEMENTI ROAD #02-00 NGEE ANN POLYTECHNIC (Blk 51), Stall 17 599489",
+      "postal_code": "599489",
+      "coordinates": {
+        "lat": 1.3328,
+        "lng": 103.7746
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "05e1d8f3-8f02-462c-b33f-e6fbd6e4b5c8",
       "certificate_number": "EEHK20230000385",
       "name": "NANDHANA'S",
@@ -14880,6 +15000,30 @@
       "coordinates": {
         "lat": 1.4404,
         "lng": 103.8016
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "6f4a763a-68c2-4036-9486-f7872189ff88",
+      "certificate_number": "EEHK20230000899",
+      "name": "Thai Makan (S2) @ Kopitiam NUH Main Building",
+      "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, STALL 2 119074",
+      "postal_code": "119074",
+      "coordinates": {
+        "lat": 1.294,
+        "lng": 103.7833
       },
       "scheme": {
         "id": 100,
@@ -16911,6 +17055,54 @@
       "coordinates": {
         "lat": 1.3471,
         "lng": 103.68
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "c92d8f35-0f16-4842-b2a4-d7874adbb296",
+      "certificate_number": "EEHK20240000386",
+      "name": "Hotto Neko + Neko Bingsu (S9) @ Koufu Nanyang Polytechnic",
+      "address": "180 ANG MO KIO AVENUE 8 #02-09 NANYANG POLYTECHNIC 569830",
+      "postal_code": "569830",
+      "coordinates": {
+        "lat": 1.3794,
+        "lng": 103.8489
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "b439d7e5-cebc-4677-9430-81b01ed66386",
+      "certificate_number": "EEHK20240000387",
+      "name": "Hotto Neko Hotplate & Bingsu (S6) @ Koufu Republic Poly",
+      "address": "31 WOODLANDS AVENUE 9 #01-01 REPUBLIC POLYTECHNIC, Stall 6 737907",
+      "postal_code": "737907",
+      "coordinates": {
+        "lat": 1.444,
+        "lng": 103.7856
       },
       "scheme": {
         "id": 100,
@@ -20119,7 +20311,7 @@
       "id": "082c2c47-c65f-44ee-bbc6-72a89bc9c738",
       "certificate_number": "EEHK20240000933",
       "name": "YES! NASI KUKUS & NASI LEMAK (S3)@ HZB CANTEEN WAVE 9",
-      "address": "71 WOODLANDS INDUSTRIAL PARK E9 #01-04 WAVE9,(Stall 3) 757048",
+      "address": "71 WOODLANDS INDUSTRIAL PARK E9 #01-04 WAVE9, (Stall 3) 757048",
       "postal_code": "757048",
       "coordinates": {
         "lat": 1.4485,
@@ -22600,6 +22792,27 @@
       "logo_url": null
     },
     {
+      "id": "5438ff11-c3f4-49c6-aec1-3669acd832ce",
+      "certificate_number": "EEHK20250000311",
+      "name": "Wild West Grills (S2) @ Makan@Grab Media Close",
+      "address": "1 MEDIA CLOSE #01-02, STALL 2 138497",
+      "postal_code": "138497",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "1a389773-112f-46b9-94ce-f99a07b1f3bc",
       "certificate_number": "EEHK20250000312",
       "name": "Fitra Chicken Rice (S4) @ Cantine Causeway Point",
@@ -23178,6 +23391,30 @@
       "coordinates": {
         "lat": 1.3341,
         "lng": 103.9629
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "ead6bcfc-7bb6-4fe1-8fda-bc576f5b1593",
+      "certificate_number": "EEHK20250000507",
+      "name": "Huang Jin You Tiao (S21) @ Kebun Baru Food Centre",
+      "address": "226H ANG MO KIO STREET 22 #01-21 KEBUN BARU FOOD CENTRE 568226",
+      "postal_code": "568226",
+      "coordinates": {
+        "lat": 1.3672,
+        "lng": 103.8401
       },
       "scheme": {
         "id": 100,
@@ -24726,30 +24963,6 @@
       "coordinates": {
         "lat": 1.3341,
         "lng": 103.9629
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 103,
-        "name": "Hawker"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "632ffead-084a-4b58-a095-70e41d0e376e",
-      "certificate_number": "EEHK20250000817",
-      "name": "KAWAN MAKAN",
-      "address": "1 PASIR RIS CLOSE STALL 7 #01-335, 336 (S7) Singapura Heritage Downtown East 519599",
-      "postal_code": "519599",
-      "coordinates": {
-        "lat": 1.3772,
-        "lng": 103.9552
       },
       "scheme": {
         "id": 100,
@@ -26673,6 +26886,30 @@
       "coordinates": {
         "lat": 1.2776,
         "lng": 103.8355
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f8a553df-8b21-4c61-881f-cfef28b2854d",
+      "certificate_number": "EEHK25120000065",
+      "name": "THAI MAKAN",
+      "address": "456 JURONG WEST STREET 41 Mr Teh Tarik Eating House (Stall 4) #01-750 640456",
+      "postal_code": "640456",
+      "coordinates": {
+        "lat": 1.3507,
+        "lng": 103.72
       },
       "scheme": {
         "id": 100,
@@ -30145,6 +30382,54 @@
       "logo_url": null
     },
     {
+      "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+      "certificate_number": "EEHK26050000041",
+      "name": "QI JI",
+      "address": "202C WOODLEIGH LINK #01-37 WOODLEIGH VILLAGE, STALL 37, WOODLEIGH VILLAGE HAWKER CENTRE 363202",
+      "postal_code": "363202",
+      "coordinates": {
+        "lat": 1.3398,
+        "lng": 103.872
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "4d0916a0-8297-448b-9957-fde39e356c77",
+      "certificate_number": "EEHK26050000046",
+      "name": "Seabay Delight Wok Delight",
+      "address": "638A JURONG WEST STREET 61 STALL 03,KOUFU #01-22 MULTI STOREY CAR PARK 641638",
+      "postal_code": "641638",
+      "coordinates": {
+        "lat": 1.342,
+        "lng": 103.6976
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "7c118107-d835-4c19-be93-98c8bdb9a0fd",
       "certificate_number": "EEHN20070011365",
       "name": "Fitra Chicken Rice (S18) @ The Food Place By Food Junction",
@@ -32803,7 +33088,7 @@
       "id": "c834e4a2-71ca-4f7f-afeb-e1631e789f10",
       "certificate_number": "EEHN21100012708",
       "name": "YES! STEAM RICE FRIED CHICKEN(S3) @FOOD HUB",
-      "address": "48 Toh Guan Road East #01-124/129 Enterprise Hub,Stall 3 608586",
+      "address": "48 Toh Guan Road East #01-124/129 Enterprise Hub, Stall 3 608586",
       "postal_code": "608586",
       "coordinates": {
         "lat": 1.3368,
@@ -33571,7 +33856,7 @@
       "id": "f6679522-de89-41b2-965e-dd27d953ab98",
       "certificate_number": "EEHN22010013055",
       "name": "YES! STEAM RICE FRIED CHICKEN (S4) @ GRAINS & HOPS FOODCOURT",
-      "address": "573 WOODLANDS DRIVE 16 #01-01,Stall 4 730573",
+      "address": "573 WOODLANDS DRIVE 16 #01-01, Stall 4 730573",
       "postal_code": "730573",
       "coordinates": {
         "lat": 1.4311,
@@ -34272,6 +34557,54 @@
       "coordinates": {
         "lat": 1.2851,
         "lng": 103.8216
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "8c0e39b1-6179-44d0-acc1-384d86da00db",
+      "certificate_number": "EEHN22020013155",
+      "name": "CHICKEN RICE & DRINKS (S2) @ KAKI CORNER",
+      "address": "61 CHOA CHU KANG DRIVE #01-05 YEW TEE MRT STATION (Right Half), STALL 2 689715",
+      "postal_code": "689715",
+      "coordinates": {
+        "lat": 1.3974,
+        "lng": 103.7474
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "cff6abad-8a6c-4e12-9a44-55de0a4ef972",
+      "certificate_number": "EEHN22020013156",
+      "name": "NASI LEMAK & NOODLES (S1) @ KAKI CORNER",
+      "address": "61 CHOA CHU KANG DRIVE #01-05 YEW TEE MRT STATION (Right Half), STALL 1 689715",
+      "postal_code": "689715",
+      "coordinates": {
+        "lat": 1.3974,
+        "lng": 103.7474
       },
       "scheme": {
         "id": 100,
@@ -35740,7 +36073,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
@@ -36625,7 +36958,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36649,7 +36982,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36673,7 +37006,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36697,7 +37030,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36721,7 +37054,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36745,7 +37078,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36769,7 +37102,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36793,7 +37126,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36817,7 +37150,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36841,7 +37174,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36865,7 +37198,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36889,7 +37222,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36913,7 +37246,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36937,7 +37270,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36961,7 +37294,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -36985,7 +37318,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37009,7 +37342,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37033,7 +37366,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37057,7 +37390,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37081,7 +37414,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37105,7 +37438,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37129,7 +37462,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37153,7 +37486,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37177,7 +37510,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37201,7 +37534,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37225,7 +37558,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37249,7 +37582,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37273,7 +37606,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37297,7 +37630,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37321,7 +37654,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37345,7 +37678,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37369,7 +37702,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37393,7 +37726,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37417,7 +37750,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37441,7 +37774,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37465,7 +37798,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37489,7 +37822,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37513,7 +37846,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37537,7 +37870,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37561,7 +37894,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37585,7 +37918,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37609,7 +37942,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37633,7 +37966,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37657,7 +37990,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37681,7 +38014,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37705,7 +38038,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37729,7 +38062,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37753,7 +38086,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37777,7 +38110,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37801,7 +38134,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37825,7 +38158,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37849,7 +38182,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37873,7 +38206,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37897,7 +38230,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37921,7 +38254,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37945,7 +38278,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37969,7 +38302,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -37993,7 +38326,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38017,7 +38350,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38041,7 +38374,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38065,7 +38398,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38089,7 +38422,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38113,7 +38446,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38137,7 +38470,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38161,7 +38494,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38185,7 +38518,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38209,7 +38542,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38233,7 +38566,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38257,7 +38590,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38281,7 +38614,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38305,7 +38638,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38329,7 +38662,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38353,7 +38686,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38377,7 +38710,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38401,7 +38734,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38425,7 +38758,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38449,7 +38782,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38473,7 +38806,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38497,7 +38830,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38521,7 +38854,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38545,7 +38878,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38569,7 +38902,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38593,7 +38926,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38617,7 +38950,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38641,7 +38974,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38665,7 +38998,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38689,7 +39022,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38713,7 +39046,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38737,7 +39070,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38761,7 +39094,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38785,7 +39118,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38809,7 +39142,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38833,7 +39166,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38857,7 +39190,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38881,7 +39214,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38905,7 +39238,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38929,7 +39262,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38953,7 +39286,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -38977,7 +39310,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39001,7 +39334,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39025,7 +39358,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39049,7 +39382,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39073,7 +39406,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39097,7 +39430,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39121,7 +39454,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39145,7 +39478,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39169,7 +39502,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
@@ -39217,7 +39550,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39241,7 +39574,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39265,7 +39598,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39289,7 +39622,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39313,7 +39646,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -39337,7 +39670,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "6aa4a59a-9d52-4c1c-a79b-0dcf0e6fd2e9",
@@ -40057,7 +40390,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
@@ -40633,7 +40966,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
@@ -40873,7 +41206,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "8297f808-92a7-4884-92d8-95daab047e0e",
@@ -41316,6 +41649,30 @@
       "coordinates": {
         "lat": 1.3427,
         "lng": 103.953
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "471a0417-671a-40d6-a037-54c55c933a2f",
+      "certificate_number": "EERN21040012234",
+      "name": "The JellyHearts",
+      "address": "1 PASIR RIS CLOSE #02-111 E!HUB@DOWNTOWN EAST 519599",
+      "postal_code": "519599",
+      "coordinates": {
+        "lat": 1.3772,
+        "lng": 103.9552
       },
       "scheme": {
         "id": 100,
@@ -47467,7 +47824,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "94f707c0-d13d-48f6-81d0-015c2d3647f8",
@@ -47827,7 +48184,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "02a7cc0a-6dae-4b74-a34e-207f6136c785",
@@ -55120,7 +55477,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
@@ -55696,7 +56053,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
@@ -57133,7 +57490,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "18013ddd-3a15-45e0-a2ec-63f0b3b4b594",
@@ -58069,7 +58426,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "8190b22d-00bd-4d74-8267-b2ed861d2394",
@@ -58117,7 +58474,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "b39ac8e6-0f95-4e8c-8250-7466742f0de1",
@@ -58525,7 +58882,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "94f707c0-d13d-48f6-81d0-015c2d3647f8",
@@ -59341,7 +59698,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
@@ -60202,7 +60559,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
@@ -60370,7 +60727,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
@@ -60439,7 +60796,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "6afa9898-6953-4fa3-9d73-b57cf01ccbda",
@@ -61687,7 +62044,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -61708,7 +62065,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -61732,7 +62089,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -61756,7 +62113,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
@@ -62296,7 +62653,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -62320,7 +62677,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -62344,7 +62701,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
@@ -62989,7 +63346,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -63013,7 +63370,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
@@ -64588,7 +64945,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
@@ -65848,7 +66205,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "ecd0c6c3-907a-47e4-b44a-55778fdcff4a",
@@ -65920,7 +66277,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
@@ -66016,7 +66373,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
@@ -68584,7 +68941,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -68608,7 +68965,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -68632,7 +68989,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
@@ -72805,6 +73162,30 @@
       "logo_url": null
     },
     {
+      "id": "471a0417-671a-40d6-a037-54c55c933a2f",
+      "certificate_number": "EERT20250000362",
+      "name": "The JellyHearts",
+      "address": "3 SIMEI STREET 6 #01-29 EASTPOINT MALL 528833",
+      "postal_code": "528833",
+      "coordinates": {
+        "lat": 1.3427,
+        "lng": 103.953
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "7b7a12de-d91d-4c5d-b16e-b6cd48944873",
       "certificate_number": "EERT20250000372",
       "name": "SMOL",
@@ -72969,6 +73350,30 @@
       "type": {
         "id": 0,
         "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "e41a1194-c248-4f09-8429-e4179cbe340d",
+      "certificate_number": "EERT20250000400",
+      "name": "TheJellyHearts",
+      "address": "127 PLANTATION CRESCENT #02-18 PLANTATION PLAZA 690127",
+      "postal_code": "690127",
+      "coordinates": {
+        "lat": 1.3576,
+        "lng": 103.7342
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 1,
+        "name": "Virtual Brand"
       },
       "logo_url": null
     },
@@ -77032,7 +77437,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
@@ -77173,7 +77578,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -77197,7 +77602,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -77221,7 +77626,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "446ea3e3-576e-4c17-892e-c9102e9e7bbb",
@@ -80320,7 +80725,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
@@ -80344,7 +80749,7 @@
         "id": 0,
         "name": "Default"
       },
-      "logo_url": null
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
       "id": "980b47cd-f8b6-4239-bf67-e863cab8183c",
@@ -81013,6 +81418,30 @@
       "logo_url": null
     },
     {
+      "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+      "certificate_number": "EERT26040000031",
+      "name": "McDonald's",
+      "address": "896 DUNEARN ROAD 01-08/09 DUNEARN VILLAGE 589472",
+      "postal_code": "589472",
+      "coordinates": {
+        "lat": 1.3367,
+        "lng": 103.7838
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
+    },
+    {
       "id": "b1f036a2-8e23-4ad2-8f90-b1be94ee26f2",
       "certificate_number": "EERT26040000037",
       "name": "Just BrewIN",
@@ -81322,6 +81751,30 @@
       "logo_url": null
     },
     {
+      "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+      "certificate_number": "EERT26040000059",
+      "name": "SUBWAY",
+      "address": "15 TAMPINES CENTRAL 1 #B1-07 TAMPINES MRT STATION (DT32) 529544",
+      "postal_code": "529544",
+      "coordinates": {
+        "lat": 1.355,
+        "lng": 103.9434
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "e62c1714-cf10-4c7f-82f9-d4aa14c3c5c0",
       "certificate_number": "EERT26040000075",
       "name": "Gajeong Korean",
@@ -81389,6 +81842,246 @@
         "name": "Default"
       },
       "logo_url": null
+    },
+    {
+      "id": "8f3838e7-7c8c-4c2f-aa9e-0789bfd0b381",
+      "certificate_number": "EERT26050000021",
+      "name": "ZAFFRON KITCHEN",
+      "address": "30 ORANGE GROVE ROAD #04-02 RELC BUILDING 258352",
+      "postal_code": "258352",
+      "coordinates": {
+        "lat": 1.3129,
+        "lng": 103.8261
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
+      "certificate_number": "EERT26050000029",
+      "name": "Campur Nasi Padang",
+      "address": "1 ENGKU AMAN TURN #01-03 GEYLANG SERAI COMMUNITY CLUB 408528",
+      "postal_code": "408528",
+      "coordinates": {
+        "lat": 1.3165,
+        "lng": 103.8969
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
+      "certificate_number": "EERT26050000030",
+      "name": "Campur Nasi Padang",
+      "address": "1 PASIR RIS CLOSE #02-306 E!HUB @ DOWNTOWN EAST 519599",
+      "postal_code": "519599",
+      "coordinates": {
+        "lat": 1.3772,
+        "lng": 103.9552
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "4bd8f8c1-67ec-4477-b6c1-389fa3d7526c",
+      "certificate_number": "EERT26050000033",
+      "name": "DAPUR PENYET",
+      "address": "176 ORCHARD ROAD #01-59/60/61/62 THE CENTREPOINT 238843",
+      "postal_code": "238843",
+      "coordinates": {
+        "lat": 1.3016,
+        "lng": 103.8399
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "40092bff-9bf0-449d-bee9-e14ac0c88752",
+      "certificate_number": "EERT26050000038",
+      "name": "Home's Favourite Bakes / Andy's Pie",
+      "address": "310 ORCHARD ROAD #B1-03 TANG PLAZA 238864",
+      "postal_code": "238864",
+      "coordinates": {
+        "lat": 1.305,
+        "lng": 103.8331
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "6e74b83b-58c5-4d9e-84b1-e2c03e6db1dd",
+      "certificate_number": "EERT26050000051",
+      "name": "Pizza Maru/Chegoya",
+      "address": "68 ORCHARD ROAD #04-64/66 PLAZA SINGAPURA 238839",
+      "postal_code": "238839",
+      "coordinates": {
+        "lat": 1.3008,
+        "lng": 103.8451
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/bd61a911-1892-45a5-94ad-bd51f42a3757"
+    },
+    {
+      "id": "62058254-c7ba-4cd4-8415-5d2eb2032295",
+      "certificate_number": "EERT26050000052",
+      "name": "Pizza Maru",
+      "address": "201 VICTORIA STREET #04-03/04 BUGIS+ 188067",
+      "postal_code": "188067",
+      "coordinates": {
+        "lat": 1.2996,
+        "lng": 103.8544
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/e3017861-739f-42c7-ab8e-fdefcbbaaa5d"
+    },
+    {
+      "id": "62058254-c7ba-4cd4-8415-5d2eb2032295",
+      "certificate_number": "EERT26050000053",
+      "name": "Pizza Maru",
+      "address": "60 AIRPORT BOULEVARD #03-09/10 CHANGI AIRPORT TERMINAL 2 819643",
+      "postal_code": "819643",
+      "coordinates": {
+        "lat": 1.3558,
+        "lng": 103.9892
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/e3017861-739f-42c7-ab8e-fdefcbbaaa5d"
+    },
+    {
+      "id": "b4c14802-010c-4a3d-97d2-f36e4bee8adf",
+      "certificate_number": "EERT26050000054",
+      "name": "Pizza Maru Express",
+      "address": "112 EAST COAST ROAD (PART LEFT) #01-20 112 KATONG 428802",
+      "postal_code": "428802",
+      "coordinates": {
+        "lat": 1.3052,
+        "lng": 103.9051
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/00922a24-bf96-4603-8a24-416c9b3d952f"
+    },
+    {
+      "id": "66523cbf-eaa1-4dfb-99e2-012f00217d43",
+      "certificate_number": "EERT26050000055",
+      "name": "Kimchi Mama",
+      "address": "60 AIRPORT BOULEVARD #03-09/10 CHANGI AIRPORT TERMINAL 2 819643",
+      "postal_code": "819643",
+      "coordinates": {
+        "lat": 1.3558,
+        "lng": 103.9892
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/6bb5eb2f-0839-4fd3-a24e-56607957898b"
     },
     {
       "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
@@ -85735,6 +86428,30 @@
       "logo_url": null
     },
     {
+      "id": "20e9cfbd-a5ea-416f-8d56-310201a9e8c4",
+      "certificate_number": "EESB20230000288",
+      "name": "ECREATIVE CAKE",
+      "address": "60 PAYA LEBAR ROAD #01-58 PAYA LEBAR SQUARE 409051",
+      "postal_code": "409051",
+      "coordinates": {
+        "lat": 1.3188,
+        "lng": 103.8926
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
       "certificate_number": "EESB20230000290",
       "name": "STUFF'D",
@@ -86787,6 +87504,54 @@
       "coordinates": {
         "lat": 1.3387,
         "lng": 103.8717
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "471a0417-671a-40d6-a037-54c55c933a2f",
+      "certificate_number": "EESB20230000892",
+      "name": "The JellyHearts",
+      "address": "11 BIDADARI PARK DRIVE #B1-K9 THE WOODLEIGH MALL 367803",
+      "postal_code": "367803",
+      "coordinates": {
+        "lat": 1.3387,
+        "lng": 103.8717
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "625586e1-1bfd-4399-ab91-31ede3e99a9f",
+      "certificate_number": "EESB20230000921",
+      "name": "THEJELLYHEARTS",
+      "address": "1 TAMPINES WALK #B1-K14 OUR TAMPINES HUB 528523",
+      "postal_code": "528523",
+      "coordinates": {
+        "lat": 1.3532,
+        "lng": 103.9403
       },
       "scheme": {
         "id": 100,
@@ -88405,6 +89170,30 @@
       "logo_url": null
     },
     {
+      "id": "d71c13ba-70b0-4557-b50c-accd66c95466",
+      "certificate_number": "EESB20240000308",
+      "name": "ECREATIVE",
+      "address": "2 JURONG EAST STREET 21 #01-40 IMM BUILDING 609601",
+      "postal_code": "609601",
+      "coordinates": {
+        "lat": 1.3349,
+        "lng": 103.7468
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "83555d54-74f6-478d-9393-666f698a1c48",
       "certificate_number": "EESB20240000309",
       "name": "Dunkin'",
@@ -88629,6 +89418,30 @@
       "coordinates": {
         "lat": 1.2913,
         "lng": 103.85
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "d71c13ba-70b0-4557-b50c-accd66c95466",
+      "certificate_number": "EESB20240000478",
+      "name": "ECREATIVE",
+      "address": "21 CHOA CHU KANG NORTH 6 #B1-41 YEWTEE POINT 689578",
+      "postal_code": "689578",
+      "coordinates": {
+        "lat": 1.3971,
+        "lng": 103.7466
       },
       "scheme": {
         "id": 100,
@@ -90867,6 +91680,30 @@
       "coordinates": {
         "lat": 1.3349,
         "lng": 103.7468
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "471a0417-671a-40d6-a037-54c55c933a2f",
+      "certificate_number": "EESB20250000024",
+      "name": "The JellyHearts",
+      "address": "1 HARBOURFRONT WALK #B2-06A VIVO CITY 098585",
+      "postal_code": "098585",
+      "coordinates": {
+        "lat": 1.2642,
+        "lng": 103.8224
       },
       "scheme": {
         "id": 100,
@@ -96574,6 +97411,174 @@
       "logo_url": null
     },
     {
+      "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+      "certificate_number": "EESB26050000031",
+      "name": "Maki-San",
+      "address": "1 KIM SENG PROMENADE #B1-K104 GREAT WORLD CITY 237994",
+      "postal_code": "237994",
+      "coordinates": {
+        "lat": 1.2934,
+        "lng": 103.832
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+      "certificate_number": "EESB26050000032",
+      "name": "Maki-San",
+      "address": "11 TANJONG KATONG ROAD #B1-K7 KINEX MALL 437157",
+      "postal_code": "437157",
+      "coordinates": {
+        "lat": 1.3146,
+        "lng": 103.8947
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+      "certificate_number": "EESB26050000034",
+      "name": "OLD CHANG KEE",
+      "address": "90 HOUGANG AVENUE 10 #01-18D HOUGANG MALL 538766",
+      "postal_code": "538766",
+      "coordinates": {
+        "lat": 1.3725,
+        "lng": 103.8938
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+      "certificate_number": "EESB26050000042",
+      "name": "MUNCHI PANCAKES",
+      "address": "80 MANDAI LAKE ROAD #01-K1 SINGAPORE ZOO (F & B) 729826",
+      "postal_code": "729826",
+      "coordinates": {
+        "lat": 1.404,
+        "lng": 103.7907
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+      "certificate_number": "EESB26050000043",
+      "name": "MUNCHI PANCAKES",
+      "address": "9 BISHAN PLACE #B1-K13 JUNCTION 8 579837",
+      "postal_code": "579837",
+      "coordinates": {
+        "lat": 1.3503,
+        "lng": 103.8486
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+      "certificate_number": "EESB26050000044",
+      "name": "MUNCHI PANCAKES",
+      "address": "80 MARINE PARADE ROAD #03-30C PARKWAY PARADE 449269",
+      "postal_code": "449269",
+      "coordinates": {
+        "lat": 1.3012,
+        "lng": 103.9052
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "267f7410-4bb5-4ed0-8201-ea717282e07b",
+      "certificate_number": "EESB26050000045",
+      "name": "MUNCHI PANCAKES",
+      "address": "1 PASIR RIS CENTRAL STREET 3 #01-39C WHITE SANDS 518457",
+      "postal_code": "518457",
+      "coordinates": {
+        "lat": 1.3724,
+        "lng": 103.9498
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "ee4dc241-8cef-404a-b69d-58f28f77e2b7",
       "certificate_number": "EESC20220000334",
       "name": "Staff Canteen Stall @ PPHG Beach Road (Mngd by The Wok People)",
@@ -97134,6 +98139,30 @@
       "coordinates": {
         "lat": 1.3144,
         "lng": 103.6935
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "642f5b42-567b-4906-a40a-7919d0cc3bc6",
+      "certificate_number": "EESC20240000160",
+      "name": "CAFE 85 @HOLIDAY INN (MNGD BY PRO*3 INSTITUTIONAL CATERING PL)",
+      "address": "317 OUTRAM ROAD #B2-00 HOLIDAY INN SINGAPORE ATRIUM 169075",
+      "postal_code": "169075",
+      "coordinates": {
+        "lat": 1.2889,
+        "lng": 103.8342
       },
       "scheme": {
         "id": 100,
@@ -101392,6 +102421,54 @@
       "logo_url": null
     },
     {
+      "id": "ca0e9367-2314-4812-a41e-4f2e8554d78a",
+      "certificate_number": "FPCA26050000022",
+      "name": "DELIZIO CATERING PTE. LTD.",
+      "address": "5 BURN ROAD #03-01/02 TEE YIH JIA FOOD BUILDING 369972",
+      "postal_code": "369972",
+      "coordinates": {
+        "lat": 1.3352,
+        "lng": 103.885
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
+      "certificate_number": "FPCA26050000028",
+      "name": "Campur Nasi Padang",
+      "address": "1 ENGKU AMAN TURN #01-03 WISMA GEYLANG SERAI 408528",
+      "postal_code": "408528",
+      "coordinates": {
+        "lat": 1.3165,
+        "lng": 103.8969
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "8f5b8114-e5bd-4b0f-9223-0981551fc357",
       "certificate_number": "FPCK20220000026",
       "name": "Cookhouse @ Banyan Home (Mngd by Happy Enterprises Pte Ltd)",
@@ -104812,6 +105889,30 @@
       "logo_url": null
     },
     {
+      "id": "0b33d0c5-213c-487a-bf99-914ccc44f4a4",
+      "certificate_number": "FPCK26050000049",
+      "name": "HARA HONG KONG TIM SUM PTE LTD",
+      "address": "30 SENOKO DRIVE #02-02 SENOKO INDUSTRIAL ESTATE 758215",
+      "postal_code": "758215",
+      "coordinates": {
+        "lat": 1.4626,
+        "lng": 103.8039
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 201,
+        "name": "Central Kitchen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "55e83906-b62f-4686-bfa1-923586433dcd",
       "certificate_number": "FPCN20010001313",
       "name": "Central Kitchen @ OBS-Mngd by Pro*3 Institutional Catering PL",
@@ -106132,6 +107233,30 @@
       "logo_url": null
     },
     {
+      "id": "471a0417-671a-40d6-a037-54c55c933a2f",
+      "certificate_number": "FPCN21100001602",
+      "name": "The JellyHearts",
+      "address": "21 TAMPINES STREET 92 #03-03 HERSING KITCHEN 528891",
+      "postal_code": "528891",
+      "coordinates": {
+        "lat": 1.3414,
+        "lng": 103.9456
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 201,
+        "name": "Central Kitchen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "8a3080ff-27fd-4eef-868a-9c6f1fe84c67",
       "certificate_number": "FPCN21100001607",
       "name": "Flavours of M @ M Hotel",
@@ -107145,6 +108270,30 @@
       "coordinates": {
         "lat": 1.4238,
         "lng": 103.8372
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 201,
+        "name": "Central Kitchen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "20e9cfbd-a5ea-416f-8d56-310201a9e8c4",
+      "certificate_number": "FPCX22020001657",
+      "name": "ECREATIVE CAKE",
+      "address": "15 WOODLANDS LOOP #04-34 738322",
+      "postal_code": "738322",
+      "coordinates": {
+        "lat": 1.4486,
+        "lng": 103.8091
       },
       "scheme": {
         "id": 200,
@@ -108201,6 +109350,30 @@
       "coordinates": {
         "lat": 1.463,
         "lng": 103.8144
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "7ff429b2-c30d-4d1b-a7d5-386dd8ee375e",
+      "certificate_number": "FPGN22020001659",
+      "name": "ECREATIVE CATERING",
+      "address": "15 WOODLANDS LOOP #04-33 738322",
+      "postal_code": "738322",
+      "coordinates": {
+        "lat": 1.4486,
+        "lng": 103.8091
       },
       "scheme": {
         "id": 200,
