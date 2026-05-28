@@ -2,14 +2,14 @@
   "meta": {
     "source": "MUIS ARS Directory",
     "source_url": "https://www.muis.gov.sg/education/asatizah-development/asatizah-recognition-scheme/ars-directory/",
-    "last_scraped": "2026-05-14",
-    "muis_last_updated": "2026-05-14",
-    "total_count": 5389,
+    "last_scraped": "2026-05-28",
+    "muis_last_updated": "2026-05-28",
+    "total_count": 5387,
     "tier_counts": {
-      "Tier 1 (Asatizah)": 2831,
+      "Tier 1 (Asatizah)": 2829,
       "Tier 2 (Quranic Teacher)": 2558
     },
-    "last_checked": "2026-05-14T22:48:14.048Z"
+    "last_checked": "2026-05-28T23:07:11.165Z"
   },
   "asatizah": [
     {
@@ -5163,11 +5163,6 @@
       "category": "Tier 1 (Asatizah)"
     },
     {
-      "title": "Ustazah",
-      "name": "Zurlyana Syazwany Binte Zainuddin",
-      "category": "Tier 1 (Asatizah)"
-    },
-    {
       "title": "Ustaz",
       "name": "Abdur Rahman Bin Latiff",
       "category": "Tier 1 (Asatizah)"
@@ -7455,11 +7450,6 @@
     {
       "title": "Ustazah",
       "name": "Nadiah Binte Mohd Hashim",
-      "category": "Tier 1 (Asatizah)"
-    },
-    {
-      "title": "Ustazah",
-      "name": "Nadia Hanim Binte Abdul Rahman",
       "category": "Tier 1 (Asatizah)"
     },
     {
