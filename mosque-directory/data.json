@@ -2,9 +2,10 @@
   "meta": {
     "source": "MUIS Mosque Directory",
     "source_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/",
-    "last_scraped": "2026-04-21",
-    "last_checked": "2026-06-09T23:09:30.875Z",
-    "total_count": 70
+    "last_scraped": "2026-06-10",
+    "last_checked": "2026-06-10T23:18:57.982Z",
+    "total_count": 70,
+    "last_enriched_coordinates": "2026-06-10"
   },
   "mosques": [
     {
@@ -486,21 +487,6 @@
       },
       "logo_url": "mosque-directory/logos/al-khair.png",
       "instagram_url": "https://www.instagram.com/alkhair.mosque/",
-      "slug": "al-khair",
-      "name": "Al-Khair",
-      "address": "1 Teck Whye Crescent Singapore 688847",
-      "postal_code": "688847",
-      "phone": "67601139",
-      "email": "info@alkaffus.sg",
-      "website": "http://alkhair-mosque.org.sg/",
-      "description": "Al-Khair Mosque was founded in the early 1960s. The mosque was built on a hilltop, surrounded by vegetable farms, along Choa Chu Kang Road. Originally named Jamek Mosque, it was later officially renamed as Al-Khair Mosque in 1963. Al-Khair Mosque was then rebuilt under the third phase of the Mosque Building Fund managed by the Islamic Religious Council of Singapore (MUIS). It was operationally ready in 1997, however its official opening was on 31 May 1998. About 15 years later, Al-Khair Mosque went through an 18-month Mosque Upgrading Programme (MUP), this exercise was completed in 2015.",
-      "features": [
-        "Zakat Collection Centre",
-        "aLIVE Islamic Learning",
-        "Adult Islamic Learning",
-        "Social Development Mosque (for MUIS Social Assistance)"
-      ],
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-khair/",
       "nearest_mrt": [
         {
           "station": "Choa Chu Kang",
@@ -509,7 +495,22 @@
           ],
           "note": "11 min walk (800 m)"
         }
-      ]
+      ],
+      "slug": "al-khair",
+      "name": "Al-Khair",
+      "address": "1 Teck Whye Crescent Singapore 688847",
+      "postal_code": "688847",
+      "phone": "67601139",
+      "email": "info@alkaffus.sg",
+      "website": null,
+      "description": "Al-Khair Mosque was founded in the early 1960s. The mosque was built on a hilltop, surrounded by vegetable farms, along Choa Chu Kang Road. Originally named Jamek Mosque, it was later officially renamed as Al-Khair Mosque in 1963. Al-Khair Mosque was then rebuilt under the third phase of the Mosque Building Fund managed by the Islamic Religious Council of Singapore (MUIS). It was operationally ready in 1997, however its official opening was on 31 May 1998. About 15 years later, Al-Khair Mosque went through an 18-month Mosque Upgrading Programme (MUP), this exercise was completed in 2015.",
+      "features": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-khair/"
     },
     {
       "slug": "al-mawaddah",
@@ -605,11 +606,17 @@
       ]
     },
     {
+      "district": "East",
+      "coordinates": {
+        "lat": 1.32179653416997,
+        "lng": 103.953501109845
+      },
+      "logo_url": "mosque-directory/logos/al-taqua.png",
+      "instagram_url": "https://www.instagram.com/taquanetwork/",
       "slug": "al-taqua",
       "name": "Al-Taqua",
       "address": "11A Jalan Bilal Singapore 468862",
       "postal_code": "468862",
-      "district": "East",
       "phone": "64427704",
       "email": "info@altaqua.mosque.org.sg",
       "website": null,
@@ -618,13 +625,7 @@
         "Zakat Collection Centre",
         "aLIVE Islamic Learning"
       ],
-      "coordinates": {
-        "lat": 1.32179653416997,
-        "lng": 103.953501109845
-      },
-      "logo_url": "mosque-directory/logos/al-taqua.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-taqua/",
-      "instagram_url": "https://www.instagram.com/taquanetwork/"
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-taqua/"
     },
     {
       "slug": "angullia",
@@ -836,22 +837,12 @@
       ]
     },
     {
-      "slug": "bencoolen",
-      "name": "Bencoolen",
-      "address": "59 Bencoolen Street, #01-01 Singapore 189630",
-      "postal_code": "189630",
       "district": "South",
-      "phone": "63333016",
-      "email": "masjid@bencoolen.mosque.org.sg",
-      "website": null,
-      "description": "This masjid was originally built in 1845. In 2001, the mosque's site was redeveloped as part of a mixed development comprising of a commercial block and a 12-storey residential complex. The redeveloped masjid, which is part of the complex, was opened to the public in May 2004. It can accommodate about 1,100 worshippers.",
-      "features": [],
       "coordinates": {
         "lat": 1.2993605331112,
         "lng": 103.850376020549
       },
       "logo_url": "mosque-directory/logos/bencoolen.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/bencoolen/",
       "instagram_url": "https://www.instagram.com/masjid.bencoolen/",
       "nearest_mrt": [
         {
@@ -861,7 +852,17 @@
           ],
           "note": "1 min walk (59 m)"
         }
-      ]
+      ],
+      "slug": "bencoolen",
+      "name": "Bencoolen",
+      "address": "51 Bencoolen St, Singapore 189630",
+      "postal_code": "189630",
+      "phone": "63333016",
+      "email": "masjid@bencoolen.mosque.org.sg",
+      "website": null,
+      "description": "This masjid was originally built in 1845. In 2001, the mosque's site was redeveloped as part of a mixed development comprising of a commercial block and a 12-storey residential complex. The redeveloped masjid, which is part of the complex, was opened to the public in May 2004. It can accommodate about 1,100 worshippers.",
+      "features": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/bencoolen/"
     },
     {
       "slug": "burhani",
@@ -1246,28 +1247,12 @@
       "instagram_url": "https://www.instagram.com/masjidjamekqueenstown/"
     },
     {
-      "slug": "jamiyah-ar-rabitah",
-      "name": "Jamiyah Ar-Rabitah",
-      "address": "601 Tiong Bahru Road Singapore 158787",
-      "postal_code": "158787",
       "district": "South",
-      "phone": "62733848",
-      "email": "aliman@aliman.mosque.org.sg",
-      "website": "https://jamiyaharrabitah.sg/",
-      "description": "Redeveloped in 1985 on the same site as the old masjid, this three-storey cream structure can accommodate up to 2000 people. The first masjid was built in 1960. Today, the masjid in Central part of the island serves the needs of residents in Redhill, Tiong Bahru and Alexandra areas, besides the office workers at the nearby industrial estates. Besides madrasah and kindergarten classes, it organizes regular religious classes for the adults.",
-      "features": [
-        "Zakat Collection Centre",
-        "Barrier-free features",
-        "aLIVE Islamic Learning",
-        "Adult Islamic Learning",
-        "Social Development Mosque (for MUIS Social Assistance)"
-      ],
       "coordinates": {
         "lat": 1.28832868873592,
         "lng": 103.820155323568
       },
       "logo_url": "mosque-directory/logos/jamiyah-ar-rabitah.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamiyah-ar-rabitah/",
       "instagram_url": "https://www.instagram.com/jamiyaharrabitahmosque/",
       "nearest_mrt": [
         {
@@ -1277,7 +1262,23 @@
           ],
           "note": "5 min walk (400 m)"
         }
-      ]
+      ],
+      "slug": "jamiyah-ar-rabitah",
+      "name": "Jamiyah Ar-Rabitah",
+      "address": "601 Tiong Bahru Rd, Singapore 158787",
+      "postal_code": "158787",
+      "phone": "62733848",
+      "email": "official@arrabitah.mosque.sg",
+      "website": "https://jamiyaharrabitah.sg/",
+      "description": "Redeveloped in 1985 on the same site as the old masjid, this three-storey cream structure can accommodate up to 2000 people. The first masjid was built in 1960. Today, the masjid in Central part of the island serves the needs of residents in Redhill, Tiong Bahru and Alexandra areas, besides the office workers at the nearby industrial estates. Besides madrasah and kindergarten classes, it organizes regular religious classes for the adults.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamiyah-ar-rabitah/"
     },
     {
       "slug": "kampong-delta",
@@ -1301,11 +1302,26 @@
       "instagram_url": "https://www.instagram.com/masjidkgdelta/"
     },
     {
+      "district": "East",
+      "coordinates": {
+        "lat": 1.30985532852467,
+        "lng": 103.927555067646
+      },
+      "logo_url": "mosque-directory/logos/kampung-siglap.png",
+      "instagram_url": "https://www.instagram.com/masjidkampungsiglap/",
+      "nearest_mrt": [
+        {
+          "station": "Siglap",
+          "lines": [
+            "TE"
+          ],
+          "note": "3 min walk (240 m)"
+        }
+      ],
       "slug": "kampung-siglap",
       "name": "Kampung Siglap",
       "address": "451 Marine Parade Road Singapore 449283",
       "postal_code": "449283",
-      "district": "East",
       "phone": "62437060",
       "email": "info@mks.org.sg",
       "website": "http://www.mks.org.sg/",
@@ -1316,22 +1332,7 @@
         "aLIVE Islamic Learning",
         "Social Development Mosque (for MUIS Social Assistance)"
       ],
-      "coordinates": {
-        "lat": 1.30985532852467,
-        "lng": 103.927555067646
-      },
-      "logo_url": "mosque-directory/logos/kampung-siglap.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/kampung-siglap/",
-      "instagram_url": "https://www.instagram.com/masjidkampungsiglap/",
-      "nearest_mrt": [
-        {
-          "station": "Siglap",
-          "lines": [
-            "TE"
-          ],
-          "note": "3 min walk (240 m)"
-        }
-      ]
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/kampung-siglap/"
     },
     {
       "slug": "kassim",
@@ -1608,23 +1609,23 @@
       ]
     },
     {
-      "slug": "omar-salmah",
-      "name": "Omar Salmah",
-      "address": "441-B Jalan Mashor Singapore 299173",
-      "postal_code": "299173",
       "district": "North",
-      "phone": "62500120",
-      "email": "info@omarsalmahmosque.com",
-      "website": null,
-      "description": "At one glance, it looked like any other kampung house which is slowly becoming a rare sight in a city of concrete jungle. This old generation masjid built in 1973 can accommodate up to 300 worshippers. The rather isolated masjid in the Central zone and presently caters to Mediacorp staff nearby. Its activities include korban, Eid and Friday prayers.",
-      "features": [],
       "coordinates": {
         "lat": 1.33468787442313,
         "lng": 103.831955902164
       },
       "logo_url": "mosque-directory/logos/omar-salmah.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/omar-salmah/",
-      "instagram_url": "https://www.instagram.com/omarsalmahsg/"
+      "instagram_url": "https://www.instagram.com/omarsalmahsg/",
+      "slug": "omar-salmah",
+      "name": "Omar Salmah",
+      "address": "411 Jalan Mashhor Singapore 299173",
+      "postal_code": "299173",
+      "phone": "62500120",
+      "email": "info@omarsalmahmosque.com",
+      "website": null,
+      "description": "At one glance, it looked like any other kampung house which is slowly becoming a rare sight in a city of concrete jungle. This old generation masjid built in 1973 can accommodate up to 300 worshippers. The rather isolated masjid in the Central zone and presently caters to Mediacorp staff nearby. Its activities include korban, Eid and Friday prayers.",
+      "features": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/omar-salmah/"
     },
     {
       "slug": "petempatan-melayu-sembawang",
@@ -1686,11 +1687,26 @@
       "instagram_url": "https://www.instagram.com/pusaramanofficial/"
     },
     {
+      "district": "East",
+      "coordinates": {
+        "lat": 1.32574679283198,
+        "lng": 103.881230367298
+      },
+      "logo_url": "mosque-directory/logos/sallim-mattar.png",
+      "instagram_url": "https://www.instagram.com/masjidsallimmattar/",
+      "nearest_mrt": [
+        {
+          "station": "Mattar",
+          "lines": [
+            "DT"
+          ],
+          "note": "8 min walk (600 m)"
+        }
+      ],
       "slug": "sallim-mattar",
       "name": "Sallim Mattar",
       "address": "1 Mattar Road Singapore 387725",
       "postal_code": "387725",
-      "district": "East",
       "phone": "67492382",
       "email": "info@sallimmattar.mosque.org.sg",
       "website": null,
@@ -1701,22 +1717,7 @@
         "aLIVE Islamic Learning",
         "Social Development Mosque (for MUIS Social Assistance)"
       ],
-      "coordinates": {
-        "lat": 1.32574679283198,
-        "lng": 103.881230367298
-      },
-      "logo_url": "mosque-directory/logos/sallim-mattar.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sallim-mattar/",
-      "instagram_url": "https://www.instagram.com/masjidsallimmattar/",
-      "nearest_mrt": [
-        {
-          "station": "Mattar",
-          "lines": [
-            "DT"
-          ],
-          "note": "8 min walk (600 m)"
-        }
-      ]
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sallim-mattar/"
     },
     {
       "slug": "sultan",
@@ -1796,16 +1797,6 @@
       },
       "logo_url": "mosque-directory/logos/wak-tanjong.png",
       "instagram_url": "https://www.instagram.com/waktanjong_mosque/",
-      "slug": "wak-tanjong",
-      "name": "Wak Tanjong",
-      "address": "25 Paya Lebar Road Singapore 409004",
-      "postal_code": "409004",
-      "phone": "67472743",
-      "email": "info@waktanjong.mosque.org.sg",
-      "website": "https://www.waktanjong.org",
-      "description": "A whitewashed structure has replaced the semi-wooden prayer hall in this redeveloped masjid located in the Central part of the island. The original masjid dated back to the year 1935. In 1998, the masjid was reopened after undergoing a major restructuring. It has a capacity of 500 people.",
-      "features": [],
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/wak-tanjong/",
       "nearest_mrt": [
         {
           "station": "Paya Lebar",
@@ -1815,7 +1806,17 @@
           ],
           "note": "1 min walk (58 m)"
         }
-      ]
+      ],
+      "slug": "wak-tanjong",
+      "name": "Wak Tanjong",
+      "address": "25 Paya Lebar Road Singapore 409004",
+      "postal_code": "409004",
+      "phone": "67472743",
+      "email": "enquiry@waktanjong.org",
+      "website": "https://www.waktanjong.org",
+      "description": "A whitewashed structure has replaced the semi-wooden prayer hall in this redeveloped masjid located in the Central part of the island. The original masjid dated back to the year 1935. In 1998, the masjid was reopened after undergoing a major restructuring. It has a capacity of 500 people.",
+      "features": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/wak-tanjong/"
     },
     {
       "slug": "yusof-ishak",
