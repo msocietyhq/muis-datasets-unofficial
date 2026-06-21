@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Halal Certified Establishments",
     "source_url": "https://halal.muis.gov.sg/halal/establishments",
-    "last_scraped": "2026-06-14",
-    "total_count": 4583
+    "last_scraped": "2026-06-21",
+    "total_count": 4603
   },
   "establishments": [
     {
@@ -16900,6 +16900,78 @@
       "logo_url": null
     },
     {
+      "id": "543eac92-1e2a-42d5-a096-4edf6add7263",
+      "certificate_number": "EEHK20240000372",
+      "name": "Popeyes Famous Louisiana Chicken (MR1) @ North Spine Plaza NTU",
+      "address": "76 NANYANG DRIVE #01-04, MR 1 637331",
+      "postal_code": "637331",
+      "coordinates": {
+        "lat": 1.3471,
+        "lng": 103.68
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "9db707fc-bfcc-4b23-a968-ccf4f367cc3c",
+      "certificate_number": "EEHK20240000377",
+      "name": "Popeyes Famous Louisiana Chicken (S9) @ SG Hawker Terminal 1",
+      "address": "80 Airport Boulevard #03-47 Changi Airport Terminal 1, Stall 9 819642",
+      "postal_code": "819642",
+      "coordinates": {
+        "lat": 1.362,
+        "lng": 103.9903
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "374f6510-6fbe-4775-bf50-e590d9730151",
+      "certificate_number": "EEHK20240000378",
+      "name": "Popeyes Famous Louisiana Chicken (S2) @ North Spine Plaza NTU",
+      "address": "76 NANYANG DRIVE #01-04 N2.1, STALL 2 637331",
+      "postal_code": "637331",
+      "coordinates": {
+        "lat": 1.3471,
+        "lng": 103.68
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "1be43dbe-2463-41a3-8f7e-95eed188d59c",
       "certificate_number": "EEHK20240000383",
       "name": "Encik Tan (S1) @ SG Hawker Mount Alvernia Hospital",
@@ -25433,54 +25505,6 @@
       "certificate_number": "EEHK25100000134",
       "name": "WESTERN WILD WILD",
       "address": "371 BEACH ROAD Stall (MR2) #B1-15 CITY GATE, FOOD HQ KOPITIAM & BAR 199597",
-      "postal_code": "199597",
-      "coordinates": {
-        "lat": 1.3023,
-        "lng": 103.8623
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 103,
-        "name": "Hawker"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "96829bc1-103a-4edb-8141-c571383add6d",
-      "certificate_number": "EEHK25100000136",
-      "name": "$5 JAPANESE & KOREAN CUISINE",
-      "address": "371 BEACH ROAD Stall (S1) #B1-15 CITY GATE, FOOD HQ KOPITIAM & BAR 199597",
-      "postal_code": "199597",
-      "coordinates": {
-        "lat": 1.3023,
-        "lng": 103.8623
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 103,
-        "name": "Hawker"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "fd4774fc-2a74-49bf-94d1-acb34f56740a",
-      "certificate_number": "EEHK25100000137",
-      "name": "$5 FRIED RICE",
-      "address": "371 BEACH ROAD stall (MR1) #B1-15 CITY GATE, FOOD HQ KOPITIAM & BAR 199597",
       "postal_code": "199597",
       "coordinates": {
         "lat": 1.3023,
@@ -61285,30 +61309,6 @@
       "logo_url": null
     },
     {
-      "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
-      "certificate_number": "EERT20230000619",
-      "name": "Sukiya Gyudon • Curry",
-      "address": "68 ORCHARD ROAD #B1-07 PLAZA SINGAPURA 238839",
-      "postal_code": "238839",
-      "coordinates": {
-        "lat": 1.3008,
-        "lng": 103.8451
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 106,
-        "name": "Restaurant"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
       "id": "6582f2a0-3687-45a5-8822-fe3666534ec0",
       "certificate_number": "EERT20230000639",
       "name": "A&W",
@@ -63021,30 +63021,6 @@
       "coordinates": {
         "lat": 1.3146,
         "lng": 103.8947
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 106,
-        "name": "Restaurant"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "4e70f349-090a-42fa-950a-111c1762dead",
-      "certificate_number": "EERT20230001038",
-      "name": "HALIA PANTRY",
-      "address": "1 CLUNY ROAD NATIONAL PARKS BOARD, At THE VILLA 259569",
-      "postal_code": "259569",
-      "coordinates": {
-        "lat": 1.3126,
-        "lng": 103.8162
       },
       "scheme": {
         "id": 100,
@@ -65965,6 +65941,246 @@
       "logo_url": null
     },
     {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000367",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "53 ANG MO KIO AVENUE 3 #B1-64 AMK HUB 569933",
+      "postal_code": "569933",
+      "coordinates": {
+        "lat": 1.3692,
+        "lng": 103.8485
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000369",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "63 JURONG WEST CENTRAL 3 #03-48 TO 51 JURONG POINT 648331",
+      "postal_code": "648331",
+      "coordinates": {
+        "lat": 1.3393,
+        "lng": 103.7053
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000370",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "1 STADIUM PLACE #02-02 397628",
+      "postal_code": "397628",
+      "coordinates": {
+        "lat": 1.3031,
+        "lng": 103.8731
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000371",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "930 YISHUN AVENUE 2 #01-15 769098",
+      "postal_code": "769098",
+      "coordinates": {
+        "lat": 1.4296,
+        "lng": 103.836
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000373",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "437 ORCHARD ROAD #B1-19/20/22/23 ORCHARD MRT STATION 238878",
+      "postal_code": "238878",
+      "coordinates": {
+        "lat": 1.3035,
+        "lng": 103.8323
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000375",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "10 TAMPINES CENTRAL 1 #03-16B TAMPINES ONE 529536",
+      "postal_code": "529536",
+      "coordinates": {
+        "lat": 1.3543,
+        "lng": 103.9451
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000376",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "750 CHAI CHEE ROAD #01-17 ESR BIZPARK @ CHAI CHEE 469000",
+      "postal_code": "469000",
+      "coordinates": {
+        "lat": 1.3237,
+        "lng": 103.9221
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000379",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "6 Raffles Boulevard #02-275/276 Marina Square 039594",
+      "postal_code": "039594",
+      "coordinates": {
+        "lat": 1.2913,
+        "lng": 103.8575
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000380",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "1 Joo Koon Circle #01-42/47/48 FAIRPRICE HUB 629117",
+      "postal_code": "629117",
+      "coordinates": {
+        "lat": 1.3257,
+        "lng": 103.6783
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000381",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "1 SENGKANG SQUARE #02-29 COMPASS ONE, MR1 545078",
+      "postal_code": "545078",
+      "coordinates": {
+        "lat": 1.392,
+        "lng": 103.8951
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "05e1d8f3-8f02-462c-b33f-e6fbd6e4b5c8",
       "certificate_number": "EERT20240000392",
       "name": "NANDHANA'S",
@@ -67074,6 +67290,30 @@
       "coordinates": {
         "lat": 1.3017,
         "lng": 103.86
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20240000656",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "33 Sengkang West Avenue #01-31/32/33 The Seletar Mall 797653",
+      "postal_code": "797653",
+      "coordinates": {
+        "lat": 1.3914,
+        "lng": 103.8762
       },
       "scheme": {
         "id": 100,
@@ -70654,6 +70894,30 @@
       "logo_url": null
     },
     {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20250000029",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "2 JURONG EAST STREET 21 #01-89 IMM BUILDING 609601",
+      "postal_code": "609601",
+      "coordinates": {
+        "lat": 1.3349,
+        "lng": 103.7468
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "05e1d8f3-8f02-462c-b33f-e6fbd6e4b5c8",
       "certificate_number": "EERT20250000031",
       "name": "NANDHANA'S",
@@ -70872,30 +71136,6 @@
       "coordinates": {
         "lat": 1.3772,
         "lng": 103.9552
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 106,
-        "name": "Restaurant"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
-      "certificate_number": "EERT20250000093",
-      "name": "twyst",
-      "address": "2 TAMPINES CENTRAL 5 #B1-11 CENTURY SQUARE 529509",
-      "postal_code": "529509",
-      "coordinates": {
-        "lat": 1.3524,
-        "lng": 103.9438
       },
       "scheme": {
         "id": 100,
@@ -72679,6 +72919,78 @@
       "logo_url": null
     },
     {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20250000445",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "96 SOMERSET ROAD #01-01/04 Pan Pacific Serviced Suites Orchard 238163",
+      "postal_code": "238163",
+      "coordinates": {
+        "lat": 1.3009,
+        "lng": 103.8379
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20250000446",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "30 WOODLANDS AVENUE 2 #01-07, 08, 15 WOODLANDS MRT STATION 738343",
+      "postal_code": "738343",
+      "coordinates": {
+        "lat": 1.4369,
+        "lng": 103.7866
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20250000447",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "458 UPPER BUKIT TIMAH ROAD The Rail Mall 678073",
+      "postal_code": "678073",
+      "coordinates": {
+        "lat": 1.3599,
+        "lng": 103.7676
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
       "certificate_number": "EERT20250000451",
       "name": "Jollibee",
@@ -73710,6 +74022,54 @@
       "coordinates": {
         "lat": 1.281,
         "lng": 103.8102
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20250000586",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "11 TANJONG KATONG ROAD #01-50/51 KINEX 437157",
+      "postal_code": "437157",
+      "coordinates": {
+        "lat": 1.3146,
+        "lng": 103.8947
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT20250000587",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "557 BUKIT TIMAH ROAD 01-14/15/16 CROWN CENTRE 269694",
+      "postal_code": "269694",
+      "coordinates": {
+        "lat": 1.323,
+        "lng": 103.8112
       },
       "scheme": {
         "id": 100,
@@ -81238,6 +81598,78 @@
       "logo_url": null
     },
     {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT26060000010",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "430 UPPER CHANGI ROAD #01-01, #01-02 EAST VILLAGE 487048",
+      "postal_code": "487048",
+      "coordinates": {
+        "lat": 1.3318,
+        "lng": 103.9462
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT26060000011",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "205 HOUGANG STREET 21 #01-133/5 HEARTLAND MALL-KOVAN, (UNIT #01-06) 530205",
+      "postal_code": "530205",
+      "coordinates": {
+        "lat": 1.3595,
+        "lng": 103.8852
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+      "certificate_number": "EERT26060000012",
+      "name": "Popeyes Famous Louisiana Chicken",
+      "address": "154 WEST COAST ROAD #B1-48 WEST COAST PLAZA 127371",
+      "postal_code": "127371",
+      "coordinates": {
+        "lat": 1.3037,
+        "lng": 103.7659
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "bbbdedc5-bef4-4f58-968c-286a553ce4ba",
       "certificate_number": "EERT26060000017",
       "name": "Namtown",
@@ -81270,6 +81702,30 @@
       "coordinates": {
         "lat": 1.2648,
         "lng": 103.8191
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+      "certificate_number": "EERT26060000026",
+      "name": "CRAVE",
+      "address": "182 CECIL STREET #02-16, #02-17 FRASERS TOWER 069547",
+      "postal_code": "069547",
+      "coordinates": {
+        "lat": 1.2788,
+        "lng": 103.8473
       },
       "scheme": {
         "id": 100,
@@ -84939,30 +85395,6 @@
       "coordinates": {
         "lat": 1.3724,
         "lng": 103.9498
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 108,
-        "name": "Snack Bar / Bakery"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "90b83324-363a-4406-9afa-08b19b67522d",
-      "certificate_number": "EESB20220000860",
-      "name": "4FINGERS CRISPY CHICKEN",
-      "address": "4 BUKIT BATOK STREET 41 #01-14/15 LE QUEST 657991",
-      "postal_code": "657991",
-      "coordinates": {
-        "lat": 1.3559,
-        "lng": 103.7411
       },
       "scheme": {
         "id": 100,
@@ -94996,30 +95428,6 @@
       "logo_url": null
     },
     {
-      "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
-      "certificate_number": "EESB26010000040",
-      "name": "Firefry Thai Snacks",
-      "address": "3 SIMEI STREET 6 #01-01C EASTPOINT MALL 528833",
-      "postal_code": "528833",
-      "coordinates": {
-        "lat": 1.3427,
-        "lng": 103.953
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 108,
-        "name": "Snack Bar / Bakery"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
       "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
       "certificate_number": "EESB26010000058",
       "name": "SUBWAY",
@@ -96229,30 +96637,6 @@
       "logo_url": null
     },
     {
-      "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
-      "certificate_number": "EESB26040000019",
-      "name": "Firefry Thai Snacks",
-      "address": "90 HOUGANG AVENUE 10 #01-18C HOUGANG MALL 538766",
-      "postal_code": "538766",
-      "coordinates": {
-        "lat": 1.3725,
-        "lng": 103.8938
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 108,
-        "name": "Snack Bar / Bakery"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
       "id": "8f4aa454-c904-4a6a-9117-b9c0d6e34e0e",
       "certificate_number": "EESB26040000021",
       "name": "KENJINN",
@@ -96798,6 +97182,54 @@
       "type": {
         "id": 0,
         "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+      "certificate_number": "EESB26060000031",
+      "name": "Pasta Kaki",
+      "address": "206 TOA PAYOH NORTH #01-1207 TOA PAYOH NORTH 310206",
+      "postal_code": "310206",
+      "coordinates": {
+        "lat": 1.3423,
+        "lng": 103.8465
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 1,
+        "name": "Virtual Brand"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+      "certificate_number": "EESB26060000032",
+      "name": "Pasta Kaki",
+      "address": "67 BRIGHTON CRESCENT 559212",
+      "postal_code": "559212",
+      "coordinates": {
+        "lat": 1.3628,
+        "lng": 103.8712
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 1,
+        "name": "Virtual Brand"
       },
       "logo_url": null
     },
@@ -98332,6 +98764,30 @@
       "logo_url": null
     },
     {
+      "id": "86599531-1ac0-4553-a2f2-4457d006624d",
+      "certificate_number": "EESC26060000034",
+      "name": "Malay Cuisine @ Brani Terminal Building Canteen (mngd by Arya Bhavan Restaurant Pte Ltd)",
+      "address": "200 BRANI TERMINAL AVENUE, Stall 2 098675",
+      "postal_code": "098675",
+      "coordinates": {
+        "lat": 1.2578,
+        "lng": 103.832
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "559c805a-077c-4918-be15-f8d8b69c28a5",
       "certificate_number": "EESN21030007685",
       "name": "Indian Fiesta (S3) @ Bartley Sec Sch",
@@ -99084,30 +99540,6 @@
       "coordinates": {
         "lat": 1.3074,
         "lng": 103.8533
-      },
-      "scheme": {
-        "id": 200,
-        "name": "Food Preparation Area"
-      },
-      "sub_scheme": {
-        "id": 202,
-        "name": "Catering Company"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "4e70f349-090a-42fa-950a-111c1762dead",
-      "certificate_number": "FPCA20230001039",
-      "name": "HALIA PANTRY",
-      "address": "1 CLUNY ROAD NATIONAL PARKS BOARD, At THE VILLA 259569",
-      "postal_code": "259569",
-      "coordinates": {
-        "lat": 1.3126,
-        "lng": 103.8162
       },
       "scheme": {
         "id": 200,
@@ -101745,6 +102177,54 @@
       "coordinates": {
         "lat": 1.4121,
         "lng": 103.845
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "089bca27-991d-4e11-84e7-c281fbb71436",
+      "certificate_number": "FPCA26060000037",
+      "name": "3 Embers Culinary Craft Pte Ltd",
+      "address": "2 SENOKO SOUTH ROAD #06-01 758096",
+      "postal_code": "758096",
+      "coordinates": {
+        "lat": 1.4593,
+        "lng": 103.8049
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "db1a91bf-606b-473b-8590-68a17ca712a3",
+      "certificate_number": "FPCA26060000039",
+      "name": "MR BARKER",
+      "address": "7 ENTERPRISE ROAD 629819",
+      "postal_code": "629819",
+      "coordinates": {
+        "lat": 1.3325,
+        "lng": 103.7074
       },
       "scheme": {
         "id": 200,
