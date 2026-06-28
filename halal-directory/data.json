@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Halal Certified Establishments",
     "source_url": "https://halal.muis.gov.sg/halal/establishments",
-    "last_scraped": "2026-06-21",
-    "total_count": 4603
+    "last_scraped": "2026-06-28",
+    "total_count": 4606
   },
   "establishments": [
     {
@@ -18892,6 +18892,27 @@
       "logo_url": null
     },
     {
+      "id": "fe2e55a6-3f35-4fe4-af5d-fc506d843eab",
+      "certificate_number": "EEHK20240000722",
+      "name": "MALA HOT POT (STALL 4) @ TECHNO EDGE CANTEEN",
+      "address": "3A ENGINEERING DRIVE 2 Techno Edge Canteen, stall 4 117275",
+      "postal_code": "117275",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "ec9bdb4c-605d-4b6e-a292-843116ae1d13",
       "certificate_number": "EEHK20240000723",
       "name": "Chef Leslie Western Cuisine (MR3) @ Kopitiam Northpoint City",
@@ -22834,7 +22855,7 @@
       "id": "cd2b1a60-2b11-4a39-95b0-a904e73d1612",
       "certificate_number": "EEHK20250000467",
       "name": "Mee Bagus",
-      "address": "380 CLEMENTI AVENUE 5 Stall 3 #01-376 Kedai Kopi, Stall 3 120380",
+      "address": "380 CLEMENTI AVENUE 5 #01-376 Kedai Kopi, Stall 3 120380",
       "postal_code": "120380",
       "coordinates": {
         "lat": 1.3183,
@@ -25834,7 +25855,7 @@
       "id": "cd2b1a60-2b11-4a39-95b0-a904e73d1612",
       "certificate_number": "EEHK25120000008",
       "name": "Mee Bagus",
-      "address": "376 BUKIT BATOK STREET 31 #01-126 650376",
+      "address": "376 BUKIT BATOK STREET 31 #01-126, Stall 14, Kedai Kopi 650376",
       "postal_code": "650376",
       "coordinates": {
         "lat": 1.3583,
@@ -30022,6 +30043,30 @@
       "logo_url": null
     },
     {
+      "id": "bc3caea3-cf3b-4154-b110-d90f4325734f",
+      "certificate_number": "EEHK26050000070",
+      "name": "Heritage Yong Tau Foo",
+      "address": "335 SMITH STREET #02-004 CHINATOWN COMPLEX 050335",
+      "postal_code": "050335",
+      "coordinates": {
+        "lat": 1.2823,
+        "lng": 103.8432
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "88230f65-be99-4ae3-b033-cde7e7aedf3d",
       "certificate_number": "EEHK26050000072",
       "name": "Fitra Chicken Rice Ayam Penyet",
@@ -30198,6 +30243,30 @@
       "coordinates": {
         "lat": 1.2806,
         "lng": 103.8504
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "14504fb0-9afc-4f2e-b86f-20be03302050",
+      "certificate_number": "EEHK26060000050",
+      "name": "SUPER SHIOK NASI LEMAK",
+      "address": "30 SENG POH ROAD #02-38 TIONG BAHRU FOOD CENTRE, STALL 38 168898",
+      "postal_code": "168898",
+      "coordinates": {
+        "lat": 1.2847,
+        "lng": 103.8323
       },
       "scheme": {
         "id": 100,
@@ -34235,6 +34304,30 @@
         "name": "Default"
       },
       "logo_url": "https://halal.muis.gov.sg/api/halal/icon/aa405c7d-402c-44ba-8d37-487fdc1b3b55"
+    },
+    {
+      "id": "2d05e174-a995-438d-9385-07285141becd",
+      "certificate_number": "EEHN22020013148",
+      "name": "OLD TIMES",
+      "address": "676 Woodlands Drive 71 #02-38 Kampung Admiralty 730676",
+      "postal_code": "730676",
+      "coordinates": {
+        "lat": 1.4398,
+        "lng": 103.8007
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
     },
     {
       "id": "57f3b454-9b4c-4cab-ab46-2aed6e6c71f1",
@@ -43513,30 +43606,6 @@
       "logo_url": null
     },
     {
-      "id": "b8175854-2480-4a5c-85f7-e18d4a00cc3f",
-      "certificate_number": "EERN21060012463",
-      "name": "Kintamani Indonesian Restaurant",
-      "address": "405 HAVELOCK ROAD #03-00 FURAMA RIVERFRONT HOTEL 169633",
-      "postal_code": "169633",
-      "coordinates": {
-        "lat": 1.2877,
-        "lng": 103.8362
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 106,
-        "name": "Restaurant"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
       "id": "80c6b9e8-c4ce-4904-9d8c-d03882b21fc0",
       "certificate_number": "EERN21060012464",
       "name": "Gourmet Pizza To Go",
@@ -45483,30 +45552,6 @@
       "coordinates": {
         "lat": 1.3526,
         "lng": 103.9445
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 106,
-        "name": "Restaurant"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-      "certificate_number": "EERN21070012668",
-      "name": "So Pho",
-      "address": "2 BAYFRONT AVENUE #01-03, #01-04 MARINA BAY SANDS 018972",
-      "postal_code": "018972",
-      "coordinates": {
-        "lat": 1.2838,
-        "lng": 103.8587
       },
       "scheme": {
         "id": 100,
@@ -54456,30 +54501,6 @@
       "coordinates": {
         "lat": 1.3328,
         "lng": 103.7433
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 106,
-        "name": "Restaurant"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
-      "certificate_number": "EERN21120013345",
-      "name": "MONSTER PLANET",
-      "address": "176 ORCHARD ROAD #01-33C/D THE CENTREPOINT 238843",
-      "postal_code": "238843",
-      "coordinates": {
-        "lat": 1.3016,
-        "lng": 103.8399
       },
       "scheme": {
         "id": 100,
@@ -65536,6 +65557,30 @@
       "logo_url": null
     },
     {
+      "id": "9a03675d-cecd-4e9f-af83-d7ec9b6ad8bf",
+      "certificate_number": "EERT20240000232",
+      "name": "Hudsons",
+      "address": "60 AIRPORT BOULEVARD #02-178 CHANGI AIRPORT TERMINAL 2 819643",
+      "postal_code": "819643",
+      "coordinates": {
+        "lat": 1.3558,
+        "lng": 103.9892
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
       "certificate_number": "EERT20240000239",
       "name": "THE COFFEE BEAN & TEA LEAF",
@@ -67926,30 +67971,6 @@
       "coordinates": {
         "lat": 1.392,
         "lng": 103.8951
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 106,
-        "name": "Restaurant"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "edd0c76a-185c-44c6-892b-1f395ccf8865",
-      "certificate_number": "EERT20240000827",
-      "name": "Seeds Springleaf Prata Place",
-      "address": "501 MARGARET DRIVE #01-02 RAINBOW CENTRE (MARGARET DRIVE SCH) 149306",
-      "postal_code": "149306",
-      "coordinates": {
-        "lat": 1.2975,
-        "lng": 103.809
       },
       "scheme": {
         "id": 100,
@@ -81763,6 +81784,30 @@
       "logo_url": null
     },
     {
+      "id": "be28eb68-4cc1-4791-a42c-e2b8737ceae3",
+      "certificate_number": "EERT26060000058",
+      "name": "JINJJA KITCHEN",
+      "address": "1 JELEBU ROAD #02-10 BUKIT PANJANG PLAZA 677743",
+      "postal_code": "677743",
+      "coordinates": {
+        "lat": 1.3802,
+        "lng": 103.7642
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
       "certificate_number": "EERX19100010516",
       "name": "Jollibee",
@@ -82203,30 +82248,6 @@
       "coordinates": {
         "lat": 1.3058,
         "lng": 103.8604
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 106,
-        "name": "Restaurant"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
-      "certificate_number": "EERX20090011842",
-      "name": "Red Ginger",
-      "address": "10 PAYA LEBAR ROAD #B2-31 409057",
-      "postal_code": "409057",
-      "coordinates": {
-        "lat": 1.3176,
-        "lng": 103.8928
       },
       "scheme": {
         "id": 100,
@@ -82779,6 +82800,30 @@
       "coordinates": {
         "lat": 1.3008,
         "lng": 103.8451
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "7b2bad34-08e9-4f8b-9502-9ffa8ae2a542",
+      "certificate_number": "EERX21100012925",
+      "name": "HUDSONS COFFEE",
+      "address": "65 AIRPORT BOULEVARD #02-60 CHANGI AIRPORT TERMINAL 3 819663",
+      "postal_code": "819663",
+      "coordinates": {
+        "lat": 1.3553,
+        "lng": 103.9858
       },
       "scheme": {
         "id": 100,
@@ -98026,30 +98071,6 @@
       "logo_url": null
     },
     {
-      "id": "dd17f162-1ca0-4e4a-972c-8224707ab53b",
-      "certificate_number": "EESC20240000826",
-      "name": "Springleaf Prata Place @ Rainbow centre Margaret",
-      "address": "501 MARGARET DRIVE #01-K1 RAINBOW CENTRE (MARGARET DRIVE SCH) 149306",
-      "postal_code": "149306",
-      "coordinates": {
-        "lat": 1.2975,
-        "lng": 103.809
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 109,
-        "name": "Staff Canteen"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
       "id": "cef9c33b-3d6d-4e73-a85a-baf99545d2b3",
       "certificate_number": "EESC20240001102",
       "name": "Ok Chicken Rice & Humfull Prawn Laksa (S4) @ Staff Canteen HP",
@@ -98768,6 +98789,30 @@
       "certificate_number": "EESC26060000034",
       "name": "Malay Cuisine @ Brani Terminal Building Canteen (mngd by Arya Bhavan Restaurant Pte Ltd)",
       "address": "200 BRANI TERMINAL AVENUE, Stall 2 098675",
+      "postal_code": "098675",
+      "coordinates": {
+        "lat": 1.2578,
+        "lng": 103.832
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "d63d53db-2d40-44ba-90a1-4e937a17ba07",
+      "certificate_number": "EESC26060000035",
+      "name": "Malay cuisine@ Brani Terminal Yard Canteen (mngd by Arya Bhavan Restaurant Pte Ltd)",
+      "address": "200 BRANI TERMINAL AVENUE BRANI TERMINAL BLDG 098675",
       "postal_code": "098675",
       "coordinates": {
         "lat": 1.2578,
@@ -103698,6 +103743,30 @@
       "coordinates": {
         "lat": 1.3061,
         "lng": 103.772
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 201,
+        "name": "Central Kitchen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "7b2bad34-08e9-4f8b-9502-9ffa8ae2a542",
+      "certificate_number": "FPCK20240000233",
+      "name": "HUDSONS COFFEE",
+      "address": "65 AIRPORT BOULEVARD 02-60 CHANGI AIRPORT TERMINAL 3 819663",
+      "postal_code": "819663",
+      "coordinates": {
+        "lat": 1.3553,
+        "lng": 103.9858
       },
       "scheme": {
         "id": 200,
