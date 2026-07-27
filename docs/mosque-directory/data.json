@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Mosque Directory",
     "source_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/",
-    "last_scraped": "2026-07-16",
-    "last_checked": "2026-07-26T22:47:36.459Z",
+    "last_scraped": "2026-07-27",
+    "last_checked": "2026-07-27T22:48:29.011Z",
     "total_count": 70
   },
   "mosques": [
@@ -948,14 +948,20 @@
       ]
     },
     {
+      "district": "North",
+      "coordinates": {
+        "lat": 1.43686614981845,
+        "lng": 103.83434033765
+      },
+      "logo_url": "mosque-directory/logos/darul-makmur.png",
+      "instagram_url": "https://www.instagram.com/darulmakmur.mosque/",
       "slug": "darul-makmur",
       "name": "Darul Makmur",
       "address": "950 Yishun Avenue 2 Singapore 769099",
       "postal_code": "769099",
-      "district": "North",
       "phone": "67521402",
-      "email": "korporat@darulmakmur.mosque.org.sg",
-      "website": "http://www.darulmakmur.sg",
+      "email": "corporate@darulmakmur.mosque.sg",
+      "website": "https://darulmakmur.sg/",
       "description": "Morning is a hectic period at the masjid when doting parents wave their pre-schoolers goodbye. Besides kindergarten classes for these pre-schoolers, the mosque is among the few, which offers a Tahfiz (Al-Quran memorization) course for children. Built in 1989, it serves Muslim families living in Yishun and the North part of the island. The masjid, which falls under Phase Two of the Mosque Building Fund, can accommodate about 3000 people.",
       "features": [
         "Zakat Collection Centre",
@@ -963,13 +969,7 @@
         "Adult Islamic Learning",
         "Social Development Mosque (for MUIS Social Assistance)"
       ],
-      "coordinates": {
-        "lat": 1.43686614981845,
-        "lng": 103.83434033765
-      },
-      "logo_url": "mosque-directory/logos/darul-makmur.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darul-makmur/",
-      "instagram_url": "https://www.instagram.com/darulmakmur.mosque/"
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darul-makmur/"
     },
     {
       "slug": "darussalam",
