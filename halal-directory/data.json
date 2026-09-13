@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Halal Certified Establishments",
     "source_url": "https://halal.muis.gov.sg/halal/establishments",
-    "last_scraped": "2026-09-06",
-    "total_count": 4304
+    "last_scraped": "2026-09-13",
+    "total_count": 4308
   },
   "establishments": [
     {
@@ -14251,6 +14251,30 @@
       "logo_url": null
     },
     {
+      "id": "8c96dd61-69ba-4894-ae4e-d3f2164159f0",
+      "certificate_number": "EEHK20240000180",
+      "name": "Korean Cuisine Sanchon (S3)@Kopitiam Changi Airport T4",
+      "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4 819665",
+      "postal_code": "819665",
+      "coordinates": {
+        "lat": 1.3383,
+        "lng": 103.9836
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
       "certificate_number": "EEHK20240000186",
       "name": "Al Madina Famous Prata Corner",
@@ -15693,6 +15717,30 @@
       "coordinates": {
         "lat": 1.3045,
         "lng": 103.834
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "899e6af1-dcbf-4294-95d0-ab990985c098",
+      "certificate_number": "EEHK20240000648",
+      "name": "Korean & Japanese (S5) @ Kopitiam Corner Sunshine Place",
+      "address": "475 CHOA CHU KANG AVENUE 3 #01-31 SUNSHINE PLACE, Stall 5 680475",
+      "postal_code": "680475",
+      "coordinates": {
+        "lat": 1.378,
+        "lng": 103.739
       },
       "scheme": {
         "id": 100,
@@ -21231,30 +21279,6 @@
       "coordinates": {
         "lat": 1.3627,
         "lng": 103.8946
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 103,
-        "name": "Hawker"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
-      "certificate_number": "EEHK25100000121",
-      "name": "MUNCHI PANCAKES",
-      "address": "51 OLD AIRPORT ROAD #01-149/150 51 OLD AIRPORT ROAD FOOD CENTRE AND SHOPPING MALL 390051",
-      "postal_code": "390051",
-      "coordinates": {
-        "lat": 1.3082,
-        "lng": 103.8858
       },
       "scheme": {
         "id": 100,
@@ -28759,6 +28783,30 @@
       "logo_url": null
     },
     {
+      "id": "ece00deb-1045-4725-bbb6-d4113eb075bc",
+      "certificate_number": "EEHK26080000129",
+      "name": "S.P.M Trading (S) Pte Ltd",
+      "address": "108 DESKER ROAD 209630",
+      "postal_code": "209630",
+      "coordinates": {
+        "lat": 1.3083,
+        "lng": 103.8561
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "459d993a-4845-400b-8771-23b0a05a4e6c",
       "certificate_number": "EEHK26080000133",
       "name": "VEGETARIAN",
@@ -28839,6 +28887,30 @@
       "coordinates": {
         "lat": 1.2932,
         "lng": 103.7844
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f68191a8-6d00-4650-8ba4-e1446fda22d1",
+      "certificate_number": "EEHK26090000001",
+      "name": "Ali's Fry & Grill Western",
+      "address": "57 DAWSON ROAD STALL 08, KOUFU #02-09/10 DAWSON PLACE 142057",
+      "postal_code": "142057",
+      "coordinates": {
+        "lat": 1.2927,
+        "lng": 103.811
       },
       "scheme": {
         "id": 100,
@@ -43437,30 +43509,6 @@
       "coordinates": {
         "lat": 1.3079,
         "lng": 103.851
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 106,
-        "name": "Restaurant"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "55ec3794-3452-4d13-bcc7-319cade708ac",
-      "certificate_number": "EERN21100012935",
-      "name": "CUMI BALI",
-      "address": "50 TRAS STREET 078989",
-      "postal_code": "078989",
-      "coordinates": {
-        "lat": 1.2781,
-        "lng": 103.8442
       },
       "scheme": {
         "id": 100,
@@ -90169,6 +90217,30 @@
       "logo_url": null
     },
     {
+      "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+      "certificate_number": "EESB26080000046",
+      "name": "Pasta Kaki",
+      "address": "551 BEDOK NORTH AVENUE 1 #01-542 460551",
+      "postal_code": "460551",
+      "coordinates": {
+        "lat": 1.3323,
+        "lng": 103.927
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 1,
+        "name": "Virtual Brand"
+      },
+      "logo_url": null
+    },
+    {
       "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
       "certificate_number": "EESB26080000054",
       "name": "MR BEAN",
@@ -92050,10 +92122,10 @@
       "logo_url": null
     },
     {
-      "id": "90b83324-363a-4406-9afa-08b19b67522d",
-      "certificate_number": "EEST26090000009",
-      "name": "4FINGERS CRISPY CHICKEN",
-      "address": "Formula 1 Singapore Airlines Singapore Grand Prix 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL2346 038975",
+      "id": "4d5b4a6a-6b4c-457d-8255-6189c8de49a6",
+      "certificate_number": "EEST26090000012",
+      "name": "COPPER CHIMNEY",
+      "address": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL 5336 038975",
       "postal_code": "038975",
       "coordinates": {
         "lat": 1.2914,
@@ -98787,6 +98859,30 @@
       "coordinates": {
         "lat": 1.3408,
         "lng": 103.9447
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 201,
+        "name": "Central Kitchen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "239681ef-a9ae-4f17-b0ef-41f769c4b80a",
+      "certificate_number": "FPCK26090000014",
+      "name": "Sanchon Foods Central Kitchen",
+      "address": "2 MANDAI LINK #02-01F 728664",
+      "postal_code": "728664",
+      "coordinates": {
+        "lat": 1.4107,
+        "lng": 103.7568
       },
       "scheme": {
         "id": 200,
