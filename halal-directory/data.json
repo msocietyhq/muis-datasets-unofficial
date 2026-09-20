@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Halal Certified Establishments",
     "source_url": "https://halal.muis.gov.sg/halal/establishments",
-    "last_scraped": "2026-09-13",
-    "total_count": 4308
+    "last_scraped": "2026-09-20",
+    "total_count": 4400
   },
   "establishments": [
     {
@@ -10090,6 +10090,54 @@
       "logo_url": null
     },
     {
+      "id": "095008f6-21d8-41af-8ff4-bb9c51259c9e",
+      "certificate_number": "EEFX20100011513",
+      "name": "STAFF CANTEEN STALL @SEAGATE W2(MNGD By PRO*3 INST CATERING PL)",
+      "address": "90 WOODLANDS AVENUE 7 Seagate Technology 737911",
+      "postal_code": "737911",
+      "coordinates": {
+        "lat": 1.4458,
+        "lng": 103.8099
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "28320a48-c1ea-42b8-b8fe-a3bcc17fe12a",
+      "certificate_number": "EEFX20100011514",
+      "name": "STAFF CANTEEN STALL @SEAGATE W3(MNGD By PRO*3 INST CATERING PL)",
+      "address": "121 WOODLANDS AVENUE 5 SEAGATE TECHNOLOGY 739009",
+      "postal_code": "739009",
+      "coordinates": {
+        "lat": 1.4339,
+        "lng": 103.8034
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "1218551f-3ca6-4be5-82af-87d567d0144c",
       "certificate_number": "EEFX21080012526",
       "name": "Staff Canteen Stall at MSD (Mngd by Sodexo Singapore)",
@@ -11106,6 +11154,30 @@
       "coordinates": {
         "lat": 1.4423,
         "lng": 103.8167
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EEHK20220000790",
+      "name": "BURGER KING",
+      "address": "10 AIRPORT BOULEVARD #02-228/(K36) CHANGI AIRPORT TERMINAL 4 (Transit) 819665",
+      "postal_code": "819665",
+      "coordinates": {
+        "lat": 1.3383,
+        "lng": 103.9836
       },
       "scheme": {
         "id": 100,
@@ -28927,6 +28999,54 @@
       "logo_url": null
     },
     {
+      "id": "581ec46c-efd4-4818-ace3-e6255994fd3e",
+      "certificate_number": "EEHK26090000022",
+      "name": "Oppa Korean Japanese",
+      "address": "417 YISHUN AVENUE 11 Kim San Leng #01-351, Stall 15 760417",
+      "postal_code": "760417",
+      "coordinates": {
+        "lat": 1.4244,
+        "lng": 103.8463
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
+      "certificate_number": "EEHK26090000023",
+      "name": "L & M Seafood",
+      "address": "12 HAIG ROAD Stall MR1@Kedai Kopi #01-#323 HAIG VIEW 430012",
+      "postal_code": "430012",
+      "coordinates": {
+        "lat": 1.3156,
+        "lng": 103.8961
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "7c118107-d835-4c19-be93-98c8bdb9a0fd",
       "certificate_number": "EEHN20070011365",
       "name": "Fitra Chicken Rice (S18) @ The Food Place By Food Junction",
@@ -36907,6 +37027,462 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011308",
+      "name": "BURGER KING",
+      "address": "65 AIRPORT BOULEVARD #03-AF11 CHANGI AIRPORT TERMINAL 3 819663",
+      "postal_code": "819663",
+      "coordinates": {
+        "lat": 1.3553,
+        "lng": 103.9858
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011310",
+      "name": "BURGER KING",
+      "address": "4 HILLVIEW RISE #01-06 & 07 HILLV2 667979",
+      "postal_code": "667979",
+      "coordinates": {
+        "lat": 1.3627,
+        "lng": 103.7642
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011313",
+      "name": "BURGER KING",
+      "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
+      "postal_code": "677743",
+      "coordinates": {
+        "lat": 1.3802,
+        "lng": 103.7642
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011317",
+      "name": "BURGER KING",
+      "address": "175 BENCOOLEN STREET #01-01 BURLINGTON SQUARE 189649",
+      "postal_code": "189649",
+      "coordinates": {
+        "lat": 1.3022,
+        "lng": 103.8526
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011320",
+      "name": "BURGER KING",
+      "address": "6 RAFFLES BOULEVARD #02-105, #02-184, #02-185 MARINA SQUARE 039594",
+      "postal_code": "039594",
+      "coordinates": {
+        "lat": 1.2913,
+        "lng": 103.8575
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011323",
+      "name": "BURGER KING",
+      "address": "68 ORCHARD ROAD #B1-11 PLAZA SINGAPURA 238839",
+      "postal_code": "238839",
+      "coordinates": {
+        "lat": 1.3008,
+        "lng": 103.8451
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011325",
+      "name": "BURGER KING",
+      "address": "80 AIRPORT BOULEVARD #M021-53 CHANGI AIRPORT T1 Departure/Transit Lounge West 819642",
+      "postal_code": "819642",
+      "coordinates": {
+        "lat": 1.362,
+        "lng": 103.9903
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011327",
+      "name": "BURGER KING",
+      "address": "460 ALEXANDRA ROAD #01-17/20 ALEXANDRA RETAIL CENTER 119963",
+      "postal_code": "119963",
+      "coordinates": {
+        "lat": 1.2737,
+        "lng": 103.8013
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011331",
+      "name": "BURGER KING",
+      "address": "6 EU TONG SEN STREET #01-23/26 059817",
+      "postal_code": "059817",
+      "coordinates": {
+        "lat": 1.2889,
+        "lng": 103.8467
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011333",
+      "name": "BURGER KING",
+      "address": "63 JURONG WEST CENTRAL 3 #B1-54/55 Jurong point shopping Centre 648331",
+      "postal_code": "648331",
+      "coordinates": {
+        "lat": 1.3393,
+        "lng": 103.7053
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011337",
+      "name": "BURGER KING",
+      "address": "11 Bedok North Street 1 #01-33 469662",
+      "postal_code": "469662",
+      "coordinates": {
+        "lat": 1.3269,
+        "lng": 103.932
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011338",
+      "name": "BURGER KING",
+      "address": "302 TIONG BAHRU ROAD #01-106 TIONG BAHRU PLAZA 168732",
+      "postal_code": "168732",
+      "coordinates": {
+        "lat": 1.2864,
+        "lng": 103.8273
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011340",
+      "name": "BURGER KING",
+      "address": "3 TEMASEK BOULEVARD #03-371 SUNTEC CITY MALL 038983",
+      "postal_code": "038983",
+      "coordinates": {
+        "lat": 1.2951,
+        "lng": 103.8585
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20030011344",
+      "name": "BURGER KING",
+      "address": "2 JURONG EAST STREET 21 #01-51 IMM BUILDING 609601",
+      "postal_code": "609601",
+      "coordinates": {
+        "lat": 1.3349,
+        "lng": 103.7468
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20040011362",
+      "name": "BURGER KING",
+      "address": "3 Northpoint Drive #01-03 768020",
+      "postal_code": "768020",
+      "coordinates": {
+        "lat": 1.4263,
+        "lng": 103.8363
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20040011365",
+      "name": "BURGER KING",
+      "address": "4 Woodlands Street 12 #02-01 MARSILING MALL 738623",
+      "postal_code": "738623",
+      "coordinates": {
+        "lat": 1.4335,
+        "lng": 103.7799
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20040011368",
+      "name": "BURGER KING",
+      "address": "5 STADIUM WALK #01-43 LEISURE PARK 397693",
+      "postal_code": "397693",
+      "coordinates": {
+        "lat": 1.3022,
+        "lng": 103.8764
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20040011369",
+      "name": "BURGER KING",
+      "address": "530 LORONG 6 TOA PAYOH #01-05 HDB HUB 310530",
+      "postal_code": "310530",
+      "coordinates": {
+        "lat": 1.3323,
+        "lng": 103.8473
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20040011370",
+      "name": "BURGER KING",
+      "address": "23 Serangoon Central #B1-30/31 NEX 556083",
+      "postal_code": "556083",
+      "coordinates": {
+        "lat": 1.3507,
+        "lng": 103.8719
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
       "certificate_number": "EERN20040011375",
       "name": "POLAR CAFE",
@@ -37291,6 +37867,54 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20100011873",
+      "name": "BURGER KING",
+      "address": "83 PUNGGOL CENTRAL #01-26 WATERWAY POINT 828761",
+      "postal_code": "828761",
+      "coordinates": {
+        "lat": 1.4065,
+        "lng": 103.9021
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20100011877",
+      "name": "BURGER KING",
+      "address": "2 YISHUN WALK #01-06/07 HOMETEAMNS CLUBHOUSE 767944",
+      "postal_code": "767944",
+      "coordinates": {
+        "lat": 1.4148,
+        "lng": 103.8311
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
       "certificate_number": "EERN20100011886",
       "name": "KOPI & TARTS",
@@ -37323,6 +37947,30 @@
       "coordinates": {
         "lat": 1.2749,
         "lng": 103.8079
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN20100011900",
+      "name": "BURGER KING",
+      "address": "12 ALEXANDRA VIEW #01-05/06/07 ARTRA 158736",
+      "postal_code": "158736",
+      "coordinates": {
+        "lat": 1.2901,
+        "lng": 103.8166
       },
       "scheme": {
         "id": 100,
@@ -37435,6 +38083,30 @@
       "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN21010011978",
+      "name": "BURGER KING",
+      "address": "2 CHOA CHU KANG LOOP #01-05 Keat Hong Community Club 689687",
+      "postal_code": "689687",
+      "coordinates": {
+        "lat": 1.3841,
+        "lng": 103.7449
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "08ae04fe-cc6e-4fb6-abde-1e4a46720c41",
       "certificate_number": "EERN21010011979",
       "name": "Tambuah Mas Indonesian Restaurant",
@@ -37491,6 +38163,30 @@
       "coordinates": {
         "lat": 1.3507,
         "lng": 103.8719
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN21010012000",
+      "name": "BURGER KING",
+      "address": "455 SENGKANG WEST AVENUE #01-03/04 790455",
+      "postal_code": "790455",
+      "coordinates": {
+        "lat": 1.3918,
+        "lng": 103.8712
       },
       "scheme": {
         "id": 100,
@@ -37963,6 +38659,30 @@
       "logo_url": null
     },
     {
+      "id": "08650fdc-0df5-4ee8-8e4b-f4a038b38305",
+      "certificate_number": "EERN21030012215",
+      "name": "Eatzi Gourmet Bistro",
+      "address": "60 YISHUN AVENUE 4 Safra Yishun Club House 769027",
+      "postal_code": "769027",
+      "coordinates": {
+        "lat": 1.4243,
+        "lng": 103.8409
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "5ef7b297-467d-42ce-b701-68e2035840f9",
       "certificate_number": "EERN21030012217",
       "name": "Time for Thai",
@@ -37971,6 +38691,30 @@
       "coordinates": {
         "lat": 1.3432,
         "lng": 103.7751
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN21030012233",
+      "name": "BURGER KING",
+      "address": "3 SIMEI STREET 6 #01-33 EASTPOINT MALL 528833",
+      "postal_code": "528833",
+      "coordinates": {
+        "lat": 1.3427,
+        "lng": 103.953
       },
       "scheme": {
         "id": 100,
@@ -41008,6 +41752,30 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN21070012633",
+      "name": "BURGER KING",
+      "address": "3155 3155 COMMONWEALTH AVENUE WEST #B1-30/31 THE CLEMENTI MALL 129588",
+      "postal_code": "129588",
+      "coordinates": {
+        "lat": 1.3152,
+        "lng": 103.7645
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
       "certificate_number": "EERN21070012634",
       "name": "SAAP SAAP THAI",
@@ -43525,6 +44293,30 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN21100012943",
+      "name": "BURGER KING",
+      "address": "36 HOLLAND DRIVE #01-02 BUONA VISTA COMMUNITY CLUB 270036",
+      "postal_code": "270036",
+      "coordinates": {
+        "lat": 1.3092,
+        "lng": 103.7926
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
       "certificate_number": "EERN21100012944",
       "name": "AYAM PENYET PRESIDENT",
@@ -45373,6 +46165,30 @@
       "logo_url": null
     },
     {
+      "id": "1c7799df-cf4a-4d44-aa13-406634291a24",
+      "certificate_number": "EERN21110013067",
+      "name": "HANIS",
+      "address": "3 SIMEI STREET 6 #01-14 EASTPOINT MALL 528833",
+      "postal_code": "528833",
+      "coordinates": {
+        "lat": 1.3427,
+        "lng": 103.953
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
       "certificate_number": "EERN21110013068",
       "name": "Nando's",
@@ -45549,6 +46365,30 @@
       "coordinates": {
         "lat": 1.3131,
         "lng": 103.9263
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "1c7799df-cf4a-4d44-aa13-406634291a24",
+      "certificate_number": "EERN21110013078",
+      "name": "HANIS",
+      "address": "10 PAYA LEBAR ROAD #B2-18 409057",
+      "postal_code": "409057",
+      "coordinates": {
+        "lat": 1.3176,
+        "lng": 103.8928
       },
       "scheme": {
         "id": 100,
@@ -49858,6 +50698,30 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERN22010013378",
+      "name": "BURGER KING",
+      "address": "598 YISHUN RING ROAD #01-31/32 WISTERIA MALL 768698",
+      "postal_code": "768698",
+      "coordinates": {
+        "lat": 1.418,
+        "lng": 103.8413
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
       "certificate_number": "EERN22010013381",
       "name": "SUBWAY",
@@ -50603,30 +51467,6 @@
     },
     {
       "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-      "certificate_number": "EERN22020013458",
-      "name": "THE COFFEE BEAN & TEA LEAF",
-      "address": "203 UPPER THOMSON ROAD YEW LIAN PARK 574344",
-      "postal_code": "574344",
-      "coordinates": {
-        "lat": 1.3519,
-        "lng": 103.8351
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 106,
-        "name": "Restaurant"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": "https://halal.muis.gov.sg/api/halal/icon/66f2cb1e-722d-4f55-96e8-8afe7874907c"
-    },
-    {
-      "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
       "certificate_number": "EERN22020013459",
       "name": "THE COFFEE BEAN & TEA LEAF",
       "address": "1 SENGKANG SQUARE #03-36 ,37,38, COMPASS ONE 545078",
@@ -51162,6 +52002,30 @@
       "coordinates": {
         "lat": 1.3364,
         "lng": 103.8888
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "14bacdbf-1673-4386-a6e1-a7e95debb0e6",
+      "certificate_number": "EERN22020013526",
+      "name": "PITA BAKERY",
+      "address": "29 Bali Lane #1st & 2nd Storey 189865",
+      "postal_code": "189865",
+      "coordinates": {
+        "lat": 1.3012,
+        "lng": 103.8585
       },
       "scheme": {
         "id": 100,
@@ -52594,6 +53458,54 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20220000490",
+      "name": "BURGER KING",
+      "address": "377 HOUGANG STREET 32 #01-01/18 530377",
+      "postal_code": "530377",
+      "coordinates": {
+        "lat": 1.3627,
+        "lng": 103.8946
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20220000491",
+      "name": "BURGER KING",
+      "address": "1 BUKIT BATOK CENTRAL LINK #01-28/29/30 WEST MALL 658713",
+      "postal_code": "658713",
+      "coordinates": {
+        "lat": 1.3501,
+        "lng": 103.7492
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "c0371ec6-358d-428b-ad8f-762c01f88af3",
       "certificate_number": "EERT20220000519",
       "name": "TASTE OF INDONESIA",
@@ -53242,6 +54154,30 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20220000711",
+      "name": "BURGER KING",
+      "address": "11 TANJONG KATONG ROAD #01-42/43/44 KINEX 437157",
+      "postal_code": "437157",
+      "coordinates": {
+        "lat": 1.3146,
+        "lng": 103.8947
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "4d60624a-70ec-4812-8be4-993ad3bc5831",
       "certificate_number": "EERT20220000713",
       "name": "SAKON THAI",
@@ -53274,6 +54210,30 @@
       "coordinates": {
         "lat": 1.4279,
         "lng": 103.8362
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20220000717",
+      "name": "BURGER KING",
+      "address": "101 THOMSON ROAD #01-02/03 UNITED SQUARE 307591",
+      "postal_code": "307591",
+      "coordinates": {
+        "lat": 1.3172,
+        "lng": 103.8437
       },
       "scheme": {
         "id": 100,
@@ -54703,6 +55663,54 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20230000246",
+      "name": "BURGER KING",
+      "address": "18 Yishun Avenue 9 #02-01 Junction Nine 768897",
+      "postal_code": "768897",
+      "coordinates": {
+        "lat": 1.4331,
+        "lng": 103.8417
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "9bc873fc-0be3-4a2d-a13c-a1afd18a0884",
+      "certificate_number": "EERT20230000248",
+      "name": "TOP 73+1 Fishball Legacy",
+      "address": "532 ANG MO KIO AVENUE 10 #01-2495 CHENG SAN CENTRE 560532",
+      "postal_code": "560532",
+      "coordinates": {
+        "lat": 1.3738,
+        "lng": 103.8546
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "64f9de65-dd28-4d7d-adfc-e9e5ba6bf448",
       "certificate_number": "EERT20230000255",
       "name": "D'RUBINAH@AMK",
@@ -55561,6 +56569,27 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20230000557",
+      "name": "BURGER KING",
+      "address": "900 BEDOK NORTH ROAD #01-02 479994",
+      "postal_code": "479994",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
       "certificate_number": "EERT20230000558",
       "name": "KOPI & TARTS",
@@ -55590,6 +56619,27 @@
       "name": "KENNY ROGERS ROASTERS",
       "address": "70 COMPASSVALE BOW #01-60 544692",
       "postal_code": "544692",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20230000561",
+      "name": "BURGER KING",
+      "address": "1 NORTH COAST AVENUE #01-04 1 NORTH COAST 737663",
+      "postal_code": "737663",
       "coordinates": null,
       "scheme": {
         "id": 100,
@@ -55659,6 +56709,30 @@
       "coordinates": {
         "lat": 1.4404,
         "lng": 103.8016
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20230000579",
+      "name": "BURGER KING",
+      "address": "360 BALESTIER ROAD #01-17/18/19/20 SHAW PLAZA 329783",
+      "postal_code": "329783",
+      "coordinates": {
+        "lat": 1.325,
+        "lng": 103.8512
       },
       "scheme": {
         "id": 100,
@@ -56308,6 +57382,51 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20230000841",
+      "name": "BURGER KING",
+      "address": "28 CHOA CHU KANG DRIVE #01-01 SAFRA 689964",
+      "postal_code": "689964",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20230000843",
+      "name": "BURGER KING",
+      "address": "21 CHOA CHU KANG NORTH 6 #B1-29/30 YEWTEE POINT 689578",
+      "postal_code": "689578",
+      "coordinates": {
+        "lat": 1.3971,
+        "lng": 103.7466
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "a0690160-e62c-4d56-b953-7e6217c77b81",
       "certificate_number": "EERT20230000847",
       "name": "Galangal",
@@ -56471,6 +57590,30 @@
         "name": "Default"
       },
       "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20230000877",
+      "name": "BURGER KING",
+      "address": "10 AIRPORT BOULEVARD #02-204 CHANGI AIRPORT TERMINAL 4, Departure/Check-in Hall 819665",
+      "postal_code": "819665",
+      "coordinates": {
+        "lat": 1.3383,
+        "lng": 103.9836
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
     },
     {
       "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
@@ -57068,6 +58211,30 @@
         "name": "Default"
       },
       "logo_url": "https://halal.muis.gov.sg/api/halal/icon/7d9407cf-3da5-4dfb-bef6-f44c50684633"
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20230000987",
+      "name": "BURGER KING",
+      "address": "5 TAMPINES STREET 32 #02-13/14 529284",
+      "postal_code": "529284",
+      "coordinates": {
+        "lat": 1.3544,
+        "lng": 103.96
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
     },
     {
       "id": "5482bc24-af01-45ca-a680-8c12a0d370ed",
@@ -59095,6 +60262,27 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20240000106",
+      "name": "BURGER KING",
+      "address": "601 MACPHERSON ROAD #01-19 368242",
+      "postal_code": "368242",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
       "certificate_number": "EERT20240000132",
       "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -61054,6 +62242,30 @@
       "logo_url": "https://halal.muis.gov.sg/api/halal/icon/66f2cb1e-722d-4f55-96e8-8afe7874907c"
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20240000603",
+      "name": "BURGER KING",
+      "address": "339 ANCHORVALE ROAD #01-03 540339",
+      "postal_code": "540339",
+      "coordinates": {
+        "lat": 1.3968,
+        "lng": 103.8884
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "9a6d88b0-64c6-405c-9bb8-f2ad06d3f829",
       "certificate_number": "EERT20240000604",
       "name": "Curry Times",
@@ -61746,6 +62958,54 @@
       "coordinates": {
         "lat": 1.3784,
         "lng": 103.7631
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20240000805",
+      "name": "BURGER KING",
+      "address": "52/52A CIRCULAR ROAD 049407",
+      "postal_code": "049407",
+      "coordinates": {
+        "lat": 1.2858,
+        "lng": 103.8497
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20240000806",
+      "name": "BURGER KING",
+      "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-30/31 CHANGI CITY POINT 486038",
+      "postal_code": "486038",
+      "coordinates": {
+        "lat": 1.3341,
+        "lng": 103.9629
       },
       "scheme": {
         "id": 100,
@@ -62689,6 +63949,30 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20240001020",
+      "name": "BURGER KING",
+      "address": "151 LORONG CHUAN #01-09 NEW TECH PARK 556741",
+      "postal_code": "556741",
+      "coordinates": {
+        "lat": 1.352,
+        "lng": 103.8607
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "825dda24-e8f5-4381-ac0b-8b2ff9fd9c36",
       "certificate_number": "EERT20240001026",
       "name": "Go-Ang Pratunam Chicken Rice",
@@ -63550,6 +64834,30 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20240001191",
+      "name": "BURGER KING",
+      "address": "1 JOO KOON CIRCLE #01-49/50 FAIRPRICE HUB 629117",
+      "postal_code": "629117",
+      "coordinates": {
+        "lat": 1.3257,
+        "lng": 103.6783
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "33214625-9125-42b1-9706-5dd5c4deb40d",
       "certificate_number": "EERT20240001193",
       "name": "Chumpo2",
@@ -64365,6 +65673,30 @@
       "coordinates": {
         "lat": 1.3599,
         "lng": 103.9528
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20240001299",
+      "name": "BURGER KING",
+      "address": "1 PASIR RIS DRIVE 4 #01-07 Pasir Ris Community Club 519457",
+      "postal_code": "519457",
+      "coordinates": {
+        "lat": 1.3685,
+        "lng": 103.9594
       },
       "scheme": {
         "id": 100,
@@ -66286,6 +67618,30 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20250000416",
+      "name": "BURGER KING",
+      "address": "13 TAMPINES STREET 11 #01-04 TAMPINES CHANGKAT COMMUNITY CLUB 529453",
+      "postal_code": "529453",
+      "coordinates": {
+        "lat": 1.3458,
+        "lng": 103.9477
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
       "certificate_number": "EERT20250000417",
       "name": "Subway",
@@ -66838,6 +68194,54 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20250000504",
+      "name": "BURGER KING",
+      "address": "2 TAMPINES STREET 41 #01-03 TAMPINES NORTH COMMUNITY CLUB 529204",
+      "postal_code": "529204",
+      "coordinates": {
+        "lat": 1.3573,
+        "lng": 103.9467
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20250000505",
+      "name": "BURGER KING",
+      "address": "432 UPPER BUKIT TIMAH ROAD THE RAIL MALL 678058",
+      "postal_code": "678058",
+      "coordinates": {
+        "lat": 1.3592,
+        "lng": 103.7676
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "08ae04fe-cc6e-4fb6-abde-1e4a46720c41",
       "certificate_number": "EERT20250000509",
       "name": "Tambuah Mas Indonesian Restaurant",
@@ -67192,6 +68596,27 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20250000562",
+      "name": "BURGER KING",
+      "address": "88 PUNGGOL WAY #02-119 PUNGGOL COAST MALL 829913",
+      "postal_code": "829913",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "631ef2cc-69ac-47ac-ac09-be02a7039f65",
       "certificate_number": "EERT20250000563",
       "name": "FISH & CO.",
@@ -67408,6 +68833,75 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20250000611",
+      "name": "BURGER KING",
+      "address": "119 PLANTATION CRESCENT #01-03 TENGAH COMMUNITY CLUB 690119",
+      "postal_code": "690119",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20250000612",
+      "name": "BURGER KING",
+      "address": "604 SEMBAWANG ROAD #01-24/25/26 SEMBAWANG SHOPPING CENTRE 758459",
+      "postal_code": "758459",
+      "coordinates": {
+        "lat": 1.4418,
+        "lng": 103.8248
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT20250000613",
+      "name": "BURGER KING",
+      "address": "133 NEW BRIDGE ROAD #01-29/30 CHINATOWN POINT 059413",
+      "postal_code": "059413",
+      "coordinates": {
+        "lat": 1.2852,
+        "lng": 103.8449
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "8061016d-f5e1-400e-9fbc-49602fe70687",
       "certificate_number": "EERT20250000617",
       "name": "Blue Ocean Kopi & Toast",
@@ -67488,6 +68982,30 @@
       "coordinates": {
         "lat": 1.333,
         "lng": 103.8486
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "fd47b243-31f5-4a8e-91be-5b83d1f389d4",
+      "certificate_number": "EERT20250000627",
+      "name": "Haruyama Udon",
+      "address": "10 TAMPINES CENTRAL 1 #B1-09 TAMPINES ONE 529536",
+      "postal_code": "529536",
+      "coordinates": {
+        "lat": 1.3543,
+        "lng": 103.9451
       },
       "scheme": {
         "id": 100,
@@ -69496,6 +71014,30 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT25110000005",
+      "name": "BURGER KING",
+      "address": "60 AIRPORT BOULEVARD #03-01 CHANGI AIRPORT TERMINAL 2 (DEPARTURE HALL NORTH) 819643",
+      "postal_code": "819643",
+      "coordinates": {
+        "lat": 1.3558,
+        "lng": 103.9892
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
       "certificate_number": "EERT25110000007",
       "name": "QI JI",
@@ -69788,6 +71330,30 @@
       "certificate_number": "EERT25120000006",
       "name": "Encik Tan",
       "address": "1 HARBOURFRONT WALK #B2-45 VIVOCITY 098585",
+      "postal_code": "098585",
+      "coordinates": {
+        "lat": 1.2642,
+        "lng": 103.8224
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT25120000009",
+      "name": "BURGER KING",
+      "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
       "postal_code": "098585",
       "coordinates": {
         "lat": 1.2642,
@@ -72499,6 +74065,54 @@
       "logo_url": null
     },
     {
+      "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
+      "certificate_number": "EERT26020000086",
+      "name": "DAILY CHICKEN",
+      "address": "83 PUNGGOL CENTRAL #01-66 WATERWAY POINT 828761",
+      "postal_code": "828761",
+      "coordinates": {
+        "lat": 1.4065,
+        "lng": 103.9021
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
+      "certificate_number": "EERT26020000087",
+      "name": "DAILY CHICKEN",
+      "address": "200 VICTORIA STREET #B1-06 BUGIS JUNCTION 188021",
+      "postal_code": "188021",
+      "coordinates": {
+        "lat": 1.2991,
+        "lng": 103.8554
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "166adf07-9cf9-4640-a616-8db55a9faae1",
       "certificate_number": "EERT26020000088",
       "name": "Three's A Crowd",
@@ -72652,6 +74266,27 @@
         "lat": 1.3037,
         "lng": 103.7659
       },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT26030000015",
+      "name": "BURGER KING",
+      "address": "1 LENTOR CENTRAL #01-14/15 LENTOR MODERN 788887",
+      "postal_code": "788887",
+      "coordinates": null,
       "scheme": {
         "id": 100,
         "name": "Eating Establishment"
@@ -75826,6 +77461,102 @@
       "logo_url": null
     },
     {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT26090000016",
+      "name": "BURGER KING",
+      "address": "896 DUNEARN ROAD #01-03 DUNEARN VILLAGE 589472",
+      "postal_code": "589472",
+      "coordinates": {
+        "lat": 1.3367,
+        "lng": 103.7838
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERT26090000017",
+      "name": "BURGER KING",
+      "address": "1 WOODLANDS STREET 81 #01-04 WOODLANDS COMMUNITY CLUB (U/C) 738526",
+      "postal_code": "738526",
+      "coordinates": {
+        "lat": 1.4397,
+        "lng": 103.7882
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "c6c07ba1-c10c-4a5b-8c25-1bb0617f040d",
+      "certificate_number": "EERT26090000024",
+      "name": "RICHTON CAFE",
+      "address": "476A PASIR RIS DRIVE 6 #01-600 511476",
+      "postal_code": "511476",
+      "coordinates": {
+        "lat": 1.3749,
+        "lng": 103.9578
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "4d47b517-b093-48c1-b153-86fc0de9e4de",
+      "certificate_number": "EERT26090000025",
+      "name": "RICHTON EATS",
+      "address": "501A WELLINGTON CIRCLE #01-30 MONTREAL SPRING 751501",
+      "postal_code": "751501",
+      "coordinates": {
+        "lat": 1.4518,
+        "lng": 103.8208
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
       "certificate_number": "EERX19100010516",
       "name": "Jollibee",
@@ -75906,6 +77637,246 @@
       "coordinates": {
         "lat": 1.2553,
         "lng": 103.8203
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERX20030011307",
+      "name": "BURGER KING",
+      "address": "80 AIRPORT BOULEVARD #03-23 Changi T1-Viewing Mall East(Landside) 819642",
+      "postal_code": "819642",
+      "coordinates": {
+        "lat": 1.362,
+        "lng": 103.9903
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERX20030011311",
+      "name": "BURGER KING",
+      "address": "258 PASIR RIS STREET 21 #01-23 LOYANG POINT 510258",
+      "postal_code": "510258",
+      "coordinates": {
+        "lat": 1.3671,
+        "lng": 103.9646
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERX20030011314",
+      "name": "BURGER KING",
+      "address": "809 French Road #01-31 Kitchener Complex 200809",
+      "postal_code": "200809",
+      "coordinates": {
+        "lat": 1.3083,
+        "lng": 103.862
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERX20030011318",
+      "name": "BURGER KING",
+      "address": "8A Marina Boulevard #B2-03 Marina Bay Link Mall 018984",
+      "postal_code": "018984",
+      "coordinates": {
+        "lat": 1.28,
+        "lng": 103.8539
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERX20030011319",
+      "name": "BURGER KING",
+      "address": "2 CLEMENTI WEST STREET 2 #01-01 WEST COAST COMMUNITY CENTRE 129605",
+      "postal_code": "129605",
+      "coordinates": {
+        "lat": 1.3027,
+        "lng": 103.7649
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERX20030011324",
+      "name": "BURGER KING",
+      "address": "1 LOWER KENT RIDGE ROAD #03-09/10/11 119082",
+      "postal_code": "119082",
+      "coordinates": {
+        "lat": 1.2932,
+        "lng": 103.7844
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERX20030011328",
+      "name": "BURGER KING",
+      "address": "750A CHAI CHEE ROAD #01-02 VIVA BUSINESS PARK 469000",
+      "postal_code": "469000",
+      "coordinates": {
+        "lat": 1.3237,
+        "lng": 103.9221
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERX20030011339",
+      "name": "BURGER KING",
+      "address": "1 SENGKANG SQUARE #B1-14/14A COMPASS ONE 545078",
+      "postal_code": "545078",
+      "coordinates": {
+        "lat": 1.392,
+        "lng": 103.8951
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERX20030011342",
+      "name": "BURGER KING",
+      "address": "60 PAYA LEBAR ROAD #01-37/38/39/40/41/42/43 PAYA LEBAR SQUARE 409051",
+      "postal_code": "409051",
+      "coordinates": {
+        "lat": 1.3188,
+        "lng": 103.8926
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+      "certificate_number": "EERX20040011371",
+      "name": "BURGER KING",
+      "address": "216 ANG MO KIO AVENUE 4 #01-01 KEBUN BARU COMMUNITY CLUB 569897",
+      "postal_code": "569897",
+      "coordinates": {
+        "lat": 1.373,
+        "lng": 103.8376
       },
       "scheme": {
         "id": 100,
@@ -89215,6 +91186,30 @@
       "logo_url": null
     },
     {
+      "id": "95225d98-c5b7-4e0f-bba1-c8fb7b44521a",
+      "certificate_number": "EESB26040000055",
+      "name": "Udon Sama",
+      "address": "33 SENGKANG WEST AVENUE #B1-K19 SHAW THEATRES SELETAR 797653",
+      "postal_code": "797653",
+      "coordinates": {
+        "lat": 1.3914,
+        "lng": 103.8762
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
       "certificate_number": "EESB26040000057",
       "name": "TENDERFRESH XPRESS",
@@ -90472,6 +92467,30 @@
       "logo_url": null
     },
     {
+      "id": "dc7265a9-393f-4352-b7fc-643c969a5f01",
+      "certificate_number": "EESB26090000010",
+      "name": "Ritz Apple Strudel",
+      "address": "17 PETIR ROAD #B2-K2 HILLION MALL 678278",
+      "postal_code": "678278",
+      "coordinates": {
+        "lat": 1.3784,
+        "lng": 103.7631
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 1,
+        "name": "Virtual Brand"
+      },
+      "logo_url": null
+    },
+    {
       "id": "ee4dc241-8cef-404a-b69d-58f28f77e2b7",
       "certificate_number": "EESC20220000334",
       "name": "Staff Canteen Stall @ PPHG Beach Road (Mngd by The Wok People)",
@@ -91405,6 +93424,54 @@
       "logo_url": null
     },
     {
+      "id": "8679eb6b-6b90-4997-bbac-925f4b66f0d2",
+      "certificate_number": "EESC20250000672",
+      "name": "Staff Cafeteria @ Wyeth Nutritionals (S) Pte Ltd (Managed By The Wok People)",
+      "address": "1 TUAS SOUTH AVENUE 4 TUAS BIOMEDICAL PARK I 637609",
+      "postal_code": "637609",
+      "coordinates": {
+        "lat": 1.3075,
+        "lng": 103.6356
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "372e2899-ad11-41c4-8bca-4a60657080c1",
+      "certificate_number": "EESC20250000764",
+      "name": "La-Kopi/Kampong Shiok & Sedap @ SRC (Mngd By Pro*3 Institutional Catering PL)",
+      "address": "1 MERLIMAU ROAD 628260",
+      "postal_code": "628260",
+      "coordinates": {
+        "lat": 1.2816,
+        "lng": 103.714
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "7151500f-84b5-4994-a6a6-51b3b0278f89",
       "certificate_number": "EESC20250000771",
       "name": "Staff Canteen @ Vantive Manufacturing Pte Ltd (Mgd by Alpine Spring Catering Pte. Ltd.)",
@@ -92126,6 +94193,30 @@
       "certificate_number": "EEST26090000012",
       "name": "COPPER CHIMNEY",
       "address": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL 5336 038975",
+      "postal_code": "038975",
+      "coordinates": {
+        "lat": 1.2914,
+        "lng": 103.8639
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 107,
+        "name": "Short Term Stall(Bazaar/Road Shows)"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "90b83324-363a-4406-9afa-08b19b67522d",
+      "certificate_number": "EEST26090000021",
+      "name": "4FINGERS CRISPY CHICKEN",
+      "address": "Formula 1 Singapore Airlines Singapore Grand Prix 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL2346 038975",
       "postal_code": "038975",
       "coordinates": {
         "lat": 1.2914,
@@ -93012,7 +95103,7 @@
     {
       "id": "b07b6296-5776-499c-a406-a5001d34f2c4",
       "certificate_number": "FPCA20240000140",
-      "name": "GANDHI RESTAURANT",
+      "name": "Hungry Indian",
       "address": "29/31 CHANDER ROAD 219537",
       "postal_code": "219537",
       "coordinates": {
@@ -93028,8 +95119,8 @@
         "name": "Catering Company"
       },
       "type": {
-        "id": 0,
-        "name": "Default"
+        "id": 1,
+        "name": "Virtual Brand"
       },
       "logo_url": null
     },
@@ -98803,6 +100894,27 @@
       "logo_url": null
     },
     {
+      "id": "2c5e9466-3869-4368-bc56-eb79d438fbb7",
+      "certificate_number": "FPCK26080000079",
+      "name": "Kitchen @ Lentor Health NH HGG (Mngd by the Lentor Residence PL)",
+      "address": "11 HOUGANG STREET 13 Level 07 LENTOR HEALTH NURSING HOME (HOUGANG) 536221",
+      "postal_code": "536221",
+      "coordinates": null,
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 201,
+        "name": "Central Kitchen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "e1ced1ee-4ec8-4fa2-9922-0a7370bc02f0",
       "certificate_number": "FPCK26080000082",
       "name": "The Dajie Kitchen",
@@ -99147,6 +101259,30 @@
       "coordinates": {
         "lat": 1.3043,
         "lng": 103.8239
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 201,
+        "name": "Central Kitchen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "04be4005-48a9-4014-b9dc-e64a80896f3a",
+      "certificate_number": "FPCN21030001498",
+      "name": "EATZI GOURMET PTE LTD (Bakery)",
+      "address": "123 DEFU LANE 10 #04-04 JACK'S PLACE BUILDING 539232",
+      "postal_code": "539232",
+      "coordinates": {
+        "lat": 1.3569,
+        "lng": 103.8932
       },
       "scheme": {
         "id": 200,
@@ -100267,6 +102403,30 @@
       "logo_url": null
     },
     {
+      "id": "0f08d6fd-64d9-46a7-ac98-375653ee153b",
+      "certificate_number": "FPCN21110001620",
+      "name": "HANIS (F&B) PTE. LTD",
+      "address": "1 SENOKO AVENUE #02-07/08 FOODAXIS @ SENOKO 758297",
+      "postal_code": "758297",
+      "coordinates": {
+        "lat": 1.4643,
+        "lng": 103.8113
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 201,
+        "name": "Central Kitchen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "87c24273-eab3-4814-b4fc-336246c8cd74",
       "certificate_number": "FPCN21110001621",
       "name": "The Royals (Premium Cakes) Pte Ltd",
@@ -101211,6 +103371,30 @@
       "coordinates": {
         "lat": 1.3163,
         "lng": 103.635
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "7c6a7411-9dd6-4fd8-803f-ee91487afc4f",
+      "certificate_number": "FPGN21030001518",
+      "name": "EATZI GOURMET PTE LTD (Catering)",
+      "address": "123 DEFU LANE 10 #03-07 JACK'S PLACE BUILDING 539232",
+      "postal_code": "539232",
+      "coordinates": {
+        "lat": 1.3569,
+        "lng": 103.8932
       },
       "scheme": {
         "id": 200,
