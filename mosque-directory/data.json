@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Mosque Directory",
     "source_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/",
-    "last_scraped": "2026-07-27",
-    "last_checked": "2026-09-20T23:40:25.877Z",
+    "last_scraped": "2026-09-22",
+    "last_checked": "2026-09-22T00:21:41.157Z",
     "total_count": 70
   },
   "mosques": [
@@ -28,22 +28,12 @@
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-aleem-siddique/"
     },
     {
-      "slug": "abdul-gafoor",
-      "name": "Abdul Gafoor",
-      "address": "41 Dunlop Street Singapore 209369",
-      "postal_code": "209369",
       "district": "South",
-      "phone": "62954209",
-      "email": "info@abdgafoor.mosque.org.sg",
-      "website": null,
-      "description": "Originally built in 1859, this masjid with its unique architecture has earned the distinction as one of Singapore's national monuments. It has an unabashed mélange of styles – a mix of Southern Indian, Moghul and Europeans influences. Located in the Central part of Singapore, it has since been redeveloped (re-opened in 1998) with a capacity of 3000 and offers madrasah classes in Tamil besides its usual religious classes.",
-      "features": [],
       "coordinates": {
         "lat": 1.30448398785878,
         "lng": 103.85368950305
       },
       "logo_url": "mosque-directory/logos/abdul-gafoor.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-gafoor/",
       "instagram_url": "https://www.instagram.com/masjidabdulgafoorsg/",
       "nearest_mrt": [
         {
@@ -60,7 +50,17 @@
           ],
           "note": "5 min walk (350 m)"
         }
-      ]
+      ],
+      "slug": "abdul-gafoor",
+      "name": "Abdul Gafoor",
+      "address": "41 Dunlop Street Singapore 209369",
+      "postal_code": "209369",
+      "phone": "62954209",
+      "email": "salam@masjidabdulgafoor.sg",
+      "website": null,
+      "description": "Originally built in 1859, this masjid with its unique architecture has earned the distinction as one of Singapore's national monuments. It has an unabashed mélange of styles – a mix of Southern Indian, Moghul and Europeans influences. Located in the Central part of Singapore, it has since been redeveloped (re-opened in 1998) with a capacity of 3000 and offers madrasah classes in Tamil besides its usual religious classes.",
+      "features": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-gafoor/"
     },
     {
       "slug": "abdul-hamid-kampung-pasiran",
@@ -1719,26 +1719,12 @@
       "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sallim-mattar/"
     },
     {
-      "slug": "sultan",
-      "name": "Sultan",
-      "address": "3 Muscat Street Singapore 198833",
-      "postal_code": "198833",
       "district": "South",
-      "phone": "62934405",
-      "email": "info@tentera.mosque.org.sg",
-      "website": "http://sultanmosque.sg/",
-      "description": "Built during colonial times, this old generation masjid has been gazetted as a national monument. Built in 1824, it was one of the first few masjids to be built on the island. It was later rebuilt in 1920 by Swan and Maclaren who were responsible for Singapore’s other important landmarks. The masjid is a mix of Classical, Persian, Moorish and Turkish themes that form what is known as the Islamic Saracenic style. Located in the Central, it has a capacity of 2000 people and is one of the most frequented prayer venue.",
-      "features": [
-        "Zakat Collection Centre",
-        "Barrier-free features",
-        "Social Development Mosque (for MUIS Social Assistance)"
-      ],
       "coordinates": {
         "lat": 1.30223751221197,
         "lng": 103.859004270375
       },
       "logo_url": "mosque-directory/logos/sultan.png",
-      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sultan/",
       "instagram_url": "https://www.instagram.com/masjidsultan/",
       "nearest_mrt": [
         {
@@ -1749,7 +1735,21 @@
           ],
           "note": "5 min walk (350 m)"
         }
-      ]
+      ],
+      "slug": "sultan",
+      "name": "Sultan",
+      "address": "3 Muscat Street Singapore 198833",
+      "postal_code": "198833",
+      "phone": "62934405",
+      "email": "info@sultan.mosque.sg",
+      "website": "http://sultanmosque.sg/",
+      "description": "Built during colonial times, this old generation masjid has been gazetted as a national monument. Built in 1824, it was one of the first few masjids to be built on the island. It was later rebuilt in 1920 by Swan and Maclaren who were responsible for Singapore’s other important landmarks. The masjid is a mix of Classical, Persian, Moorish and Turkish themes that form what is known as the Islamic Saracenic style. Located in the Central, it has a capacity of 2000 people and is one of the most frequented prayer venue.",
+      "features": [
+        "Zakat Collection Centre",
+        "Barrier-free features",
+        "Social Development Mosque (for MUIS Social Assistance)"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sultan/"
     },
     {
       "slug": "tasek-utara",
