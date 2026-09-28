@@ -2,7 +2,7 @@
   "meta": {
     "source": "MUIS IECP Directory",
     "source_url": "https://www.muis.gov.sg/education/asatizah-development/asatizah-recognition-scheme/iecp-directory/",
-    "last_scraped": "2026-09-26",
+    "last_scraped": "2026-09-28",
     "muis_last_updated": null,
     "total_count": 478,
     "breakdown": {
@@ -10,7 +10,7 @@
       "madrasahs": 12,
       "other_centres": 394
     },
-    "last_checked": "2026-09-26T23:59:56.783Z"
+    "last_checked": "2026-09-28T00:05:27.639Z"
   },
   "iecps": [
     {
