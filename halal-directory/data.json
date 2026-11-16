@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Halal Certified Establishments",
     "source_url": "https://halal.muis.gov.sg/halal/establishments",
-    "last_scraped": "2026-11-09",
-    "total_count": 4586
+    "last_scraped": "2026-11-16",
+    "total_count": 4638
   },
   "establishments": [
     {
@@ -3703,6 +3703,30 @@
       "logo_url": null
     },
     {
+      "id": "72a7576a-da71-424a-8f8f-c8e15583f131",
+      "certificate_number": "EEBN21110012907",
+      "name": "Ayam Penyet President Express",
+      "address": "1187 UPPER SERANGOON ROAD #01-17 THE MIDTOWN 533971",
+      "postal_code": "533971",
+      "coordinates": {
+        "lat": 1.3705,
+        "lng": 103.8953
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
       "certificate_number": "EEBN21110012909",
       "name": "STUFF'D",
@@ -6350,30 +6374,6 @@
       "postal_code": "738099",
       "coordinates": {
         "lat": 1.436,
-        "lng": 103.786
-      },
-      "scheme": {
-        "id": 100,
-        "name": "Eating Establishment"
-      },
-      "sub_scheme": {
-        "id": 108,
-        "name": "Snack Bar / Bakery"
-      },
-      "type": {
-        "id": 0,
-        "name": "Default"
-      },
-      "logo_url": null
-    },
-    {
-      "id": "92f90956-de91-43bc-915e-12b8de4ff829",
-      "certificate_number": "EEBN22020013132",
-      "name": "SWEE HENG 1989 CLASSIC",
-      "address": "6 WOODLANDS SQUARE #B2-09 WOODS SQUARE 737737",
-      "postal_code": "737737",
-      "coordinates": {
-        "lat": 1.4351,
         "lng": 103.786
       },
       "scheme": {
@@ -9598,6 +9598,54 @@
       "logo_url": null
     },
     {
+      "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+      "certificate_number": "EEFK26110000027",
+      "name": "READY TO EAT CORNER",
+      "address": "590 SEMBAWANG ROAD @ Cold Storage on the Go ESSO SEMBAWANG B 758450",
+      "postal_code": "758450",
+      "coordinates": {
+        "lat": 1.4404,
+        "lng": 103.8251
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 104,
+        "name": "Food Kiosk"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+      "certificate_number": "EEFK26110000055",
+      "name": "READY TO EAT CORNER",
+      "address": "650 DUNEARN ROAD ESSO SERVICE STATION 289630",
+      "postal_code": "289630",
+      "coordinates": {
+        "lat": 1.3311,
+        "lng": 103.7988
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 104,
+        "name": "Food Kiosk"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "93bbf601-5fc9-4d4d-900e-9b861e7f2d05",
       "certificate_number": "EEFN21030011529",
       "name": "Staff Cafeteria @ Chevron (mngd by PRO*3 Institutional Catering)",
@@ -9630,6 +9678,30 @@
       "coordinates": {
         "lat": 1.3473,
         "lng": 103.9681
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "08728fc1-e0bc-452f-ad60-7d4873b4f35c",
+      "certificate_number": "EEFN21060012259",
+      "name": "Our Cafe @ Shangri-La",
+      "address": "22 ORANGE GROVE ROAD 01 SHANGRI-LA HOTEL 258350",
+      "postal_code": "258350",
+      "coordinates": {
+        "lat": 1.3112,
+        "lng": 103.8268
       },
       "scheme": {
         "id": 100,
@@ -11623,6 +11695,30 @@
       "logo_url": null
     },
     {
+      "id": "35173000-643c-4dfc-87b1-f002eb9d90bc",
+      "certificate_number": "EEHK20220000937",
+      "name": "Munchi Pancakes(S4) @ Fernvale Hawker Centre.",
+      "address": "21 SENGKANG WEST AVENUE #03-04 FERNVALE POINT 797650",
+      "postal_code": "797650",
+      "coordinates": {
+        "lat": 1.3917,
+        "lng": 103.877
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "b0de2a96-d0a7-410c-98fb-a0114e4a314b",
       "certificate_number": "EEHK20220000942",
       "name": "CHOPS! GRILL & SIDES",
@@ -12625,6 +12721,27 @@
       "logo_url": null
     },
     {
+      "id": "9a7d32bd-1926-4197-81eb-235a3102e455",
+      "certificate_number": "EEHK20230000672",
+      "name": "97 NASI LEMAK (S3) @Senja Hawker Centre",
+      "address": "2 SENJA CLOSE #02-03, (Stall 3) 677632",
+      "postal_code": "677632",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "14ff1802-3045-46fe-979f-68ea7662099e",
       "certificate_number": "EEHK20230000705",
       "name": "ABANG GEMUK (S2) @ COFFEESHOP 506 BUKIT BATOK",
@@ -13569,6 +13686,30 @@
       "coordinates": {
         "lat": 1.3507,
         "lng": 103.72
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "429cdf86-ad49-4f09-b1a8-76f6be789a7f",
+      "certificate_number": "EEHK20230001017",
+      "name": "Good Day Cafe (S21) @ Makan Place Ngee Ann Polytechnic",
+      "address": "535 CLEMENTI ROAD #02-02 NGEE ANN POLYTECHNIC (BLK 51), Stall 21 599489",
+      "postal_code": "599489",
+      "coordinates": {
+        "lat": 1.3328,
+        "lng": 103.7746
       },
       "scheme": {
         "id": 100,
@@ -14908,6 +15049,27 @@
         "lat": 1.3735,
         "lng": 103.9516
       },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "0a61c40a-29e4-4dcb-96b4-f67a5dd2ae4c",
+      "certificate_number": "EEHK20240000327",
+      "name": "MUNCHI PANCAKES (S36) @ ONE PUNGGOL HAWKER CENTRE",
+      "address": "1 PUNGGOL DRIVE #02-36 ONE PUNGGOL 828629",
+      "postal_code": "828629",
+      "coordinates": null,
       "scheme": {
         "id": 100,
         "name": "Eating Establishment"
@@ -17292,6 +17454,30 @@
       "coordinates": {
         "lat": 1.3134,
         "lng": 103.7649
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "a7b4c11b-0acd-4965-81d5-9bf386c266bb",
+      "certificate_number": "EEHK20240001042",
+      "name": "97 NASI LEMAK (S33) @ ANCHORVALE VILLAGE HAWKER CENTRE",
+      "address": "339 ANCHORVALE ROAD #02-33 540339",
+      "postal_code": "540339",
+      "coordinates": {
+        "lat": 1.3968,
+        "lng": 103.8884
       },
       "scheme": {
         "id": 100,
@@ -20929,6 +21115,30 @@
       "logo_url": null
     },
     {
+      "id": "a610d000-8965-4351-8723-e13a36a506c0",
+      "certificate_number": "EEHK20250000866",
+      "name": "Soyo-Soyo (Japanese Casual Dining)",
+      "address": "2 ANG MO KIO DRIVE CENTRAL DELIGHTS FOODCOURT, STALL 4 #04-11 ITE COLLEGE CENTRAL 567720",
+      "postal_code": "567720",
+      "coordinates": {
+        "lat": 1.3777,
+        "lng": 103.8564
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "00fde22a-2151-47ec-92ac-4db5b3b55eed",
       "certificate_number": "EEHK20250000867",
       "name": "WONG WONG CRISPY CURRY PUFF",
@@ -21091,6 +21301,30 @@
       "logo_url": null
     },
     {
+      "id": "ab9a7aa1-fb00-4ede-a9c3-9100b7e51b95",
+      "certificate_number": "EEHK25100000039",
+      "name": "Jiak Papa Handmade Noodle",
+      "address": "1 WOODLANDS SQUARE #07-03(A) CAUSEWAY POINT 738099",
+      "postal_code": "738099",
+      "coordinates": {
+        "lat": 1.436,
+        "lng": 103.786
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "3141001b-e290-404b-a0be-d068c5578079",
       "certificate_number": "EEHK25100000040",
       "name": "EVERTOP",
@@ -21171,6 +21405,54 @@
       "coordinates": {
         "lat": 1.3854,
         "lng": 103.7443
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f1c6eecf-4e4e-4ee1-acba-c4c4b78312b8",
+      "certificate_number": "EEHK25100000066",
+      "name": "Hebat Ayam Penyet",
+      "address": "1 HARBOURFRONT WALK (S23) at Kopitiam Food Hall Vivo City #B2-40 VIVOCITY, STALL 23, KOPITIAM FOOD HALL 098585",
+      "postal_code": "098585",
+      "coordinates": {
+        "lat": 1.2642,
+        "lng": 103.8224
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "f1c6eecf-4e4e-4ee1-acba-c4c4b78312b8",
+      "certificate_number": "EEHK25100000067",
+      "name": "Hebat Ayam Penyet",
+      "address": "2 TAMPINES CENTRAL 5 MR3@The Food Market Century Square #03-19 CENTURY SQUARE (MR3) 529509",
+      "postal_code": "529509",
+      "coordinates": {
+        "lat": 1.3524,
+        "lng": 103.9438
       },
       "scheme": {
         "id": 100,
@@ -22215,6 +22497,30 @@
       "coordinates": {
         "lat": 1.3576,
         "lng": 103.7342
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "788e57cb-554e-425d-92bd-d04bbe468b27",
+      "certificate_number": "EEHK25120000079",
+      "name": "SOYO-SOYO (JAPANESE CASUAL DINING)",
+      "address": "21 LOWER KENT RIDGE ROAD NATIONAL UNIVERSITY OF SINGAPORE, STALL 6, FRONTIER CANTEEN 119077",
+      "postal_code": "119077",
+      "coordinates": {
+        "lat": 1.2968,
+        "lng": 103.7795
       },
       "scheme": {
         "id": 100,
@@ -31105,6 +31411,30 @@
       "logo_url": null
     },
     {
+      "id": "d6cb1d82-90bc-48f9-ac87-29a10d09df0e",
+      "certificate_number": "EEHK26100000166",
+      "name": "Fitra Chicken Rice",
+      "address": "23 SERANGOON CENTRAL #04-36/37, MR4, FOOD JUNCTION 556083",
+      "postal_code": "556083",
+      "coordinates": {
+        "lat": 1.3507,
+        "lng": 103.8719
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
       "certificate_number": "EEHK26100000169",
       "name": "NENE CHICKEN",
@@ -31209,6 +31539,195 @@
       "coordinates": {
         "lat": 1.4435,
         "lng": 103.8303
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "67737a6c-4b47-4790-b474-593298fcb313",
+      "certificate_number": "EEHK26110000050",
+      "name": "97 NASI LEMAK",
+      "address": "211 LORONG 8 TOA PAYOH #01-01, MR2, BK 211 TOA PAYOH 310211",
+      "postal_code": "310211",
+      "coordinates": {
+        "lat": 1.3404,
+        "lng": 103.8538
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "70ce8025-9286-488e-9f42-fc180b4dbc3d",
+      "certificate_number": "EEHK26110000051",
+      "name": "Jiak Papa Ban Mian.Fish Soup",
+      "address": "1 NORTHPOINT DRIVE #02-101 NORTHPOINT CITY, Bagus Food Hall (MR2) 768019",
+      "postal_code": "768019",
+      "coordinates": {
+        "lat": 1.4279,
+        "lng": 103.8362
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "67737a6c-4b47-4790-b474-593298fcb313",
+      "certificate_number": "EEHK26110000052",
+      "name": "97 NASI LEMAK",
+      "address": "51 OLD AIRPORT ROAD #01-096/097 OLD AIRPORT ROAD HAWKERS’ CENTRE 390051",
+      "postal_code": "390051",
+      "coordinates": {
+        "lat": 1.3082,
+        "lng": 103.8858
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "a10b29f1-c39b-43a1-a68e-71ee90ed4739",
+      "certificate_number": "EEHK26110000056",
+      "name": "INDO 6 EXPRESS",
+      "address": "5 HOSPITAL DRIVE #02-01 NATIONAL HEART CENTRE SINGAPORE, Bagus, Stall 1 169609",
+      "postal_code": "169609",
+      "coordinates": {
+        "lat": 1.2786,
+        "lng": 103.8361
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "42b5577d-a16b-49e8-a23b-2ae908db337c",
+      "certificate_number": "EEHK26110000057",
+      "name": "Happy Nasi Ayam",
+      "address": "533 BISHAN STREET 14 Stall 6, Maxim Towkay Kopitiam #01-01 BISHAN RIDGES 570533",
+      "postal_code": "570533",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "4ceb31b9-de73-4d40-a467-f4b25fa62b0b",
+      "certificate_number": "EEHK26110000058",
+      "name": "Krispi Chinese Roti . Dumpling",
+      "address": "17 PETIR ROAD MR2, Kopitiam Food Hall #02-15,#02-16,#02-17,#02-18,#02-19,#02-20 HILLION MALL 678278",
+      "postal_code": "678278",
+      "coordinates": {
+        "lat": 1.3784,
+        "lng": 103.7631
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "a610d000-8965-4351-8723-e13a36a506c0",
+      "certificate_number": "EEHK26110000060",
+      "name": "Soyo-Soyo (Japanese Casual Dining)",
+      "address": "10 SIMEI AVENUE East Gourmet Foodcourt #02-33 ITE COLLEGE EAST, Stall 6 486047",
+      "postal_code": "486047",
+      "coordinates": {
+        "lat": 1.3339,
+        "lng": 103.9552
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "ccb3160c-1e45-438b-82f5-ba8ace232b95",
+      "certificate_number": "EEHK26110000061",
+      "name": "Kiap Kiap Mala",
+      "address": "10 SIMEI AVENUE East Delights Foodcourt #A01-05-05 ITE COLLEGE EAST 486047",
+      "postal_code": "486047",
+      "coordinates": {
+        "lat": 1.3339,
+        "lng": 103.9552
       },
       "scheme": {
         "id": 100,
@@ -46903,6 +47422,78 @@
       "logo_url": null
     },
     {
+      "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+      "certificate_number": "EERN21100012945",
+      "name": "AYAM PENYET PRESIDENT",
+      "address": "930 YISHUN AVENUE 2 #B1-54 NORTHPOINT 769098",
+      "postal_code": "769098",
+      "coordinates": {
+        "lat": 1.4296,
+        "lng": 103.836
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+      "certificate_number": "EERN21100012950",
+      "name": "AYAM PENYET PRESIDENT",
+      "address": "445 BEDOK NORTH STREET 1 #01-07 DJITSUN MALL BEDOK 469661",
+      "postal_code": "469661",
+      "coordinates": {
+        "lat": 1.3261,
+        "lng": 103.9296
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+      "certificate_number": "EERN21110012954",
+      "name": "AYAM PENYET PRESIDENT",
+      "address": "2 TAMPINES CENTRAL 5 #B1-20 CENTURY SQUARE 529509",
+      "postal_code": "529509",
+      "coordinates": {
+        "lat": 1.3524,
+        "lng": 103.9438
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "0eba80fe-455a-4a49-913b-afe19aa678af",
       "certificate_number": "EERN21110012955",
       "name": "FOOD FEST",
@@ -60463,6 +61054,30 @@
       "logo_url": null
     },
     {
+      "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+      "certificate_number": "EERT20230000938",
+      "name": "AYAM PENYET PRESIDENT",
+      "address": "3151 COMMONWEALTH AVENUE WEST #01-19/23 GRANTRAL MALL @ CLEMENTI 129581",
+      "postal_code": "129581",
+      "coordinates": {
+        "lat": 1.3142,
+        "lng": 103.7651
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "80455c0a-abb7-4cac-afed-04258d5605f2",
       "certificate_number": "EERT20230000950",
       "name": "Mamma Mia !",
@@ -62176,6 +62791,30 @@
       "logo_url": "https://halal.muis.gov.sg/api/halal/icon/66f2cb1e-722d-4f55-96e8-8afe7874907c"
     },
     {
+      "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+      "certificate_number": "EERT20240000042",
+      "name": "AYAM PENYET PRESIDENT",
+      "address": "1 PASIR RIS CENTRAL STREET 3 #03-06/K03 518457",
+      "postal_code": "518457",
+      "coordinates": {
+        "lat": 1.3724,
+        "lng": 103.9498
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
       "certificate_number": "EERT20240000045",
       "name": "Yakiniku Shokudo",
@@ -62414,6 +63053,27 @@
         "name": "Default"
       },
       "logo_url": "https://halal.muis.gov.sg/api/halal/icon/66f2cb1e-722d-4f55-96e8-8afe7874907c"
+    },
+    {
+      "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+      "certificate_number": "EERT20240000090",
+      "name": "AYAM PENYET PRESIDENT",
+      "address": "1 NORTH COAST AVENUE #01-03 1 NORTH COAST 737663",
+      "postal_code": "737663",
+      "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
     },
     {
       "id": "2de1e03b-b6ec-4f20-9374-6d079e192450",
@@ -62709,6 +63369,30 @@
       "coordinates": {
         "lat": 1.3205,
         "lng": 103.8633
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "0df5aca2-e319-4f92-8fa9-9f44ed9a02a9",
+      "certificate_number": "EERT20240000165",
+      "name": "97 NASI LEMAK",
+      "address": "16 RAFFLES QUAY #B1-31/32 HONG LEONG BUILDING 048581",
+      "postal_code": "048581",
+      "coordinates": {
+        "lat": 1.2814,
+        "lng": 103.8509
       },
       "scheme": {
         "id": 100,
@@ -65608,6 +66292,30 @@
       "address": "7 PASIR RIS CENTRAL #B2-37 519612",
       "postal_code": "519612",
       "coordinates": null,
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "86ffcf77-760d-4500-bc5b-ba219a8d726a",
+      "certificate_number": "EERT20240000948",
+      "name": "Good Day Cafe",
+      "address": "11 LOWER KENT RIDGE ROAD #01-02 NUS MEDICAL-SCIENCE LIBRARY 119083",
+      "postal_code": "119083",
+      "coordinates": {
+        "lat": 1.2969,
+        "lng": 103.7818
+      },
       "scheme": {
         "id": 100,
         "name": "Eating Establishment"
@@ -80524,6 +81232,30 @@
       "logo_url": null
     },
     {
+      "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+      "certificate_number": "EERT26100000050",
+      "name": "GELARE",
+      "address": "11 TANJONG KATONG ROAD #01-K1 KINEX 437157",
+      "postal_code": "437157",
+      "coordinates": {
+        "lat": 1.3146,
+        "lng": 103.8947
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
       "certificate_number": "EERT26100000078",
       "name": "NIKU IKU",
@@ -80604,6 +81336,30 @@
       "coordinates": {
         "lat": 1.3558,
         "lng": 103.9892
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+      "certificate_number": "EERT26100000112",
+      "name": "GELARE",
+      "address": "3 GATEWAY DRIVE #04-07 WESTGATE 608532",
+      "postal_code": "608532",
+      "coordinates": {
+        "lat": 1.3341,
+        "lng": 103.7427
       },
       "scheme": {
         "id": 100,
@@ -80860,6 +81616,54 @@
       "logo_url": null
     },
     {
+      "id": "329a90f2-60ba-4741-ae87-3bcacce139bc",
+      "certificate_number": "EERT26110000004",
+      "name": "AH NAM",
+      "address": "50 STAMFORD ROAD #01-01 SINGAPORE MANAGEMENT UNIVERSITY (LEE KONG CHIAN SCH OF BUSINESS) 178899",
+      "postal_code": "178899",
+      "coordinates": {
+        "lat": 1.2951,
+        "lng": 103.8506
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "ffb89fb5-1920-41d2-bbfe-70823d45eb60",
+      "certificate_number": "EERT26110000024",
+      "name": "Seoul Garden+",
+      "address": "12 KALLANG AVENUE #01-55/56 APERIA 339511",
+      "postal_code": "339511",
+      "coordinates": {
+        "lat": 1.3097,
+        "lng": 103.8642
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "63ced7f4-80fe-42e4-84d5-0a8f1fa9d3de",
       "certificate_number": "EERT26110000030",
       "name": "Bored Tacos",
@@ -81012,6 +81816,78 @@
       "coordinates": {
         "lat": 1.294,
         "lng": 103.8532
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+      "certificate_number": "EERT26110000046",
+      "name": "Steak 99",
+      "address": "107 NORTH BRIDGE ROAD #B2-25 FUNAN 179105",
+      "postal_code": "179105",
+      "coordinates": {
+        "lat": 1.2913,
+        "lng": 103.85
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+      "certificate_number": "EERT26110000047",
+      "name": "Steak 99",
+      "address": "83 PUNGGOL CENTRAL #01-65 WATERWAY POINT 828761",
+      "postal_code": "828761",
+      "coordinates": {
+        "lat": 1.4065,
+        "lng": 103.9021
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "aa285278-27a4-429b-b293-9dcb018e10da",
+      "certificate_number": "EERT26110000054",
+      "name": "BIBI: Modern Bibimbap / Dose Coffee",
+      "address": "5 RAFFLES PLACE #B1-62 RAFFLES PLACE MRT STATION 048618",
+      "postal_code": "048618",
+      "coordinates": {
+        "lat": 1.284,
+        "lng": 103.8515
       },
       "scheme": {
         "id": 100,
@@ -81916,6 +82792,78 @@
       "logo_url": null
     },
     {
+      "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+      "certificate_number": "EERX21100012946",
+      "name": "AYAM PENYET PRESIDENT",
+      "address": "304 ORCHARD ROAD #03-36/37 LUCKY PLAZA 238863",
+      "postal_code": "238863",
+      "coordinates": {
+        "lat": 1.3045,
+        "lng": 103.834
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+      "certificate_number": "EERX21100012948",
+      "name": "AYAM PENYET PRESIDENT",
+      "address": "17 PETIR ROAD #B2-57 & 58 HILLION MALL 678278",
+      "postal_code": "678278",
+      "coordinates": {
+        "lat": 1.3784,
+        "lng": 103.7631
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+      "certificate_number": "EERX21110012953",
+      "name": "AYAM PENYET PRESIDENT",
+      "address": "1 Stadium Place #01-23 397628",
+      "postal_code": "397628",
+      "coordinates": {
+        "lat": 1.3031,
+        "lng": 103.8731
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "5353e442-a033-4e1c-b669-513a36e89971",
       "certificate_number": "EERX21110012959",
       "name": "Prata Raya",
@@ -82316,6 +83264,30 @@
       "sub_scheme": {
         "id": 106,
         "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "86ffcf77-760d-4500-bc5b-ba219a8d726a",
+      "certificate_number": "EESB20220000040",
+      "name": "Good Day Cafe",
+      "address": "2 ANG MO KIO DRIVE #02-01 / 02 ITE COLLEGE CENTRAL BLK C 567720",
+      "postal_code": "567720",
+      "coordinates": {
+        "lat": 1.3777,
+        "lng": 103.8564
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
       },
       "type": {
         "id": 0,
@@ -85728,6 +86700,30 @@
       "coordinates": {
         "lat": 1.3387,
         "lng": 103.8717
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "c97002da-3f69-42d6-a14b-2dc3f2be5a01",
+      "certificate_number": "EESB20230000874",
+      "name": "FOUR PIZZA",
+      "address": "2 JALAN LOKAM #01-26 KENSINGTON SQUARE 537846",
+      "postal_code": "537846",
+      "coordinates": {
+        "lat": 1.3456,
+        "lng": 103.8827
       },
       "scheme": {
         "id": 100,
@@ -96619,6 +97615,30 @@
       "logo_url": null
     },
     {
+      "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+      "certificate_number": "EESB26110000002",
+      "name": "MUNCHI PANCAKES",
+      "address": "1 SENGKANG SQUARE #B1-18 COMPASS ONE 545078",
+      "postal_code": "545078",
+      "coordinates": {
+        "lat": 1.392,
+        "lng": 103.8951
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
       "certificate_number": "EESB26110000037",
       "name": "PRIMADELI",
@@ -96627,6 +97647,78 @@
       "coordinates": {
         "lat": 1.3692,
         "lng": 103.8485
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "358cba2e-e1b2-4294-9c1d-abd5964279b0",
+      "certificate_number": "EESB26110000039",
+      "name": "Pnl Boon Lay Power Nasi Lemak",
+      "address": "10 SINARAN DRIVE #B1-125 SQUARE 2 307506",
+      "postal_code": "307506",
+      "coordinates": {
+        "lat": 1.3205,
+        "lng": 103.8441
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "358cba2e-e1b2-4294-9c1d-abd5964279b0",
+      "certificate_number": "EESB26110000040",
+      "name": "Pnl Boon Lay Power Nasi Lemak",
+      "address": "1 WOODLANDS SQUARE #B1-K15 CAUSEWAY POINT 738099",
+      "postal_code": "738099",
+      "coordinates": {
+        "lat": 1.436,
+        "lng": 103.786
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "213c130b-9ed2-4237-a6fc-f9c0139c0b9d",
+      "certificate_number": "EESB26110000049",
+      "name": "Rempah by Chilli Padi",
+      "address": "12 MARINA BOULEVARD Better World Café #02-06,07,08,09 MARINA BAY FINANCIAL CENTRE 018982",
+      "postal_code": "018982",
+      "coordinates": {
+        "lat": 1.2791,
+        "lng": 103.8544
       },
       "scheme": {
         "id": 100,
@@ -98719,6 +99811,30 @@
       "logo_url": null
     },
     {
+      "id": "bd84c008-7b11-4949-8136-5d50eacf4019",
+      "certificate_number": "FPCA20220000508",
+      "name": "GOLDEN PILLOW 933 PTE. LTD.",
+      "address": "1 KAKI BUKIT ROAD 1 #05-11 ENTERPRISE ONE 415934",
+      "postal_code": "415934",
+      "coordinates": {
+        "lat": 1.3328,
+        "lng": 103.9026
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "7c323286-2e35-4be7-a384-e65d4d85c9b7",
       "certificate_number": "FPCA20220000659",
       "name": "ENAKSEDAP F&B PTE. LTD.",
@@ -100756,6 +101872,30 @@
       "logo_url": null
     },
     {
+      "id": "ef5b9e14-64b3-4f00-8852-9835e1be077f",
+      "certificate_number": "FPCA25100000016",
+      "name": "SBY FROZEN FOOD SUPPLY PTE LTD",
+      "address": "5 KAKI BUKIT ROAD 1 #05-02 EUNOS TECHNOLINK 415936",
+      "postal_code": "415936",
+      "coordinates": {
+        "lat": 1.334,
+        "lng": 103.9017
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "2a5fabf9-a7f1-4fd4-be7f-d318cf02aa32",
       "certificate_number": "FPCA25100000044",
       "name": "PREMIUM CATERING PRIVATE LTD",
@@ -101806,6 +102946,30 @@
       "logo_url": null
     },
     {
+      "id": "864f6760-128a-4143-8fae-966a3656c9ce",
+      "certificate_number": "FPCA26100000068",
+      "name": "Kindle Catering",
+      "address": "55 KIM CHUAN DRIVE #02-02 PRECISE TREE 537098",
+      "postal_code": "537098",
+      "coordinates": {
+        "lat": 1.3401,
+        "lng": 103.8919
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "f97455c4-c46f-4dee-8575-1343afb4665b",
       "certificate_number": "FPCA26100000077",
       "name": "RM Food Manufacturing Pte Ltd",
@@ -101910,6 +103074,54 @@
       "coordinates": {
         "lat": 1.308,
         "lng": 103.8508
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "43eb8c18-69de-43e5-9229-5977d2b9bfb6",
+      "certificate_number": "FPCA26110000038",
+      "name": "BOON LAY POWER NASI LEMAK PTE. LTD.",
+      "address": "15 JALAN TEPONG #01-03 JURONG FOOD HUB 619336",
+      "postal_code": "619336",
+      "coordinates": {
+        "lat": 1.3087,
+        "lng": 103.7224
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "4db33991-9a10-4da9-857a-54ebc0a82d8f",
+      "certificate_number": "FPCA26110000053",
+      "name": "L'Delicacies Pte Ltd",
+      "address": "5 MANDAI LINK #01-08/09 MANDAI FOODLINK 728654",
+      "postal_code": "728654",
+      "coordinates": {
+        "lat": 1.4097,
+        "lng": 103.7583
       },
       "scheme": {
         "id": 200,
@@ -102318,6 +103530,30 @@
       "coordinates": {
         "lat": 1.3065,
         "lng": 103.7736
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 201,
+        "name": "Central Kitchen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+      "certificate_number": "FPCK20220000808",
+      "name": "AYAM PENYET PRESIDENT",
+      "address": "25 HARPER ROAD #08-03 HARPER POINT 369683",
+      "postal_code": "369683",
+      "coordinates": {
+        "lat": 1.3343,
+        "lng": 103.8871
       },
       "scheme": {
         "id": 200,
