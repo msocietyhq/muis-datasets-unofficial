@@ -2,8 +2,8 @@
   "meta": {
     "source": "MUIS Halal Certified Establishments",
     "source_url": "https://halal.muis.gov.sg/halal/establishments",
-    "last_scraped": "2026-11-16",
-    "total_count": 4638
+    "last_scraped": "2026-11-23",
+    "total_count": 4662
   },
   "establishments": [
     {
@@ -9670,6 +9670,30 @@
       "logo_url": null
     },
     {
+      "id": "0d810eea-a5db-4f84-85d9-48364f4081f9",
+      "certificate_number": "EEFN21050012252",
+      "name": "CAFE @ TMUC (Mngd By Thomson Catering)",
+      "address": "20 TEMBUSU CRESCENT 627610",
+      "postal_code": "627610",
+      "coordinates": {
+        "lat": 1.2775,
+        "lng": 103.6667
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "1068bf89-a5fa-486c-8f39-d96494c7752f",
       "certificate_number": "EEFN21050012256",
       "name": "PULSE CAFETERIA (MNGD BY CHILLI API CATERING)",
@@ -9702,6 +9726,30 @@
       "coordinates": {
         "lat": 1.3112,
         "lng": 103.8268
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "e80a2b95-6900-4e89-b344-87556a5c5641",
+      "certificate_number": "EEFN21070012266",
+      "name": "Stall 1 @Pulau Seraya Power Stn Cafeteria-Mngd by Thomson Ctrg",
+      "address": "3 SERAYA AVENUE PULAU SERAYA POWER STATION 628209",
+      "postal_code": "628209",
+      "coordinates": {
+        "lat": 1.2804,
+        "lng": 103.7259
       },
       "scheme": {
         "id": 100,
@@ -25828,6 +25876,30 @@
       "logo_url": null
     },
     {
+      "id": "43ce6d64-696a-4f1b-8a94-6bc44f543759",
+      "certificate_number": "EEHK26050000073",
+      "name": "Wok Qi Fried Rice",
+      "address": "728 ANG MO KIO AVENUE 6 MR1 KPH1990 #01-4200 560728",
+      "postal_code": "560728",
+      "coordinates": {
+        "lat": 1.3726,
+        "lng": 103.8457
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "a57f5341-69c7-4a32-a16d-88d2e1d26cf6",
       "certificate_number": "EEHK26050000075",
       "name": "Ali's Fry N Grill Mini Wok & Western",
@@ -31159,6 +31231,27 @@
         "lat": 1.3269,
         "lng": 103.932
       },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 103,
+        "name": "Hawker"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "43ce6d64-696a-4f1b-8a94-6bc44f543759",
+      "certificate_number": "EEHK26100000148",
+      "name": "Wok Qi Fried Rice",
+      "address": "7 PASIR RIS CENTRAL #B2-17 PASIR RIS MALL, MR6, BAGUS 519612",
+      "postal_code": "519612",
+      "coordinates": null,
       "scheme": {
         "id": 100,
         "name": "Eating Establishment"
@@ -43324,6 +43417,30 @@
       "logo_url": null
     },
     {
+      "id": "937b188b-6952-4310-97e3-3d17b82279e6",
+      "certificate_number": "EERN21060012459",
+      "name": "MARI MARI",
+      "address": "802 BUKIT BATOK WEST AVENUE 5 #01-11 BUKIT GOMBAK MRT STATION 659083",
+      "postal_code": "659083",
+      "coordinates": {
+        "lat": 1.3587,
+        "lng": 103.7519
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "80c6b9e8-c4ce-4904-9d8c-d03882b21fc0",
       "certificate_number": "EERN21060012464",
       "name": "Gourmet Pizza To Go",
@@ -46774,6 +46891,30 @@
       "logo_url": null
     },
     {
+      "id": "b8858e04-0f5c-4607-ad7a-453d11a2e549",
+      "certificate_number": "EERN21080012829",
+      "name": "KUCINA ITALIAN RESTAURANT",
+      "address": "11 TANJONG KATONG ROAD #B1-09/10 ONE KM 437157",
+      "postal_code": "437157",
+      "coordinates": {
+        "lat": 1.3146,
+        "lng": 103.8947
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "5c8c651f-1277-448c-b77f-87ba9a992db9",
       "certificate_number": "EERN21080012837",
       "name": "Coffee House",
@@ -49153,7 +49294,7 @@
       "id": "7ff20024-e719-4938-b00e-547276bea89c",
       "certificate_number": "EERN21110013061",
       "name": "Poulet",
-      "address": "252 NORTH BRIDGE ROAD #B1-65/66 RAFFLES CITY SHOPPING CENTRE,#B1-65/66 179103",
+      "address": "252 NORTH BRIDGE ROAD #B1-65/66 RAFFLES CITY SHOPPING CENTRE, #B1-65/66 179103",
       "postal_code": "179103",
       "coordinates": {
         "lat": 1.294,
@@ -63007,6 +63148,30 @@
       "logo_url": "https://halal.muis.gov.sg/api/halal/icon/d69daeb8-239b-4c1d-83b7-84c716c5d4fe"
     },
     {
+      "id": "0dee7292-8637-4b6c-92f0-753411ad46ef",
+      "certificate_number": "EERT20240000077",
+      "name": "SAYBONS",
+      "address": "9 BISHAN PLACE #02-43 JUNCTION 8 579837",
+      "postal_code": "579837",
+      "coordinates": {
+        "lat": 1.3503,
+        "lng": 103.8486
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
       "certificate_number": "EERT20240000088",
       "name": "WINGSTOP",
@@ -71123,6 +71288,30 @@
       "certificate_number": "EERT20250000524",
       "name": "Tang Tea House",
       "address": "5 CHANGI VILLAGE ROAD #01-2001 500005",
+      "postal_code": "500005",
+      "coordinates": {
+        "lat": 1.3889,
+        "lng": 103.9868
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "c7d93651-e860-4e78-89d5-79d5039cb90e",
+      "certificate_number": "EERT20250000531",
+      "name": "DYNAMIC DINING HOUSE",
+      "address": "5 CHANGI VILLAGE ROAD #01-2039 500005",
       "postal_code": "500005",
       "coordinates": {
         "lat": 1.3889,
@@ -81888,6 +82077,102 @@
       "coordinates": {
         "lat": 1.284,
         "lng": 103.8515
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+      "certificate_number": "EERT26110000065",
+      "name": "Tongue Tip Lanzhou Beef Noodles",
+      "address": "8 WILKIE ROAD #01-16 WILKIE EDGE 228095",
+      "postal_code": "228095",
+      "coordinates": {
+        "lat": 1.3021,
+        "lng": 103.8495
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "6941b78e-78fa-4fa5-9739-a7b130897b4a",
+      "certificate_number": "EERT26110000068",
+      "name": "Kaka's House of Padang",
+      "address": "160 CHANGI ROAD #01-08 HEXACUBE 419728",
+      "postal_code": "419728",
+      "coordinates": {
+        "lat": 1.3167,
+        "lng": 103.9024
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "33ed0496-3129-473e-8c4a-541b4c859674",
+      "certificate_number": "EERT26110000070",
+      "name": "Omar Shariff",
+      "address": "14 GREENWOOD AVENUE HILLCREST PARK 289206",
+      "postal_code": "289206",
+      "coordinates": {
+        "lat": 1.3314,
+        "lng": 103.8069
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 106,
+        "name": "Restaurant"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "692c6c58-0429-4645-88fe-2a63e401c2d2",
+      "certificate_number": "EERT26110000076",
+      "name": "Im Qalb",
+      "address": "4 TAMPINES CENTRAL 5 #04-02 TAMPINES MALL 529510",
+      "postal_code": "529510",
+      "coordinates": {
+        "lat": 1.3526,
+        "lng": 103.9445
       },
       "scheme": {
         "id": 100,
@@ -92935,6 +93220,30 @@
       "logo_url": null
     },
     {
+      "id": "cf8884d2-7768-4545-979d-01cf67b22cf6",
+      "certificate_number": "EESB20250000814",
+      "name": "FOUR SEASONS DURIANS",
+      "address": "2 TAMPINES CENTRAL 5 #B1-30 CENTURY SQUARE 529509",
+      "postal_code": "529509",
+      "coordinates": {
+        "lat": 1.3524,
+        "lng": 103.9438
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "6dc02f81-d9ea-4cd9-879b-0d9239b917c4",
       "certificate_number": "EESB20250000825",
       "name": "PastryCo",
@@ -96745,6 +97054,30 @@
       "logo_url": null
     },
     {
+      "id": "67760be7-1a35-4c35-bd42-70e905c0dcc9",
+      "certificate_number": "EESB26080000055",
+      "name": "ORDINARY BURGERS",
+      "address": "1 LOWER KENT RIDGE ROAD #01-25 (PART OF RIGHT) NUH MEDICAL CENTRE 119082",
+      "postal_code": "119082",
+      "coordinates": {
+        "lat": 1.2932,
+        "lng": 103.7844
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
       "certificate_number": "EESB26080000062",
       "name": "DABBA STREET",
@@ -97360,6 +97693,54 @@
       "logo_url": null
     },
     {
+      "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+      "certificate_number": "EESB26100000082",
+      "name": "POLAR PUFFS & CAKES",
+      "address": "2 JURONG EAST STREET 21 #01-36 IMM BUILDING 609601",
+      "postal_code": "609601",
+      "coordinates": {
+        "lat": 1.3349,
+        "lng": 103.7468
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+      "certificate_number": "EESB26100000083",
+      "name": "POLAR PUFFS & CAKES",
+      "address": "21 TAMPINES NORTH DRIVE 2 #03 GIANT 528765",
+      "postal_code": "528765",
+      "coordinates": {
+        "lat": 1.3721,
+        "lng": 103.932
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 108,
+        "name": "Snack Bar / Bakery"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
       "certificate_number": "EESB26100000086",
       "name": "BAKEINC",
@@ -97743,6 +98124,54 @@
       "coordinates": {
         "lat": 1.2996,
         "lng": 103.8606
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "e68a17a3-3513-491c-b83e-655cb2119a30",
+      "certificate_number": "EESC20220000421",
+      "name": "Indian/Bangla/Malay Stall(S2) @ TWRP(Mngd by Thomson Catering)",
+      "address": "1 TUAS SOUTH LANE 637301",
+      "postal_code": "637301",
+      "coordinates": {
+        "lat": 1.2832,
+        "lng": 103.6381
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "083854c1-9203-4c05-b69f-7fa0ad4bbf3d",
+      "certificate_number": "EESC20220000422",
+      "name": "Western Stall (S3) @TWRP (Mngd by Thomson Catering)",
+      "address": "1 TUAS SOUTH LANE 637301",
+      "postal_code": "637301",
+      "coordinates": {
+        "lat": 1.2832,
+        "lng": 103.6381
       },
       "scheme": {
         "id": 100,
@@ -98916,6 +99345,30 @@
       "coordinates": {
         "lat": 1.3367,
         "lng": 103.9719
+      },
+      "scheme": {
+        "id": 100,
+        "name": "Eating Establishment"
+      },
+      "sub_scheme": {
+        "id": 109,
+        "name": "Staff Canteen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "93b2b940-58ed-432c-b871-33576bb42731",
+      "certificate_number": "EESC25100000128",
+      "name": "Cafe@SMAG (mngd by thomson catering)",
+      "address": "17 SAKRA ROAD 627886",
+      "postal_code": "627886",
+      "coordinates": {
+        "lat": 1.261,
+        "lng": 103.7037
       },
       "scheme": {
         "id": 100,
@@ -100696,6 +101149,30 @@
       "logo_url": null
     },
     {
+      "id": "167775b7-327e-4b5b-985d-d4fdbdea06a6",
+      "certificate_number": "FPCA20240000530",
+      "name": "SAYBONS PTE LTD",
+      "address": "20 BUKIT BATOK CRESCENT #11-21 ENTERPRISE CENTRE 658080",
+      "postal_code": "658080",
+      "coordinates": {
+        "lat": 1.3386,
+        "lng": 103.7571
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
       "id": "2daa5a46-f0e9-4090-98b9-795ee79e2d87",
       "certificate_number": "FPCA20240000533",
       "name": "Good Chef Pte Ltd",
@@ -101276,6 +101753,30 @@
       "certificate_number": "FPCA20250000076",
       "name": "KIM PARADISE PTE. LTD.",
       "address": "30B QUALITY ROAD #04-102 618826",
+      "postal_code": "618826",
+      "coordinates": {
+        "lat": 1.3291,
+        "lng": 103.709
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "58cb4690-26ec-46f6-b1a4-4016d27db927",
+      "certificate_number": "FPCA20250000096",
+      "name": "DELI HUB CATERING PTE. LTD.",
+      "address": "30B QUALITY ROAD #04-01/02 618826",
       "postal_code": "618826",
       "coordinates": {
         "lat": 1.3291,
@@ -102954,6 +103455,30 @@
       "coordinates": {
         "lat": 1.3401,
         "lng": 103.8919
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "bdd60e88-d27b-42c3-ae6b-e16662ba0983",
+      "certificate_number": "FPCA26100000074",
+      "name": "Don Play Play Pte Ltd",
+      "address": "15 JALAN TEPONG #06-10 JURONG FOOD HUB 619336",
+      "postal_code": "619336",
+      "coordinates": {
+        "lat": 1.3087,
+        "lng": 103.7224
       },
       "scheme": {
         "id": 200,
@@ -105650,6 +106175,30 @@
         "name": "Default"
       },
       "logo_url": "https://halal.muis.gov.sg/api/halal/icon/a69f35bd-3ef7-4c53-8ea4-5d22e223667c"
+    },
+    {
+      "id": "79fe1cfe-c3d9-4131-a3a8-ae3175c1bb95",
+      "certificate_number": "FPCK20250000813",
+      "name": "FOUR SEASONS DURIANS PTE LTD",
+      "address": "8A ADMIRALTY STREET #01-36 FOOD XCHANGE @ ADMIRALTY 757437",
+      "postal_code": "757437",
+      "coordinates": {
+        "lat": 1.463,
+        "lng": 103.8144
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 201,
+        "name": "Central Kitchen"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
     },
     {
       "id": "0d74158d-c5f6-4ebf-9565-da5c3aa10ccd",
@@ -109416,6 +109965,30 @@
       "coordinates": {
         "lat": 1.4148,
         "lng": 103.8311
+      },
+      "scheme": {
+        "id": 200,
+        "name": "Food Preparation Area"
+      },
+      "sub_scheme": {
+        "id": 202,
+        "name": "Catering Company"
+      },
+      "type": {
+        "id": 0,
+        "name": "Default"
+      },
+      "logo_url": null
+    },
+    {
+      "id": "63f41ce2-afba-41d8-a93a-693dce0a2a7b",
+      "certificate_number": "FPGN21100001596",
+      "name": "Thomson Catering Pte Ltd",
+      "address": "15 JALAN TEPONG #06-11 JURONG FOOD HUB 619336",
+      "postal_code": "619336",
+      "coordinates": {
+        "lat": 1.3087,
+        "lng": 103.7224
       },
       "scheme": {
         "id": 200,
